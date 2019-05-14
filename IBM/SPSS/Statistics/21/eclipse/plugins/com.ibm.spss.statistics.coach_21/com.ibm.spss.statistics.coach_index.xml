@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<index xmlns:xi="http://www.w3.org/2001/XInclude">
+<entry keyword="bar chart">
+<topic label="Bar Chart" href="statcoach_desc_categories_charts_bycat_bar.htm"/>bar chart</entry>
+<entry keyword="pie chart">
+<topic label="Pie Chart" href="statcoach_desc_categories_charts_bycat_pie.htm"/>pie chart</entry>
+<entry keyword="clustered bar chart">
+<topic label="Clustered bar chart" href="statcoach_desc_categories_charts_withincat_clustered-bar.htm"/>clustered bar chart</entry>
+<entry keyword="stacked bar chart">
+<topic label="Stacked bar chart" href="statcoach_desc_categories_charts_withincat_stacked-bar.htm"/>stacked bar chart</entry>
+<entry keyword="3D bar chart">
+<topic label="3-D bar chart" href="statcoach_desc_categories_charts_withincat_3dbar.htm"/>3D bar chart</entry>
+<entry keyword="Frequencies">
+<topic label="Descriptive statistics plus quartiles, quantiles, and percentiles" href="statcoach_desc_scale_table_freq.htm"/>Frequencies</entry>
+<entry keyword="Descriptives">
+<topic label="Descriptive statistics (except median and mode) plus z scores" href="statcoach_desc_scale_table_desc.htm"/>Descriptives<entry keyword="z scores">
+<topic label="Descriptive statistics (except median and mode) plus z scores" href="statcoach_desc_scale_table_desc.htm"/>z scores</entry>
+</entry>
+<entry keyword="z scores">
+<topic label="Descriptive statistics (except median and mode) plus z scores" href="statcoach_desc_scale_table_desc.htm"/>z scores<entry keyword="in Descriptives">
+<topic label="Descriptive statistics (except median and mode) plus z scores" href="statcoach_desc_scale_table_desc.htm"/>in Descriptives</entry>
+</entry>
+<entry keyword="Explore">
+<topic label="Descriptive statistics plus quartiles, percentiles, m-estimators, and outliers" href="statcoach_desc_scale_table_explore.htm"/>Explore<entry keyword="descriptive statistics">
+<topic label="Descriptive statistics plus quartiles, percentiles, m-estimators, and outliers" href="statcoach_desc_scale_table_explore.htm"/>descriptive statistics</entry>
+</entry>
+<entry keyword="Case Summaries">
+<topic label="Individual case listings and descriptive statistics" href="statcoach_desc_scale_table_case-listing.htm"/>Case Summaries</entry>
+<entry keyword="histogram">
+<topic label="Histogram with normal curve" href="statcoach_desc_scale_charts_hist.htm"/>histogram</entry>
+<entry keyword="boxplot">
+<topic label="Boxplot with interquartile range and outliers" href="statcoach_desc_scale_charts_boxplot.htm"/>boxplot</entry>
+<entry keyword="stem-and-leaf plot">
+<topic label="Stem-and-leaf plot" href="statcoach_desc_scale_charts_stem-leaf.htm"/>stem-and-leaf plot<entry keyword="Explore">
+<topic label="Stem-and-leaf plot" href="statcoach_desc_scale_charts_stem-leaf.htm"/>Explore</entry>
+</entry>
+<entry keyword="Explore">
+<topic label="Stem-and-leaf plot" href="statcoach_desc_scale_charts_stem-leaf.htm"/>Explore<entry keyword="stem-and-leaf plot">
+<topic label="Stem-and-leaf plot" href="statcoach_desc_scale_charts_stem-leaf.htm"/>stem-and-leaf plot</entry>
+</entry>
+<entry keyword="Explore">
+<topic label="Descriptive statistics, plus quartiles, percentiles, m-estimators, and outliers" href="statcoach_desc_scale-within_tables_explore.htm"/>Explore<entry keyword="descriptive statistics">
+<topic label="Descriptive statistics, plus quartiles, percentiles, m-estimators, and outliers" href="statcoach_desc_scale-within_tables_explore.htm"/>descriptive statistics</entry>
+</entry>
+<entry keyword="Crosstabs">
+<topic label="Descriptive statistics for categories of one variable within categories of another" href="statcoach_desc_scale-within_tables_summarize.htm"/>Crosstabs<entry keyword="descriptive statistics">
+<topic label="Descriptive statistics for categories of one variable within categories of another" href="statcoach_desc_scale-within_tables_summarize.htm"/>descriptive statistics</entry>
+</entry>
+<entry keyword="boxplot">
+<topic label="Boxplots with interquartile range and outliers" href="statcoach_desc_scale-within_charts_box.htm"/>boxplot</entry>
+<entry keyword="bar chart">
+<topic label="Bar chart of summary statistics within categories" href="statcoach_desc_scale-within_charts_bar.htm"/>bar chart</entry>
+<entry keyword="3D bar chart">
+<topic label="3-D chart of summary statistics within categories of two variables" href="statcoach_desc_scale-within_charts_3d.htm"/>3D bar chart</entry>
+<entry keyword="Frequencies">
+<topic label="Counts or percentages by category" href="statcoach_var-dist_cat_table_bycat.htm"/>Frequencies<entry keyword="frequency table">
+<topic label="Counts or percentages by category" href="statcoach_var-dist_cat_table_bycat.htm"/>frequency table</entry>
+</entry>
+<entry keyword="Case Summaries">
+<topic label="Individual case listings within categories" href="statcoach_var-dist_cat_table_case.htm"/>Case Summaries<entry keyword="case listings within categories">
+<topic label="Individual case listings within categories" href="statcoach_var-dist_cat_table_case.htm"/>case listings within categories</entry>
+</entry>
+<entry keyword="bar chart">
+<topic label="Bar chart" href="statcoach_var-dist_cat_chart_bar.htm"/>bar chart</entry>
+<entry keyword="pie chart">
+<topic label="Pie chart" href="statcoach_var-dist_cat_chart_pie.htm"/>pie chart</entry>
+<entry keyword="Frequencies">
+<topic label="Descriptive statistics plus quartiles, quantiles, and percentiles" href="statcoach_var-dist_scale_table_freq.htm"/>Frequencies<entry keyword="quantiles">
+<topic label="Descriptive statistics plus quartiles, quantiles, and percentiles" href="statcoach_var-dist_scale_table_freq.htm"/>quantiles</entry>
+<entry keyword="quartiles">
+<topic label="Descriptive statistics plus quartiles, quantiles, and percentiles" href="statcoach_var-dist_scale_table_freq.htm"/>quartiles</entry>
+<entry keyword="percentiles">
+<topic label="Descriptive statistics plus quartiles, quantiles, and percentiles" href="statcoach_var-dist_scale_table_freq.htm"/>percentiles</entry>
+</entry>
+<entry keyword="quantiles">
+<topic label="Descriptive statistics plus quartiles, quantiles, and percentiles" href="statcoach_var-dist_scale_table_freq.htm"/>quantiles<entry keyword="in Frequencies">
+<topic label="Descriptive statistics plus quartiles, quantiles, and percentiles" href="statcoach_var-dist_scale_table_freq.htm"/>in Frequencies</entry>
+</entry>
+<entry keyword="quartiles">
+<topic label="Descriptive statistics plus quartiles, quantiles, and percentiles" href="statcoach_var-dist_scale_table_freq.htm"/>quartiles<entry keyword="in Frequencies">
+<topic label="Descriptive statistics plus quartiles, quantiles, and percentiles" href="statcoach_var-dist_scale_table_freq.htm"/>in Frequencies</entry>
+</entry>
+<entry keyword="percentiles">
+<topic label="Descriptive statistics plus quartiles, quantiles, and percentiles" href="statcoach_var-dist_scale_table_freq.htm"/>percentiles<entry keyword="in Frequencies">
+<topic label="Descriptive statistics plus quartiles, quantiles, and percentiles" href="statcoach_var-dist_scale_table_freq.htm"/>in Frequencies</entry>
+</entry>
+<entry keyword="Descriptives">
+<topic label="Descriptive statistics (except median and mode) plus z scores" href="statcoach_var-dist_scale_table_desc.htm"/>Descriptives<entry keyword="z scores">
+<topic label="Descriptive statistics (except median and mode) plus z scores" href="statcoach_var-dist_scale_table_desc.htm"/>z scores</entry>
+</entry>
+<entry keyword="z scores">
+<topic label="Descriptive statistics (except median and mode) plus z scores" href="statcoach_var-dist_scale_table_desc.htm"/>z scores<entry keyword="in Descriptives">
+<topic label="Descriptive statistics (except median and mode) plus z scores" href="statcoach_var-dist_scale_table_desc.htm"/>in Descriptives</entry>
+</entry>
+<entry keyword="Explore">
+<topic label="Descriptive statistics plus quartiles, percentiles, m-estimators, and outliers" href="statcoach_var-dist_scale_table_explore.htm"/>Explore</entry>
+<entry keyword="Case Summaries">
+<topic label="Individual case listings and descriptive statistics" href="statcoach_var-dist_scale_table_summarize.htm"/>Case Summaries</entry>
+<entry keyword="histogram">
+<topic label="Histogram with normal curve" href="statcoach_var-dist_scale_chart_histogram.htm"/>histogram<entry keyword="with normal curve">
+<topic label="Histogram with normal curve" href="statcoach_var-dist_scale_chart_histogram.htm"/>with normal curve</entry>
+</entry>
+<entry keyword="boxplot">
+<topic label="Boxplot with interquartile range and outliers" href="statcoach_var-dist_scale_chart_boxplot.htm"/>boxplot</entry>
+<entry keyword="stem-and-leaf plots">
+<topic label="Stem-and-leaf plot" href="statcoach_var-dist_scale_chart_stem.htm"/>stem-and-leaf plots<entry keyword="in Explore">
+<topic label="Stem-and-leaf plot" href="statcoach_var-dist_scale_chart_stem.htm"/>in Explore</entry>
+</entry>
+<entry keyword="Explore">
+<topic label="Stem-and-leaf plot" href="statcoach_var-dist_scale_chart_stem.htm"/>Explore<entry keyword="stem-and-leaf plots">
+<topic label="Stem-and-leaf plot" href="statcoach_var-dist_scale_chart_stem.htm"/>stem-and-leaf plots</entry>
+</entry>
+<entry keyword="OLAP Cubes">
+<topic label="Create OLAP report cubes" href="statcoach_olap.htm"/>OLAP Cubes</entry>
+<entry keyword="Crosstabs">
+<topic label="Data in categories (nominal, ordinal)" href="statcoach_compare-groups_cat.htm"/>Crosstabs</entry>
+<entry keyword="One-Sample T Test">
+<topic label="One group or variable compared to a known value" href="statcoach_compare-groups_scale_one.htm"/>One-Sample T Test</entry>
+<entry keyword="Independent-Samples T Test">
+<topic label="Test that assumes data are normally distributed within groups" href="statcoach_compare-groups_scale_two-groups_one-scale_assume-normal.htm"/>Independent-Samples T Test</entry>
+<entry keyword="Two-Independent-Samples Tests">
+<topic label="Test that does not assume data are normally distributed" href="statcoach_compare-groups_scale_two-groups_one-scale_not-assume-normal.htm"/>Two-Independent-Samples Tests</entry>
+<entry keyword="histogram">
+<topic label="Check for normality of data" href="statcoach_compare-groups_scale_two-groups_one-scale_test-normality.htm"/>histogram</entry>
+<entry keyword="Paired-Samples T Test">
+<topic label="Test that assumes both variables have a normal distribution" href="statcoach_compare-groups_scale_two-groups_two-scale_assume-normal.htm"/>Paired-Samples T Test</entry>
+<entry keyword="Two-Related-Samples Tests">
+<topic label="Test that does not assume data are normally distributed" href="statcoach_compare-groups_scale_two-groups_two-scale_not-assume-normal.htm"/>Two-Related-Samples Tests</entry>
+<entry keyword="One-Way ANOVA">
+<topic label="Test that assumes data are normally distributed within groups" href="statcoach_compare-groups_scale_three-groups_one-factor_assume-normal.htm"/>One-Way ANOVA</entry>
+<entry keyword="Tests for Several Independent Samples">
+<topic label="Test that does not assume data are normally distributed" href="statcoach_compare-groups_scale_three-groups_one-factor_not-assume-normal.htm"/>Tests for Several Independent Samples</entry>
+<entry keyword="histograms">
+<topic label="Check normality of data" href="statcoach_compare-groups_scale_three-groups_one-factor_check-normal.htm"/>histograms</entry>
+<entry keyword="Univariate ANOVA">
+<topic label="Two or more (e.g., revenue for groups defined by division within each region)" href="statcoach_compare-groups_scale_three-groups_two-factor.htm"/>Univariate ANOVA</entry>
+<entry keyword="Crosstabs">
+<topic label="Data in categories (nominal, ordinal)" href="statcoach_sig-var-relationships_cat.htm"/>Crosstabs</entry>
+<entry keyword="rank-order correlations">
+<topic label="Ordinal, rank-order, or non-normal scale data" href="statcoach_sig-var-relationships_ordinal.htm"/>rank-order correlations<entry keyword="in Bivariate Correlations">
+<topic label="Ordinal, rank-order, or non-normal scale data" href="statcoach_sig-var-relationships_ordinal.htm"/>in Bivariate Correlations</entry>
+</entry>
+<entry keyword="Pearson correlations">
+<topic label="Tables and numbers" href="statcoach_sig-var-relationships_scale_two-at-time_table.htm"/>Pearson correlations<entry keyword="in Bivariate Correlations">
+<topic label="Tables and numbers" href="statcoach_sig-var-relationships_scale_two-at-time_table.htm"/>in Bivariate Correlations</entry>
+</entry>
+<entry keyword="scatterplot matrix">
+<topic label="Two or more pairs of variables" href="statcoach_sig-var-relationships_scale_two-at-time_chart_two-pair.htm"/>scatterplot matrix</entry>
+<entry keyword="Partial Correlations">
+<topic label="Two, controlling for the effects of one or more additional variables" href="statcoach_sig-var-relationships_scale_two.htm"/>Partial Correlations</entry>
+<entry keyword="3D scatterplots">
+<topic label="Exactly three" href="statcoach_sig-var-relationships_scale_three.htm"/>3D scatterplots</entry>
+<entry keyword="Linear Regression">
+<topic label="One dependent variable and two or more independent (predictor) variables" href="statcoach_sig-var-relationships_scale_pred.htm"/>Linear Regression</entry>
+<entry keyword="Ordinal Regression">
+<topic label="Ordinal dependent and scale or categorical independent variables" href="statcoach_sig-var-relationships_ord-dep.htm"/>Ordinal Regression</entry>
+<entry keyword="Hierarchical Cluster Analysis">
+<topic label="Less than 200 cases" href="statcoach_sim-cases_scale_unknonwn-groups_less200.htm"/>Hierarchical Cluster Analysis</entry>
+<entry keyword="K-Means Cluster Analysis">
+<topic label="200 or more cases" href="statcoach_sim-cases_scale_unknonwn-groups_more200.htm"/>K-Means Cluster Analysis</entry>
+<entry keyword="Discriminant Analysis">
+<topic label="Identify characteristics of known groups" href="statcoach_sim-cases_scale_known-groups.htm"/>Discriminant Analysis</entry>
+<entry keyword="TwoStep Cluster Analysis">
+<topic label="Categorical (nominal, ordinal) or a mix of scale and categorical" href="statcoach_sim-cases_cat.htm"/>TwoStep Cluster Analysis</entry>
+<entry keyword="Factor Analysis">
+<topic label="Identify groups of similar variables" href="statcoach_sim-vars.htm"/>Factor Analysis</entry>
+</index>

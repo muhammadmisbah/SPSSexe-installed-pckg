@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.2"?>
+<plugin>
+
+   <extension
+         point="org.eclipse.equinox.http.registry.resources">
+      <resource
+            alias="/help/updater"
+            base-name="/updater"
+            >
+      </resource>
+      <resource
+            alias="/updater"
+            base-name="/updater"
+            >
+      </resource>
+   </extension>
+   
+   <extension
+         point="org.eclipse.equinox.http.registry.servlets">    
+      <servlet
+      		alias="/updater/UpdateServlet"
+      		class="com.ibm.iehs.updater.servlet.UpdateServlet">
+      </servlet>    
+	   <servlet
+            alias="/updater/*.jsp"
+            class="org.eclipse.equinox.jsp.jasper.registry.JSPFactory:/updater">
+	   </servlet>	   
+   </extension>
+   <extension
+         point="org.eclipse.help.webapp.toolbarButton">
+      <contentToolbarButtons>
+         <button
+               action="loadUpdater"
+               js="updater/js/loadUpdater.js"
+               image="updater/images/update.gif"
+               name="com.ibm.iehs.updater.updateButton"
+               tooltip="%update_tip"
+               state="showupdater"
+               param="">
+         </button>
+      </contentToolbarButtons>
+   </extension>
+
+ <extension
+         point="org.eclipse.help.webapp.application"
+         name="IEHS Web Updater">
+      <centerFrameApp>
+         <application
+               contributor="updater/findExistFeature.jsp"
+               default="false">
+         </application>
+      </centerFrameApp>
+   </extension>
+   
+</plugin>

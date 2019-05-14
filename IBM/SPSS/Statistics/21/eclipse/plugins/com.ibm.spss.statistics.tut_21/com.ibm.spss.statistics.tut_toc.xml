@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<toc label="Tutorial">
+<topic label="Introduction" href="introtut2.htm">
+<topic href="introtut_sample_files.htm" label="Sample Files"/>
+<topic href="introtut5.htm" label="Opening a Data File"/>
+<topic href="introtut6.htm" label="Running an Analysis"/>
+<topic href="introtut7.htm" label="Viewing Results"/>
+<topic href="introtut8.htm" label="Creating Charts"/>
+</topic>
+<topic label="Reading Data" href="datatut_intro.htm">
+<topic href="datatut_datastructure.htm" label="Basic Structure of IBM SPSS Statistics Data Files"/>
+<topic href="datatut_spssfile.htm" label="Reading IBM SPSS Statistics Data Files"/>
+<topic href="datatut_excel.htm" label="Reading Data from Spreadsheets"/>
+<topic href="datatut_database.htm" label="Reading Data from a Database"/>
+<topic href="datatut_textfile.htm" label="Reading Data from a Text File"/>
+</topic>
+<topic label="Using the Data Editor" href="dataeditortut_intro.htm">
+<topic href="dataeditortut_numeric.htm" label="Entering Numeric Data"/>
+<topic href="dataeditortut_string.htm" label="Entering String Data"/>
+<topic href="dataeditortut_definedata.htm" label="Defining Data">
+<topic href="dataeditortut_labels.htm" label="Adding Variable Labels"/>
+<topic href="dataeditortut_type.htm" label="Changing Variable Type and Format"/>
+<topic href="dataeditortut_addnumlabel.htm" label="Adding Value Labels for Numeric Variables"/>
+<topic href="dataeditortut_addstringlabel.htm" label="Adding Value Labels for String Variables"/>
+<topic href="dataeditor_uselabels.htm" label="Using Value Labels for Data Entry"/>
+<topic href="dataeditortut_missing.htm" label="Handling Missing Data"/>
+<topic href="dataeditortut_missingnumber.htm" label="Missing Values for a Numeric Variable"/>
+<topic href="dataeditortut_missingstring.htm" label="Missing Values for a String Variable"/>
+<topic href="dataeditor_copy.htm" label="Copying and Pasting Variable Attributes"/>
+<topic href="defvars_tut.htm" label="Defining Variable Properties for Categorical Variables"/>
+</topic>
+</topic>
+<topic label="Working with Multiple Data Sources" href="multiple_datasets_intro.htm">
+<topic href="multiple_datasets_basics.htm" label="Basic Handling of Multiple Data Sources"/>
+<topic href="multiple_datasets_copy_paste.htm" label="Copying and Pasting Information between Datasets"/>
+</topic>
+<topic label="Examining Summary Statistics for Individual Variables" href="sumstats_intro.htm">
+<topic href="sumstats_measlev.htm" label="Level of Measurement"/>
+<topic href="sumstats_catvars.htm" label="Summary Measures for Categorical Data">
+<topic href="sumstats_catvars_bar.htm" label="Charts for Categorical Data"/>
+</topic>
+<topic href="sumstats_scalevars.htm" label="Summary Measures for Scale Variables">
+<topic href="sumstats_scalevars_hist.htm" label="Histograms for Scale Variables"/>
+</topic>
+</topic>
+<topic label="Crosstabulation Tables" href="bcrosstabstut_intro.htm">
+<topic href="bcrosstabstut_simple.htm" label="A Simple Crosstabulation"/>
+<topic href="bcrosstabstut_percent.htm" label="Counts vs. Percentages"/>
+<topic href="bcrosstabstut_sigtest.htm" label="Significance Testing for Crosstabulations"/>
+<topic href="bcrosstabstut_layer.htm" label="Adding a Layer Variable"/>
+</topic>
+<topic label="Creating and editing charts" href="bcharttut_intro.htm">
+<topic href="bcharttut_standard_create.htm" label="Chart creation basics">
+<topic href="bcharttut_gallery.htm" label="Using the Chart Builder gallery"/>
+<topic href="bcharttut_variables.htm" label="Defining variables and statistics"/>
+<topic href="bcharttut_optionalelements.htm" label="Adding text"/>
+<topic href="bcharttut_createfinal.htm" label="Creating the chart"/>
+</topic>
+<topic href="bcharttut_standard_edit.htm" label="Chart editing basics">
+<topic href="bcharttut_selection.htm" label="Selecting chart elements"/>
+<topic href="bcharttut_props.htm" label="Using the properties window"/>
+<topic href="bcharttut_barcolor.htm" label="Changing bar colors"/>
+<topic href="bcharttut_number.htm" label="Formatting numbers in tick labels"/>
+<topic href="bcharttut_text.htm" label="Editing text"/>
+<topic href="bcharttut_dvl.htm" label="Displaying data value labels"/>
+<topic href="bchartut_templates.htm" label="Using templates"/>
+<topic href="bcharttut_options.htm" label="Defining chart options"/>
+</topic>
+<topic href="bcharttut_otherexamples.htm" label="Other examples">
+<topic href="bcharttut_pie.htm" label="Pie chart">
+<topic href="bcharttut_title.htm" label="Adding a Chart Title"/>
+<topic href="bcharttut_cats.htm" label="Modifying chart categories"/>
+<topic href="bcharttut_dvl2.htm" label="Changing Data Value Label Content and Location"/>
+<topic href="bcharttut_convert.htm" label="Converting a Chart"/>
+</topic>
+<topic href="bcharttut_scatter.htm" label="Grouped scatterplot">
+<topic href="bcharttut_selectgrouped.htm" label="Selecting Elements in Grouped Charts"/>
+<topic href="bcharttut_fitline.htm" label="Adding a fit line"/>
+<topic href="bcharttut_dvl3.htm" label="Displaying Data Value Labels for Specific Points"/>
+</topic>
+</topic>
+</topic>
+<topic label="Working with Output" href="outputtut_intro.htm">
+<topic href="outputtut_useviewer.htm" label="Using the Viewer"/>
+<topic href="outputtut_pivottable.htm" label="Using the Pivot Table Editor">
+<topic href="outputtut_defineoutput.htm" label="Accessing Output Definitions"/>
+<topic href="outputtut_pivotatable.htm" label="Pivoting Tables"/>
+<topic href="outputtut_displaylayer.htm" label="Creating and Displaying Layers"/>
+<topic href="outputtut_edittable.htm" label="Editing Tables"/>
+<topic href="outputtut_hiderows.htm" label="Hiding Rows and Columns"/>
+<topic href="outputtut_changeformat.htm" label="Changing Data Display Formats"/>
+</topic>
+<topic href="outputtut_looksintro.htm" label="TableLooks">
+<topic href="outputtut_looksselect.htm" label="Using Predefined Formats"/>
+<topic href="outputtut_lookscustom.htm" label="Customizing TableLook Styles"/>
+<topic href="outputtut_lookschangedef.htm" label="Changing the Default Table Formats"/>
+<topic href="outputtut_lookssettings.htm" label="Customizing the Initial Display Settings"/>
+<topic href="outputut_labels.htm" label="Displaying Variable and Value Labels"/>
+</topic>
+<topic href="outputtut_export.htm" label="Using Results in Other Applications">
+<topic href="outputtut_rtf.htm" label="Pasting Results as Word Tables"/>
+<topic href="outputtut_text.htm" label="Pasting Results as Text"/>
+<topic href="outputtut_msapps.htm" label="Exporting Results to Microsoft Word, PowerPoint, and Excel Files"/>
+<topic href="export_output_pdf.htm" label="Exporting Results to PDF"/>
+<topic href="features_exportoutput_01.htm" label="Exporting Results to HTML"/>
+</topic>
+</topic>
+<topic label="Working with Syntax" href="syntax_intro.htm">
+<topic href="syntax_paste.htm" label="Pasting Syntax"/>
+<topic href="syntax_edit.htm" label="Editing Syntax"/>
+<topic href="syntax_openrun.htm" label="Opening and Running a Syntax File"/>
+<topic href="syntax_errorpane.htm" label="Understanding the Error Pane"/>
+<topic href="syntax_breakpoints.htm" label="Using Breakpoints"/>
+</topic>
+<topic label="Modifying Data Values" href="bmodvals_tut_intro.htm">
+<topic href="bmodvalstut_recode.htm" label="Creating a Categorical Variable from a Scale Variable"/>
+<topic href="bmodvalstut_compute.htm" label="Computing New Variables">
+<topic href="bmodvalstut_functions.htm" label="Using Functions in Expressions"/>
+<topic href="bmodvalstut_condexps.htm" label="Using Conditional Expressions"/>
+</topic>
+<topic href="bmodvalstut_datetime.htm" label="Working with Dates and Times">
+<topic href="bmodvalstut_datetime_subdates.htm" label="Calculating the Length of Time between Two Dates"/>
+<topic href="bmodvalstut_datetime_adddur.htm" label="Adding a Duration to a Date"/>
+</topic>
+</topic>
+<topic label="Time Saving Features" href="timesave_intro.htm">
+<topic href="timesave_dictionary.htm" label="Copying Data Properties"/>
+<topic href="displaydictionary.htm" label="Displaying Data Dictionary Information"/>
+<topic href="features_dlgrecall_01.htm" label="Dialog Recall"/>
+</topic>
+<topic label="Customizing IBM SPSS Statistics" href="customizetut_intro.htm">
+<topic href="customizetut_intro.htm" label="Customizing IBM SPSS Statistics"/>
+<topic href="customizetut_menu.htm" label="Creating Custom Menu Items"/>
+<topic href="customizetut_toolbar.htm" label="Creating Custom Toolbars"/>
+<topic href="dialogbuilder_intro.htm" label="Creating Custom Dialogs">
+<topic href="dialogbuilder_dialog_properties.htm" label="Creating a New Dialog and Specifying the Dialog Properties"/>
+<topic href="dialogbuilder_controls.htm" label="Adding Controls to Your Dialog"/>
+<topic href="dialogbuilder_syntax_template.htm" label="Building the Syntax Template"/>
+<topic href="dialogbuilder_preview.htm" label="Previewing Your Dialog"/>
+<topic href="dialogbuilder_install.htm" label="Installing Your Dialog"/>
+<topic href="dialogbuilder_share.htm" label="Sharing Your Dialog with Other Users"/>
+<topic href="dialogbuilder_save.htm" label="Saving Your Work"/>
+</topic>
+</topic>
+<topic label="Automated production" href="autotut_intro.htm">
+<topic href="autotut_use.htm" label="Creating a production job"/>
+</topic>
+<topic label="Scoring data with predictive models">
+<topic href="scoring_intro.htm" label="Introduction"/>
+<topic href="scoring_building_model.htm" label="Building a predictive model">
+<topic href="scoring_evaluate_model.htm" label="Evaluating the model"/>
+</topic>
+<topic href="scoring_applying_model.htm" label="Applying the model"/>
+</topic>
+<topic label="Getting Started with Custom Tables" href="nt_getstart.htm">
+<topic href="newtables_getstart_auto_4.htm" label="Table Structure and Terminology">
+<topic href="newtables_getstart_auto_1.htm" label="Pivot Tables"/>
+<topic href="newtables_getstart_auto_5.htm" label="Variables and Level of Measurement">
+<topic href="newtables_getstart_value_labels.htm" label="Value Labels"/>
+</topic>
+<topic href="newtables_getstart_auto_6.htm" label="Rows, Columns, and Cells"/>
+<topic href="newtables_getstart_auto_7.htm" label="Stacking"/>
+<topic href="newtables_getstart_auto_8.htm" label="Crosstabulation"/>
+<topic href="newtables_getstart_auto_9.htm" label="Nesting"/>
+<topic href="newtables_getstart_auto_10.htm" label="Layers"/>
+</topic>
+<topic href="newtables_getstart_auto_12.htm" label="Tables for Variables with Shared Categories"/>
+<topic href="newtables_getstart_auto_13.htm" label="Multiple Response Sets"/>
+<topic href="newtables_getstart_auto_14.htm" label="Totals and Subtotals">
+<topic href="newtables_getstart_auto_15.htm" label="Custom Summary Statistics for Totals"/>
+</topic>
+<topic href="newtables_getstart_auto_17.htm" label="Sample Data File"/>
+<topic href="newtables_getstart_auto_18.htm" label="Building a Table">
+<topic href="newtables_getstart_auto_19.htm" label="Opening the Custom Table Builder"/>
+<topic href="newtables_getstart_auto_20.htm" label="Selecting Row and Column Variables"/>
+<topic href="newtables_getstart_auto_21.htm" label="Inserting Totals and Subtotals"/>
+<topic href="newtables_getstart_auto_22.htm" label="Summarizing Scale Variables"/>
+</topic>
+</topic>
+</toc>

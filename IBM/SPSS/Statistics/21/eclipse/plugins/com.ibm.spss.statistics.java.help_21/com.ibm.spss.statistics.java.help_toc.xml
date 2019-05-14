@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<toc label="Integration Plug-in for Java User Guide">
+<topic label="Getting started with the Integration Plug-in for Java" href="programmability_java_guide_start.htm">
+<topic href="programmability_java_guide_start.htm" label="Getting started with the Integration Plug-in for Java">
+<topic href="programmability_java_guide_start_external.htm" label="Invoking IBM SPSS Statistics from an external Java application"/>
+<topic href="programmability_java_guide_start_extcmds.htm" label="Creating IBM SPSS Statistics extension commands in Java"/>
+</topic>
+</topic>
+<topic label="Running IBM SPSS Statistics commands">
+<topic href="programmability_java_guide_commands.htm" label="Running IBM SPSS Statistics commands (Java)"/>
+</topic>
+<topic label="Retrieving dictionary information">
+<topic href="programmability_java_guide_vardict.htm" label="Retrieving dictionary information (Java)"/>
+</topic>
+<topic label="Working with case data in the active dataset">
+<topic href="programmability_java_guide_cursors.htm" label="Working with case data in the active dataset (Java)">
+<topic href="programmability_java_guide_cursors_read.htm" label="Reading case data (Java)"/>
+<topic href="programmability_java_guide_cursors_write.htm" label="Creating new variables in the active dataset (Java)"/>
+<topic href="programmability_java_guide_cursors_append.htm" label="Appending new cases (Java)"/>
+</topic>
+</topic>
+<topic label="Retrieving output from syntax commands">
+<topic href="programmability_java_guide_getoutput.htm" label="Retrieving output from syntax commands (Java)"/>
+</topic>
+<topic label="Creating custom output">
+<topic href="programmability_java_guide_makeoutput.htm" label="Creating custom output (Java)">
+<topic href="programmability_java_guide_makeoutput_tables.htm" label="Creating pivot tables (Java)"/>
+<topic href="programmability_java_guide_makeoutput_text.htm" label="Creating text blocks (Java)"/>
+<topic href="programmability_java_guide_makeoutput_tablesextcmds.htm" label="Creating output for extension commands (Java)"/>
+</topic>
+</topic>
+<topic label="Deploying an external Java application" href="programmability_java_guide_deploy.htm"/>
+</toc>

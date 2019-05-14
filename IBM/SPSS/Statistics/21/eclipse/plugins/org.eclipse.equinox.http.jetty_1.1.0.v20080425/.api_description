@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="Jetty Http Service" version="1.1">
+    <plugin id="org.eclipse.equinox.http.jetty"/>
+    <package name="org.eclipse.equinox.http.jetty">
+        <type extend="false" instantiate="false" name="JettyConfigurator"/>
+        <type implement="false" name="JettyConstants"/>
+    </package>
+</component>

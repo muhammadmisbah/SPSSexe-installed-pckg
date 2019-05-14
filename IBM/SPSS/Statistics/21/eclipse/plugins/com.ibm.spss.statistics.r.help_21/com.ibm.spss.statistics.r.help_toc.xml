@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<toc label="Integration Plug-in for R Help">
+<topic label="How to get the IBM SPSS Statistics - Integration Plug-in for R" href="howto_get_r_plugin.htm">
+<topic href="howto_get_r_plugin.htm" label="How to get the IBM SPSS Statistics - Integration Plug-in for R"/>
+</topic>
+<topic label="Using the R Integration Package for IBM SPSS Statistics" href="r_package_intro.htm">
+<topic href="r_package_intro.htm" label="Using the R Integration Package for IBM SPSS Statistics"/>
+<topic href="r_package_blocks.htm" label="Working with R Program Blocks">
+<topic href="r_package_blocks_r_syntax.htm" label="R Syntax Rules"/>
+</topic>
+<topic href="r_package_get_dictionary.htm" label="Retrieving Variable Dictionary Information (R)"/>
+<topic href="r_package_read_data.htm" label="Reading Case Data from IBM SPSS Statistics (R)"/>
+<topic href="r_package_write_data.htm" label="Writing Results to a New IBM SPSS Statistics Dataset (R)"/>
+<topic href="r_package_pivottables.htm" label="Creating Pivot Table Output (R)"/>
+<topic href="r_package_rgraphics.htm" label="Displaying Graphical Output from R"/>
+<topic href="r_package_get_output.htm" label="Retrieving Output from Syntax Commands (R)"/>
+<topic href="r_package_blocks_localize.htm" label="Localizing Output from R">
+<topic href="r_package_blocks_localize_modifycode.htm" label="Modifying the R code"/>
+<topic href="r_package_blocks_localize_extractstrings.htm" label="Extracting translatable text"/>
+<topic href="r_package_blocks_localize_translate.htm" label="Translating the pot file"/>
+<topic href="r_package_blocks_localize_install.htm" label="Installing the mo files"/>
+</topic>
+</topic>
+<topic label="R Integration Package for IBM SPSS Statistics: Functions and Classes" href="r_package_r_functions.htm">
+<topic href="r_package_r_functions.htm" label="R Integration Package for IBM SPSS Statistics: Functions and Classes">
+<topic href="r_package_spss_basepivottable.htm" label="BasePivotTable Class (R)">
+<topic href="r_package_spss_basepivottable_general.htm" label="General Approach to Creating Pivot Tables (R)">
+<topic href="r_package_spss_basepivottable_general_dimensions.htm" label="Step 1: Adding Dimensions (R)"/>
+<topic href="r_package_spss_basepivottable_general_categories.htm" label="Step 2: Defining Categories (R)"/>
+<topic href="r_package_spss_basepivottable_general_cells.htm" label="Step 3: Setting Cell Values (R)"/>
+<topic href="r_package_spss_basepivottable_general_getitem.htm" label="Using Cell Values in Expressions (R)"/>
+</topic>
+<topic href="r_package_spss_basepivottable_methods.htm" label="BasePivotTable Methods (R)">
+<topic href="r_package_spss_basepivottable_append.htm" label="Append Method (R)"/>
+<topic href="r_package_spss_basepivottable_caption.htm" label="Caption Method (R)"/>
+<topic href="r_package_spss_basepivottable_categoryfootnotes.htm" label="CategoryFootnotes Method (R)"/>
+<topic href="r_package_spss_basepivottable_dimensionfootnotes.htm" label="DimensionFootnotes Method (R)"/>
+<topic href="r_package_spss_basepivottable_footnotes.htm" label="Footnotes Method (R)"/>
+<topic href="r_package_spss_basepivottable_getcellvalue.htm" label="GetCellValue Method (R)"/>
+<topic href="r_package_spss_basepivottable_getdefaultformatspec.htm" label="GetDefaultFormatSpec Method (R)"/>
+<topic href="r_package_spss_basepivottable_hidetitle.htm" label="HideTitle Method (R)"/>
+<topic href="r_package_spss_basepivottable_insert.htm" label="Insert Method (R)"/>
+<topic href="r_package_spss_basepivottable_setcategories.htm" label="SetCategories Method (R)"/>
+<topic href="r_package_spss_basepivottable_setcellsbycolumn.htm" label="SetCellsByColumn Method (R)"/>
+<topic href="r_package_spss_basepivottable_setcellsbyrow.htm" label="SetCellsByRow Method (R)"/>
+<topic href="r_package_spss_basepivottable_setcellvalue.htm" label="SetCellValue Method (R)"/>
+<topic href="r_package_spss_basepivottable_setdefaultformatspec.htm" label="SetDefaultFormatSpec Method (R)"/>
+<topic href="r_package_spss_basepivottable_titlefootnotes.htm" label="TitleFootnotes Method (R)"/>
+</topic>
+<topic href="r_package_celltext.htm" label="CellText Objects (R)">
+<topic href="r_package_celltext_number.htm" label="CellText.Number Class (R)"/>
+<topic href="r_package_celltext_string.htm" label="CellText.String Class (R)"/>
+<topic href="r_package_celltext_varname.htm" label="CellText.VarName Class (R)"/>
+<topic href="r_package_celltext_varvalue.htm" label="CellText.VarValue Class (R)"/>
+<topic href="r_package_celltext_tonumber.htm" label="CellText.toNumber Method (R)"/>
+<topic href="r_package_celltext_tostring.htm" label="CellText.toString Method (R)"/>
+</topic>
+<topic href="r_package_basepivottable_warnings.htm" label="Creating a Warnings Table (R)"/>
+</topic>
+<topic href="r_package_getspsspluginversion.htm" label="GetSPSSPlugInVersion Function (R)"/>
+<topic href="r_package_getspssversion.htm" label="GetSPSSVersion Function (R)"/>
+<topic href="r_package_spssdata.htm" label="spssdata Functions (R)">
+<topic href="r_package_spssdata_closedataconnection.htm" label="spssdata.CloseDataConnection Function (R)"/>
+<topic href="r_package_spssdata_getcasecount.htm" label="spssdata.GetCaseCount Function (R)"/>
+<topic href="r_package_spssdata_getdatafromspss.htm" label="spssdata.GetDataFromSPSS Function (R)"/>
+<topic href="r_package_spssdata_getdatasetlist.htm" label="spssdata.GetDataSetList Function (R)"/>
+<topic href="r_package_spssdata_getfilehandles.htm" label="spssdata.GetFileHandles Function (R)"/>
+<topic href="r_package_spssdata_getopeneddatasetlist.htm" label="spssdata.GetOpenedDataSetList Function (R)"/>
+<topic href="r_package_spssdata_getsplitdatafromspss.htm" label="spssdata.GetSplitDataFromSPSS Function (R)"/>
+<topic href="r_package_spssdata_getsplitvariablenames.htm" label="spssdata.GetSplitVariableNames Function (R)"/>
+<topic href="r_package_spssdata_islastsplit.htm" label="spssdata.IsLastSplit Function (R)"/>
+<topic href="r_package_spssdata_setdatatospss.htm" label="spssdata.SetDataToSPSS Function (R)"/>
+</topic>
+<topic href="r_package_spssdictionary.htm" label="spssdictionary Functions (R)">
+<topic href="r_package_spssdictionary_closedataset.htm" label="spssdictionary.CloseDataset Function (R)"/>
+<topic href="r_package_spssdictionary_createspssdictionary.htm" label="spssdictionary.CreateSPSSDictionary Function (R)"/>
+<topic href="r_package_spssdictionary_editcategoricaldictionary.htm" label="spssdictionary.EditCategoricalDictionary Function (R)"/>
+<topic href="r_package_spssdictionary_enddatastep.htm" label="spssdictionary.EndDataStep Function (R)"/>
+<topic href="r_package_spssdictionary_getcategoricaldictionaryfromspss.htm" label="spssdictionary.GetCategoricalDictionaryFromSPSS Function (R)"/>
+<topic href="r_package_spssdictionary_getdatafileattributenames.htm" label="spssdictionary.GetDataFileAttributeNames Function (R)"/>
+<topic href="r_package_spssdictionary_getdatafileattributes.htm" label="spssdictionary.GetDataFileAttributes Function (R)"/>
+<topic href="r_package_spssdictionary_getdictionaryfromspss.htm" label="spssdictionary.GetDictionaryFromSPSS Function (R)"/>
+<topic href="r_package_spssdictionary_getmultiresponsesetnames.htm" label="spssdictionary.GetMultiResponseSetNames Function (R)"/>
+<topic href="r_package_spssdictionary_getmultiresponseset.htm" label="spssdictionary.GetMultiResponseSet Function (R)"/>
+<topic href="r_package_spssdictionary_getusermissingvalues.htm" label="spssdictionary.GetUserMissingValues Function (R)"/>
+<topic href="r_package_spssdictionary_getvaluelabels.htm" label="spssdictionary.GetValueLabels Function (R)"/>
+<topic href="r_package_spssdictionary_getvariableattributenames.htm" label="spssdictionary.GetVariableAttributeNames Function (R)"/>
+<topic href="r_package_spssdictionary_getvariableattributes.htm" label="spssdictionary.GetVariableAttributes Function (R)"/>
+<topic href="r_package_spssdictionary_getvariablecount.htm" label="spssdictionary.GetVariableCount Function (R)"/>
+<topic href="r_package_spssdictionary_getvariableformat.htm" label="spssdictionary.GetVariableFormat Function (R)"/>
+<topic href="r_package_spssdictionary_getvariableformattype.htm" label="spssdictionary.GetVariableFormatType Function (R)"/>
+<topic href="r_package_spssdictionary_getvariablelabel.htm" label="spssdictionary.GetVariableLabel Function (R)"/>
+<topic href="r_package_spssdictionary_getvariablemeasurementlevel.htm" label="spssdictionary.GetVariableMeasurementLevel Function (R)"/>
+<topic href="r_package_spssdictionary_getvariablename.htm" label="spssdictionary.GetVariableName Function (R)"/>
+<topic href="r_package_spssdictionary_getvariabletype.htm" label="spssdictionary.GetVariableType Function (R)"/>
+<topic href="r_package_spssdictionary_getweightvariable.htm" label="spssdictionary.GetWeightVariable Function (R)"/>
+<topic href="r_package_spssdictionary_isweighting.htm" label="spssdictionary.IsWeighting Function (R)"/>
+<topic href="r_package_spssdictionary_setactive.htm" label="spssdictionary.SetActive Function (R)"/>
+<topic href="r_package_spssdictionary_setdatafileattributes.htm" label="spssdictionary.SetDataFileAttributes Function (R)"/>
+<topic href="r_package_spssdictionary_setdictionarytospss.htm" label="spssdictionary.SetDictionaryToSPSS Function (R)"/>
+<topic href="r_package_spssdictionary_setmultiresponseset.htm" label="spssdictionary.SetMultiResponseSet Function (R)"/>
+<topic href="r_package_spssdictionary_setusermissing.htm" label="spssdictionary.SetUserMissing Function (R)"/>
+<topic href="r_package_spssdictionary_setvaluelabel.htm" label="spssdictionary.SetValueLabel Function (R)"/>
+<topic href="r_package_spssdictionary_setvariableattributes.htm" label="spssdictionary.SetVariableAttributes Function (R)"/>
+</topic>
+<topic href="r_package_spsspivottable_display.htm" label="spsspivottable.Display Function (R)"/>
+<topic href="r_package_spsspkg_endprocedure.htm" label="spsspkg.EndProcedure Function (R)"/>
+<topic href="r_package_spsspkg_getoutputlanguage.htm" label="spsspkg.GetOutputLanguage Function (R)"/>
+<topic href="r_package_spsspkg_getspsslocale.htm" label="spsspkg.GetSPSSLocale Function (R)"/>
+<topic href="r_package_spsspkg_getspsspluginversion.htm" label="spsspkg.GetSPSSPlugInVersion Function (R)"/>
+<topic href="r_package_spsspkg_getspssversion.htm" label="spsspkg.GetSPSSVersion Function (R)"/>
+<topic href="r_package_spsspkg_getstatisticspath.htm" label="spsspkg.GetStatisticsPath Function (R)"/>
+<topic href="r_package_spsspkg_processcmd.htm" label="spsspkg.processcmd Function (R)"/>
+<topic href="r_package_setoutput.htm" label="spsspkg.SetOutput Function (R)"/>
+<topic href="r_package_spsspkg_setoutputlanguage.htm" label="spsspkg.SetOutputLanguage Function (R)"/>
+<topic href="r_package_spsspkg_startprocedure.htm" label="spsspkg.StartProcedure Function (R)"/>
+<topic href="r_package_spsspkg_syntax.htm" label="spsspkg.Syntax Function (R)"/>
+<topic href="r_package_spsspkg_template.htm" label="spsspkg.Template Function (R)"/>
+<topic href="r_package_spsspkg_version.htm" label="spsspkg.Version Function (R)"/>
+<topic href="r_package_spssrgraphics.htm" label="spssRGraphics Functions (R)">
+<topic href="r_package_spssrgraphics_submit.htm" label="spssRGraphics.Submit Function (R)"/>
+<topic href="r_package_spssrgraphics_setoutput.htm" label="spssRGraphics.SetOutput Function (R)"/>
+<topic href="r_package_spssrgraphics_setgraphicslabel.htm" label="spssRGraphics.SetGraphicsLabel Function (R)"/>
+</topic>
+<topic href="r_package_spssxmlworkspace.htm" label="spssxmlworkspace Functions (R)">
+<topic href="r_package_spssxmlworkspace_createxpathdictionary.htm" label="spssxmlworkspace.CreateXPathDictionary Function (R)"/>
+<topic href="r_package_spssxmlworkspace_deletexmlworkspaceobject.htm" label="spssxmlworkspace.DeleteXmlWorkspaceObject Function (R)"/>
+<topic href="r_package_spssxmlworkspace_evaluatexpath.htm" label="spssxmlworkspace.EvaluateXPath Function (R)"/>
+<topic href="r_package_spssxmlworkspace_gethandlelist.htm" label="spssxmlworkspace.GetHandleList Function (R)"/>
+</topic>
+<topic href="r_package_spss_textblock.htm" label="TextBlock Class (R)">
+<topic href="r_package_spss_textblock_append.htm" label="append Method (R)"/>
+</topic>
+</topic>
+</topic>
+</toc>

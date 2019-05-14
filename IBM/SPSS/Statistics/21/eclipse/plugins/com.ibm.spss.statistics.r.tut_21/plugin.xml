@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin provider-name="IBM" version="21" id="com.ibm.spss.statistics.r.tut" name="Working with R">
+<extension point="org.eclipse.help.toc">
+<toc primary="true" file="com.ibm.spss.statistics.r.tut_toc.xml"/>
+</extension>
+<extension point="org.eclipse.help.index">
+<index primary="true" file="com.ibm.spss.statistics.r.tut_index.xml"/>
+</extension>
+</plugin>

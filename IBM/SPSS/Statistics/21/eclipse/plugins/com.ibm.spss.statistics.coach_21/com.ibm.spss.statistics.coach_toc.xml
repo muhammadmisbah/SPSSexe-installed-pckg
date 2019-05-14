@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<toc label="Statistics Coach">
+<topic label="Statistics Coach" href="statcoach_main.htm">
+<topic href="statcoach_desc.htm" label="Summarize, describe, or present data">
+<topic href="statcoach_desc_categories.htm" label="Data in categories (nominal, ordinal)">
+<topic href="statcoach_desc_categories_tables.htm" label="Tables and numbers">
+<topic href="statcoach_desc_categories_tables_cnt-pct-bycat.htm" label="Counts or percentages by category"/>
+<topic href="statcoach_desc_categories_tables_cnt-pct-withincat.htm" label="Counts or percentages for categories of one variable within categories"/>
+<topic href="statcoach_desc_categories_tables_case-listing.htm" label="Individual case listings within categories"/>
+</topic>
+<topic href="statcoach_desc_categories_charts.htm" label="Charts and graphs">
+<topic href="statcoach_desc_categories_charts_bycat.htm" label="Counts or percentages by category">
+<topic href="statcoach_desc_categories_charts_bycat_bar.htm" label="Bar Chart"/>
+<topic href="statcoach_desc_categories_charts_bycat_pie.htm" label="Pie Chart"/>
+</topic>
+<topic href="statcoach_desc_categories_charts_withincat.htm" label="Counts or percentages for categories of one variable within categories of another variable">
+<topic href="statcoach_desc_categories_charts_withincat_clustered-bar.htm" label="Clustered bar chart"/>
+<topic href="statcoach_desc_categories_charts_withincat_stacked-bar.htm" label="Stacked bar chart"/>
+<topic href="statcoach_desc_categories_charts_withincat_3dbar.htm" label="3-D bar chart"/>
+</topic>
+</topic>
+</topic>
+</topic>
+<topic href="statcoach_desc_scale.htm" label="Scale, numeric data (interval, ratio)">
+<topic href="statcoach_desc_scale_table.htm" label="Tables and numbers">
+<topic href="statcoach_desc_scale_table_freq.htm" label="Descriptive statistics plus quartiles, quantiles, and percentiles"/>
+<topic href="statcoach_desc_scale_table_desc.htm" label="Descriptive statistics (except median and mode) plus z scores"/>
+<topic href="statcoach_desc_scale_table_explore.htm" label="Descriptive statistics plus quartiles, percentiles, m-estimators, and outliers"/>
+<topic href="statcoach_desc_scale_table_case-listing.htm" label="Individual case listings and descriptive statistics"/>
+</topic>
+<topic href="statcoach_desc_scale_charts.htm" label="Charts and graphs">
+<topic href="statcoach_desc_scale_charts_hist.htm" label="Histogram with normal curve"/>
+<topic href="statcoach_desc_scale_charts_boxplot.htm" label="Boxplot with interquartile range and outliers"/>
+<topic href="statcoach_desc_scale_charts_stem-leaf.htm" label="Stem-and-leaf plot"/>
+</topic>
+</topic>
+<topic href="statcoach_desc_scale-within.htm" label="Scale, numeric variables within categories">
+<topic href="statcoach_desc_scale-within_tables.htm" label="Tables and numbers">
+<topic href="statcoach_desc_scale-within_tables_explore.htm" label="Descriptive statistics, plus quartiles, percentiles, m-estimators, and outliers"/>
+<topic href="statcoach_desc_scale-within_tables_summarize.htm" label="Descriptive statistics for categories of one variable within categories of another"/>
+</topic>
+<topic href="statcoach_desc_scale-within_charts.htm" label="Charts and graphs">
+<topic href="statcoach_desc_scale-within_charts_box.htm" label="Boxplots with interquartile range and outliers"/>
+<topic href="statcoach_desc_scale-within_charts_bar.htm" label="Bar chart of summary statistics within categories"/>
+<topic href="statcoach_desc_scale-within_charts_3d.htm" label="3-D chart of summary statistics within categories of two variables"/>
+</topic>
+</topic>
+<topic href="statcoach_var-dist.htm" label="Look at variance and distribution of data">
+<topic href="statcoach_var-dist_cat.htm" label="Data in categories (nominal, ordinal)">
+<topic href="statcoach_var-dist_cat_table.htm" label="Tables and numbers">
+<topic href="statcoach_var-dist_cat_table_bycat.htm" label="Counts or percentages by category"/>
+<topic href="statcoach_var-dist_cat_table_case.htm" label="Individual case listings within categories"/>
+</topic>
+<topic href="statcoach_var-dist_cat_chart.htm" label="Charts and graphs">
+<topic href="statcoach_var-dist_cat_chart_bar.htm" label="Bar chart"/>
+<topic href="statcoach_var-dist_cat_chart_pie.htm" label="Pie chart"/>
+</topic>
+</topic>
+<topic href="statcoach_var-dist_scale.htm" label="Scale, numeric data (interval, ratio)">
+<topic href="statcoach_var-dist_scale_table.htm" label="Tables and numbers">
+<topic href="statcoach_var-dist_scale_table_freq.htm" label="Descriptive statistics plus quartiles, quantiles, and percentiles"/>
+<topic href="statcoach_var-dist_scale_table_desc.htm" label="Descriptive statistics (except median and mode) plus z scores"/>
+<topic href="statcoach_var-dist_scale_table_explore.htm" label="Descriptive statistics plus quartiles, percentiles, m-estimators, and outliers"/>
+<topic href="statcoach_var-dist_scale_table_summarize.htm" label="Individual case listings and descriptive statistics"/>
+</topic>
+<topic href="statcoach_var-dist_scale_chart.htm" label="Charts and graphs">
+<topic href="statcoach_var-dist_scale_chart_histogram.htm" label="Histogram with normal curve"/>
+<topic href="statcoach_var-dist_scale_chart_boxplot.htm" label="Boxplot with interquartile range and outliers"/>
+<topic href="statcoach_var-dist_scale_chart_stem.htm" label="Stem-and-leaf plot"/>
+</topic>
+</topic>
+</topic>
+<topic href="statcoach_olap.htm" label="Create OLAP report cubes"/>
+<topic href="statcoach_compare-groups.htm" label="Compare groups for significant differences">
+<topic href="statcoach_compare-groups_cat.htm" label="Data in categories (nominal, ordinal)"/>
+<topic href="statcoach_compare-groups_scale.htm" label="Scale numeric data divided into groups">
+<topic href="statcoach_compare-groups_scale_one.htm" label="One group or variable compared to a known value"/>
+<topic href="statcoach_compare-groups_scale_two-groups.htm" label="Two groups or variables">
+<topic href="statcoach_compare-groups_scale_two-groups_one-scale.htm" label="One scale, numeric dependent variable divided into two unrelated groups">
+<topic href="statcoach_compare-groups_scale_two-groups_one-scale_assume-normal.htm" label="Test that assumes data are normally distributed within groups"/>
+<topic href="statcoach_compare-groups_scale_two-groups_one-scale_not-assume-normal.htm" label="Test that does not assume data are normally distributed"/>
+<topic href="statcoach_compare-groups_scale_two-groups_one-scale_test-normality.htm" label="Check for normality of data"/>
+</topic>
+<topic href="statcoach_compare-groups_scale_two-groups_two-scale.htm" label="Two scale, numeric variables that represent related data">
+<topic href="statcoach_compare-groups_scale_two-groups_two-scale_assume-normal.htm" label="Test that assumes both variables have a normal distribution"/>
+<topic href="statcoach_compare-groups_scale_two-groups_two-scale_not-assume-normal.htm" label="Test that does not assume data are normally distributed"/>
+</topic>
+</topic>
+<topic href="statcoach_compare-groups_scale_three-groups.htm" label="Three or more groups">
+<topic href="statcoach_compare-groups_scale_three-groups_one-factor.htm" label="One (e.g, revenue for three groups defined by region)">
+<topic href="statcoach_compare-groups_scale_three-groups_one-factor_assume-normal.htm" label="Test that assumes data are normally distributed within groups"/>
+<topic href="statcoach_compare-groups_scale_three-groups_one-factor_not-assume-normal.htm" label="Test that does not assume data are normally distributed"/>
+<topic href="statcoach_compare-groups_scale_three-groups_one-factor_check-normal.htm" label="Check normality of data"/>
+</topic>
+<topic href="statcoach_compare-groups_scale_three-groups_two-factor.htm" label="Two or more (e.g., revenue for groups defined by division within each region)"/>
+</topic>
+</topic>
+</topic>
+<topic href="statcoach_sig-var-relationships.htm" label="Identify significant relationships between variables">
+<topic href="statcoach_sig-var-relationships_cat.htm" label="Data in categories (nominal, ordinal)"/>
+<topic href="statcoach_sig-var-relationships_ordinal.htm" label="Ordinal, rank-order, or non-normal scale data"/>
+<topic href="statcoach_sig-var-relationships_scale.htm" label="Scale, numeric data (interval, ratio)">
+<topic href="statcoach_sig-var-relationships_scale_two-at-time.htm" label="Two (or multiple pairs of variables)">
+<topic href="statcoach_sig-var-relationships_scale_two-at-time_table.htm" label="Tables and numbers"/>
+<topic href="statcoach_sig-var-relationships_scale_two-at-time_chart.htm" label="Charts and graphs">
+<topic href="statcoach_sig-var-relationships_scale_two-at-time_chart_one-pair.htm" label="One pair of variables"/>
+<topic href="statcoach_sig-var-relationships_scale_two-at-time_chart_two-pair.htm" label="Two or more pairs of variables"/>
+</topic>
+</topic>
+<topic href="statcoach_sig-var-relationships_scale_two.htm" label="Two, controlling for the effects of one or more additional variables"/>
+<topic href="statcoach_sig-var-relationships_scale_three.htm" label="Exactly three"/>
+<topic href="statcoach_sig-var-relationships_scale_pred.htm" label="One dependent variable and two or more independent (predictor) variables"/>
+</topic>
+<topic href="statcoach_sig-var-relationships_ord-dep.htm" label="Ordinal dependent and scale or categorical independent variables"/>
+</topic>
+<topic href="statcoach_sim-cases.htm" label="Identify groups of similar cases">
+<topic href="statcoach_sim-cases_scale.htm" label="Scale, numeric data (interval, ratio)">
+<topic href="statcoach_sim-cases_scale_unknonwn-groups.htm" label="Identify groups">
+<topic href="statcoach_sim-cases_scale_unknonwn-groups_less200.htm" label="Less than 200 cases"/>
+<topic href="statcoach_sim-cases_scale_unknonwn-groups_more200.htm" label="200 or more cases"/>
+</topic>
+<topic href="statcoach_sim-cases_scale_known-groups.htm" label="Identify characteristics of known groups"/>
+</topic>
+<topic href="statcoach_sim-cases_cat.htm" label="Categorical (nominal, ordinal) or a mix of scale and categorical"/>
+</topic>
+<topic href="statcoach_sim-vars.htm" label="Identify groups of similar variables"/>
+</topic>
+</toc>

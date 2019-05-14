@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<toc label="Working with R">
+<topic label="Introduction" href="rtut_intro.htm"/>
+<topic label="Creating Extension Commands" href="rtut_extcmds_intro.htm">
+<topic href="rtut_extcmds_syndiagram.htm" label="Syntax Diagrams"/>
+<topic href="rtut_extcmds_xmlspec.htm" label="XML Specification of the Syntax Diagram"/>
+<topic href="rtut_extcmds_code.htm" label="Implementation Code"/>
+</topic>
+<topic label="Creating Custom Dialogs" href="rtut_customdialogs_intro.htm">
+<topic href="rtut_customdialogs_extcmd.htm" label="Custom Dialogs for Extension Commands">
+<topic href="rtut_customdialogs_extcmd_controls.htm" label="Creating the Dialog"/>
+<topic href="rtut_customdialogs_extcmd_syntax.htm" label="Creating the Syntax Template"/>
+<topic href="rtut_customdialogs_extcmd_saving.htm" label="Saving Your Custom Dialog"/>
+</topic>
+<topic href="rtut_customdialogs_rcode.htm" label="Custom Dialogs for Generating Explicit R Code">
+<topic href="rtut_customdialogs_rcode_controls.htm" label="Creating the Dialog"/>
+<topic href="rtut_customdialogs_rcode_syntax.htm" label="Creating the Syntax Template"/>
+<topic href="rtut_customdialogs_rcode_install.htm" label="Installing Your Dialog"/>
+<topic href="rtut_customdialogs_rcode_share.htm" label="Sharing Your Dialog with Other Users"/>
+</topic>
+</topic>
+<topic label="Deploying Custom Components" href="rtut_extbundles_intro.htm">
+<topic href="rtut_extbundles_create.htm" label="Creating an Extension Bundle"/>
+<topic href="rtut_extbundles_install.htm" label="Installing an Extension Bundle"/>
+</topic>
+<topic label="Additional Resources for Working with R" href="rtut_resources.htm">
+<topic href="rtut_resources_rexamples.htm" label="Working Examples"/>
+</topic>
+</toc>

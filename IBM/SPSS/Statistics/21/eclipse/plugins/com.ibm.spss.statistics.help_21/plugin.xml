@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2007, v.4002-->
+<plugin provider-name="SPSS Inc." version="19" id="com.ibm.spss.statistics.help"
+    name="Help">
+    <extension point="org.eclipse.help.toc">
+        <toc primary="true" file="com.ibm.spss.statistics.help_toc.xml"/>
+        <?Pub Caret?>
+    </extension>
+    <extension point="org.eclipse.help.index">
+        <index primary="true" file="com.ibm.spss.statistics.help_index.xml"/>
+    </extension>
+    <extension id="helpProduct" point="org.eclipse.core.runtime.products">
+        <product name="IBM SPSS Statistics" application=""/>
+    </extension>
+</plugin>

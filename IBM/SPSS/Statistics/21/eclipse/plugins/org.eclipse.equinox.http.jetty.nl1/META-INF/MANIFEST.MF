@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Bundle-Name: %nlFragmentName
+Bundle-SymbolicName: org.eclipse.equinox.http.jetty.nl1 ;singleton=true
+Bundle-Version: 1.1.0.v200806231800
+Bundle-Vendor: %nlProviderName
+Fragment-Host: org.eclipse.equinox.http.jetty;bundle-version="[1.1.0,1.2.0)"
+Bundle-Localization: nl_fragment

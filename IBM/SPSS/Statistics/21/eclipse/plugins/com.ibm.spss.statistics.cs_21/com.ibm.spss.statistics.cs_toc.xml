@@ -1,0 +1,1811 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<toc label="Case Studies">
+<topic label="Introduction" href="casestudies_intro.htm"/>
+<topic label="Statistics Base">
+<topic label="Summary Statistics Using Frequencies" href="frequencies_table.htm">
+<topic href="freq_contacts_nominal_intro.htm" label="Using Frequencies to Study Nominal Data">
+<topic href="freq_contacts_nominal_howto.htm" label="Running the Analysis"/>
+<topic href="freq_contacts_pie_01.htm" label="Pie Chart"/>
+<topic href="freq_contacts_table_01.htm" label="Frequency Table"/>
+<topic href="freq_contacts_bar_01.htm" label="Bar Chart"/>
+</topic>
+<topic href="freq_contacts_ordinal_intro.htm" label="Using Frequencies to Study Ordinal Data">
+<topic href="freq_contacts_ordinal_howto.htm" label="Running the Analysis"/>
+<topic href="freq_contacts_table_02.htm" label="Frequency table"/>
+<topic href="freq_contacts_bar_02.htm" label="Bar chart"/>
+</topic>
+<topic href="freq_contacts_scale_intro.htm" label="Using Frequencies to Study Scale Data">
+<topic href="freq_contacts_scale_howto.htm" label="Running the Analysis"/>
+<topic href="freq_contacts_stats_01.htm" label="Statistics table"/>
+<topic href="freq_contacts_hist_01.htm" label="Histogram"/>
+<topic href="freq_contact_trans_intro.htm" label="Summarizing transformed data">
+<topic href="freq_contact_trans_howto.htm" label="Transforming the Data"/>
+<topic href="freq_contacts_stats_02.htm" label="Statistics table"/>
+<topic href="freq_contacts_hist_02.htm" label="Histogram"/>
+</topic>
+</topic>
+<topic href="freq_contacts_summary.htm" label="Summary"/>
+<topic href="freq_related.htm" label="Related Procedures"/>
+<topic href="freq_readings.htm" label="Recommended Readings"/>
+</topic>
+<topic label="Summary Statistics Using Descriptives" href="descriptives_table.htm">
+<topic href="desc_telco_intro.htm" label="Using Descriptives to Study Quantitative Data">
+<topic href="desc_telco_howto.htm" label="Running the Analysis"/>
+<topic href="desc_telco_stattable.htm" label="Descriptive statistics table"/>
+<topic href="desc_telco_recode_howto.htm" label="Recoding the Variables">
+<topic href="desc_telco_howto_03.htm" label="Running the Analysis"/>
+<topic href="desc_telco_stattable_03.htm" label="Descriptive Statistics"/>
+</topic>
+<topic href="desc_telco_zscores.htm" label="Finding Unusual Cases">
+<topic href="desc_telco_zscores_howto.htm" label="Running the Analysis"/>
+<topic href="desc_telco_stattable_02.htm" label="Descriptive statistics table"/>
+<topic href="desc_telco_boxplots.htm" label="Boxplots of Z Scores"/>
+</topic>
+<topic href="desc_telco_summary.htm" label="Summary"/>
+</topic>
+<topic href="desc_related.htm" label="Related Procedures"/>
+<topic href="desc_readings.htm" label="Recommended Readings"/>
+</topic>
+<topic label="Exploratory Data Analysis" href="explore_table.htm">
+<topic href="explore_problem.htm" label="Descriptive Statistics across Groups">
+<topic href="explore_alfa_howto_01.htm" label="Running the Analysis"/>
+<topic href="explore_pivot.htm" label="Pivoting the Descriptives Table"/>
+<topic href="explore_boxplots.htm" label="Using Boxplots to Compare Groups"/>
+<topic href="explore_alfatoxin_summary.htm" label="Summary"/>
+</topic>
+<topic href="explore_distributions.htm" label="Exploring Distributions">
+<topic href="explore_ceram_howto.htm" label="Running the Analysis"/>
+<topic href="explore_stats.htm" label="Numerical Descriptions of Shape"/>
+<topic href="explore_robust.htm" label="Robustness and Influential Values"/>
+<topic href="explore_normality.htm" label="Are the Distributions Normal?"/>
+<topic href="explore_ceramics_summary.htm" label="Summary"/>
+</topic>
+<topic href="explore_related.htm" label="Related Procedures"/>
+<topic href="explore_readings.htm" label="Recommended Readings"/>
+</topic>
+<topic label="Analysis of cross-classifications using Crosstabs" href="crosstabs_table.htm">
+<topic href="xtab_satisf_intro_01.htm" label="Using Crosstabs to study nominal-by-nominal relationships">
+<topic href="xtab_satisf_howto_01.htm" label="Running the analysis"/>
+<topic href="xtab_crosstab_satisf_01.htm" label="Crosstabulation table"/>
+<topic href="xtab_chisquare_satisf_01.htm" label="Chi-square tests"/>
+<topic href="xtab_addlayer_satisf_01.htm" label="Adding contact with employee as a layer variable">
+<topic href="xtab_crosstab_satisf_02.htm" label="Crosstabulation table"/>
+<topic href="xtab_chisquare_satisf_02.htm" label="Chi-square tests"/>
+<topic href="xtab_symmetric.htm" label="Symmetric measures"/>
+<topic href="xtab_directional_satisf_01.htm" label="Directional measures"/>
+</topic>
+<topic href="xtab_satisf_summary_01.htm" label="Summary"/>
+</topic>
+<topic href="xtab_satisf_intro_02.htm" label="Using Crosstabs to study ordinal-by-ordinal relationships">
+<topic href="xtab_satisf_howto_02.htm" label="Running the analysis"/>
+<topic href="xtab_crosstab_satisf_03.htm" label="Crosstabulation table"/>
+<topic href="xtab_measures_satisf_02.htm" label="Symmetric and directional measures">
+<topic href="xtab_symmetric_satisf_02.htm" label="Symmetric and directional measures"/>
+</topic>
+<topic href="xtab_satisf_summary.htm" label="Summary"/>
+</topic>
+<topic href="xtab_intro_demo_01.htm" label="Using Crosstabs to measure the relative risk of an event">
+<topic href="xtab_demo_howto.htm" label="Running the analysis"/>
+<topic href="xtab_crosstab_demo_01.htm" label="Crosstabulation"/>
+<topic href="xtab_risk_demo_01.htm" label="Risk estimate">
+<topic href="xtab_demo_oddsratio.htm" label="Odds ratio versus relative risk"/>
+</topic>
+<topic href="xtab_demo_layer_var.htm" label="Adding income category as a layer variable">
+<topic href="xtab_demo_layer_var_howto.htm" label="Rerunning the analysis"/>
+<topic href="xtab_risk_demo_02.htm" label="Risk estimate"/>
+<topic href="xtab_oddstest_demo_01.htm" label="Tests of homogeneity of the odds ratio"/>
+<topic href="xtab_indeptest_demo_01.htm" label="Tests of conditional independence"/>
+<topic href="xtab_oddsest_demo_01.htm" label="Mantel-Haenszel common odds ratio estimate"/>
+</topic>
+<topic href="xtab_demo_summary.htm" label="Summary"/>
+</topic>
+<topic href="xtab_intro_site_01.htm" label="Using Crosstabs to measure agreement">
+<topic href="xtab_site_howto.htm" label="Running the analysis"/>
+<topic href="xtab_kappa_site_01.htm" label="Kappa measure of agreement"/>
+<topic href="xtab_crosstab_site_01.htm" label="Crosstabulation"/>
+<topic href="xtab_site_summary.htm" label="Summary"/>
+</topic>
+<topic href="xtab_demo_intro_02.htm" label="Comparing column proportions in Crosstabs">
+<topic href="xtab_demo_howto_02.htm" label="Running the analysis"/>
+<topic href="xtab_chisquare_demo_02.htm" label="Chi-square tests"/>
+<topic href="xtab_crosstab_demo_02.htm" label="Crosstabulation table with column proportions tests"/>
+<topic href="xtab_demo_summary_02.htm" label="Summary"/>
+</topic>
+<topic href="xtab_related.htm" label="Related procedures"/>
+<topic href="xtab_readings.htm" label="Recommended readings"/>
+</topic>
+<topic label="The Summarize Procedure" href="summarize_table.htm">
+<topic href="summ_homesales.htm" label="Using Summarize to Create Summary Reports">
+<topic href="summ_homesales_howto_01.htm" label="Creating a Grouped Summary Report"/>
+<topic href="summ_reporttable_1.htm" label="The Summary Report Table"/>
+<topic href="summ_casedisplay_1.htm" label="Displaying Individual Cases">
+<topic href="summ_caseselect.htm" label="Selecting and Sorting Cases"/>
+<topic href="summ_casedisplay_2.htm" label="Specifying the Analysis"/>
+<topic href="summ_caselisting.htm" label="Case Listing Display"/>
+</topic>
+<topic href="summ_marketvalues_summary.htm" label="Summary"/>
+</topic>
+<topic href="summ_related.htm" label="Related Procedures"/>
+<topic href="summ_readings.htm" label="Recommended Readings"/>
+</topic>
+<topic label="The Means Procedure" href="means_table.htm">
+<topic href="means_onegroup.htm" label="Using Means to Obtain Descriptive Statistics">
+<topic href="means_wage_howto.htm" label="Running the Analysis"/>
+<topic href="means_table_1.htm" label="Means Table with One Grouping Variable"/>
+<topic href="means_layering.htm" label="Layering Variables">
+<topic href="means_wage_howto_02.htm" label="Re-running the Analysis"/>
+<topic href="means_twogrpvars.htm" label="Layered Means Table"/>
+</topic>
+<topic href="means_hourlywage_summary.htm" label="Summary"/>
+</topic>
+<topic href="means_anova.htm" label="One-way ANOVA and Test of Linearity">
+<topic href="means_smoke_howto_01.htm" label="Running the Analysis"/>
+<topic href="means_table_2.htm" label="Means of Age by Smoking Level"/>
+<topic href="means_anovatests.htm" label="ANOVA and Tests of Linearity"/>
+<topic href="means_assoc.htm" label="Association Measures"/>
+<topic href="means_smoker_summary.htm" label="Summary"/>
+</topic>
+<topic href="means_related.htm" label="Related Procedures"/>
+<topic href="means_readings.htm" label="Recommended Readings"/>
+</topic>
+<topic label="The OLAP Cubes Procedure" href="olapcubes_table.htm">
+<topic href="olap_problem.htm" label="Analyzing Churn Using OLAP Cubes">
+<topic href="olap_definedata.htm" label="Defining the Data"/>
+<topic href="olap_definecube.htm" label="Creating an OLAP Cube">
+<topic href="olap_layeredtable.htm" label="The Default OLAP Cubes Table"/>
+</topic>
+<topic href="olap_drillingdown.htm" label="Drilling Down">
+<topic href="olap_pivot.htm" label="Pivoting the Table"/>
+</topic>
+<topic href="olap_pivotedtable.htm" label="Pivoted OLAP Cubes Table"/>
+<topic href="olap_telco_summary.htm" label="Summary"/>
+</topic>
+<topic href="olap_related.htm" label="Related Procedures"/>
+<topic href="olap_readings.htm" label="Recommended Readings"/>
+</topic>
+<topic label="T Tests" href="t_test_table.htm">
+<topic href="ttest0_toc.htm" label="One-Sample T Test">
+<topic href="ttest0_intro.htm" label="One-Sample T Test"/>
+<topic href="ttest0_problem.htm" label="A Production-Line Problem">
+<topic href="ttest0_splitfile.htm" label="Treating Each Machine as a Separate Sample"/>
+<topic href="ttest0_knownvalue.htm" label="Testing Sample Means against a Known Value"/>
+<topic href="ttest0_brakes_desc.htm" label="Descriptive Statistics"/>
+<topic href="ttest0_brakes_testresults.htm" label="Test Results"/>
+</topic>
+<topic href="ttest0_related.htm" label="Related Procedures"/>
+<topic href="ttest0_readings.htm" label="Recommended Readings"/>
+</topic>
+<topic href="ttest1_toc.htm" label="Paired-Samples T Test">
+<topic href="ttest1_intro.htm" label="Paired-Samples T Test"/>
+<topic href="ttest1_problem.htm" label="Does Diet Make a Difference?">
+<topic href="ttest1_analysis.htm" label="Running the Analysis"/>
+<topic href="ttest1_stattable.htm" label="Descriptive Statistics"/>
+<topic href="ttest1_corrtable.htm" label="Pearson Correlations"/>
+<topic href="ttest1_testtable.htm" label="Paired Test Table"/>
+</topic>
+<topic href="ttest1_related.htm" label="Related Procedures"/>
+<topic href="ttest1_readings.htm" label="Recommended Readings"/>
+</topic>
+<topic href="ttest2_toc.htm" label="Independent-Samples T Test">
+<topic href="ttest2_intro.htm" label="Independent-Samples T Test"/>
+<topic href="ttest2_methods.htm" label="Determining the Groups in an Independent-Samples T Test"/>
+<topic href="ttest2_problem.htm" label="Testing Two Independent Sample Means">
+<topic href="ttest2_promo_howto_01.htm" label="Running the Analysis"/>
+<topic href="ttest2_stattable_1.htm" label="Group Statistics Table"/>
+<topic href="ttest2_testtable_1.htm" label="Independent Samples Test Table">
+<topic href="ttest2_stattable_pivot.htm" label="Pivoting the Test Table"/>
+</topic>
+<topic href="ttest2_stattable_pivot_02.htm" label="The Pivoted Test Table"/>
+</topic>
+<topic href="ttest2_cutpoint.htm" label="Using a Cut Point to Define the Samples">
+<topic href="ttest2_cellular_howto_01.htm" label="Running the Analysis"/>
+<topic href="ttest2_cutpt_stats.htm" label="Group Statistics by Cut Point"/>
+<topic href="ttest2_testtable_2.htm" label="Test Table by Cut Point">
+<topic href="ttest2_stattable_pivot_2.htm" label="Pivoting the Test Table"/>
+</topic>
+<topic href="ttest2_cutpt_testtable.htm" label="Pivoted Test Table by Cut Point"/>
+</topic>
+<topic href="ttest2_related.htm" label="Related Procedures"/>
+<topic href="ttest2_readings.htm" label="Recommended Readings"/>
+</topic>
+</topic>
+<topic label="One-Way analysis of variance" href="oneway_table.htm">
+<topic href="oneway_equal_variance_test.htm" label="Testing the equality of group variances">
+<topic href="oneway_sales_errorbar.htm" label="An error bar chart"/>
+<topic href="oneway_sales_howto_01.htm" label="Running the analysis"/>
+<topic href="oneway_descriptives_table.htm" label="Descriptive statistics table"/>
+<topic href="oneway_levene_table.htm" label="Levene test table"/>
+</topic>
+<topic href="oneway_standard.htm" label="Performing a One-Way ANOVA">
+<topic href="oneway_dvd_howto_01.htm" label="Running the analysis"/>
+<topic href="oneway_anova_table.htm" label="ANOVA table"/>
+<topic href="oneway_means_plot.htm" label="A Plot of Group Means"/>
+</topic>
+<topic href="oneway_contrast_problem.htm" label="Contrasts between means">
+<topic href="oneway_contrast_howto.htm" label="Running the analysis"/>
+<topic href="oneway_contrast_coef_table.htm" label="Contrast coefficients table"/>
+<topic href="oneway_contrast_test_table.htm" label="Contrast test table"/>
+</topic>
+<topic href="oneway_pairwise.htm" label="All possible comparisons between means">
+<topic href="oneway_sales_howto_02.htm" label="Running the analysis"/>
+<topic href="oneway_post_hoc_table.htm" label="Post hoc test table"/>
+</topic>
+<topic href="oneway_summary.htm" label="Summary"/>
+<topic href="oneway_related.htm" label="Related procedures"/>
+<topic href="oneway_readings.htm" label="Recommended readings"/>
+</topic>
+<topic label="GLM Univariate" href="unianova_table.htm">
+<topic href="glmu_model.htm" label="GLM Univariate Model"/>
+<topic href="glmu_gr1mo_intro.htm" label="Using GLM Univariate to Perform a Two-Factor Analysis of Variance">
+<topic href="glmu_gr1mo_howto.htm" label="Running the Analysis"/>
+<topic href="glmu_gr1mo_desc.htm" label="Descriptive Statistics"/>
+<topic href="glmu_gr1mo_eqvar.htm" label="Testing Homogeneity of the Variances"/>
+<topic href="glmu_gr1mo_posthoc.htm" label="Post Hoc Tests"/>
+<topic href="glmu_gr1mo_emm_01.htm" label="Estimated Marginal Means"/>
+<topic href="glmu_gr1mo_bseff.htm" label="Tests of Between-Subjects Effects"/>
+<topic href="glmu_gr1mo_summary_01.htm" label="Summary"/>
+</topic>
+<topic href="glmu_work_intro_01.htm" label="Using GLM Univariate to Perform an Analysis of Covariance">
+<topic href="glmu_work_homslopes_01.htm" label="Checking Homogeneity of the Covariate Coefficients">
+<topic href="glmu_work_bseff_01.htm" label="Tests of Between-Subjects Effects"/>
+</topic>
+<topic href="glmu_work_ancova_01.htm" label="Running the Analysis"/>
+<topic href="glmu_work_desc_01.htm" label="Descriptive Statistics"/>
+<topic href="glmu_work_eqvar.htm" label="Testing Homogeneity of Variances"/>
+<topic href="glmu_work_bseff.htm" label="Tests of Between-Subjects Effects"/>
+<topic href="glmu_work_param.htm" label="Parameter Estimates"/>
+<topic href="glmu_work_summary_01.htm" label="Summary"/>
+</topic>
+<topic href="glmu_gr1mo_intro_02.htm" label="Using GLM Univariate to Account for Random Effects">
+<topic href="glmu_gr1mo_howto_02.htm" label="Running the Analysis"/>
+<topic href="glmu_gr1mo_bseff_02.htm" label="Tests of Between-Subjects Effects"/>
+<topic href="glmu_gr1mo_mixed_howto.htm" label="Adding the Random Effect">
+<topic href="glmu_gr1mo_bseff_03.htm" label="Test of Between-Subjects Effects"/>
+</topic>
+<topic href="glmu_gr1mo_summary_02.htm" label="Summary"/>
+</topic>
+<topic href="glmu_related.htm" label="Related Procedures"/>
+<topic href="glmu_readings.htm" label="Recommended Readings"/>
+</topic>
+<topic label="Bivariate Correlations" href="correlations_table.htm">
+<topic href="corr_cars_intro.htm" label="Using Correlations to Study the Association between Motor Vehicles Sales and Fuel Efficiency">
+<topic href="corr_cars_howto.htm" label="Running the Analysis"/>
+<topic href="corr_cars_matrix.htm" label="Correlation Matrix"/>
+<topic href="corr_cars_logsales.htm" label="Improving Correlation Estimates">
+<topic href="corr_cars_matrix_02.htm" label="Correlations"/>
+</topic>
+<topic href="corr_cars_split.htm" label="Improving Correlation Estimates: Splitting the File">
+<topic href="corr_cars_matrix_03.htm" label="Correlations"/>
+</topic>
+<topic href="corr_cars_npar.htm" label="Nonparametric Correlation Estimates">
+<topic href="corr_cars_matrix_04.htm" label="Correlations"/>
+</topic>
+<topic href="corr_cars_summary.htm" label="Summary"/>
+</topic>
+<topic href="corr_related.htm" label="Related Procedures"/>
+<topic href="corr_readings.htm" label="Recommended Readings"/>
+</topic>
+<topic label="Partial Correlations" href="partialcorr_table.htm">
+<topic href="partial_corr_example.htm" label="Using Partial Correlations to Unravel &quot;Relationships&quot;"/>
+<topic href="partial_corr_running.htm" label="Running the Analysis"/>
+<topic href="partial_corr_output.htm" label="Partial Correlations Table"/>
+<topic href="partial_corr_related.htm" label="Related Procedures"/>
+</topic>
+<topic label="Linear models" href="linear_table.htm">
+<topic href="linear_insurance_intro.htm" label="Predicting insurance claim costs (linear models)">
+<topic href="linear_insurance_howto.htm" label="Running the analysis (linear models)"/>
+<topic href="linear_insurance_model_summary.htm" label="Model Summary (linear models)"/>
+<topic href="linear_insurance_adp.htm" label="Automatic Data Preparation (linear models)"/>
+<topic href="linear_insurance_model_building_summary.htm" label="Model Building Summary (linear models)"/>
+<topic href="linear_insurance_predictor_importance.htm" label="Predictor Importance (linear models)"/>
+<topic href="linear_insurance_predicted_by_observed.htm" label="Predicted by Observed (linear models)"/>
+<topic href="linear_insurance_effects.htm" label="Effects (linear models)"/>
+<topic href="linear_insurance_coefficients.htm" label="Coefficients (linear models)"/>
+<topic href="linear_insurance_howto_02.htm" label="Checking the stability of the selected model (linear models)"/>
+<topic href="linear_insurance_model_building_summary_02.htm" label="Model Building Summary (linear models)"/>
+<topic href="linear_insurance_predictor_importance_02.htm" label="Predictor Importance and Model Summary (linear models)"/>
+<topic href="linear_insurance_scoring.htm" label="Saving the model for deployment (linear models)"/>
+</topic>
+</topic>
+<topic label="Linear regression" href="regression_table.htm">
+<topic href="reg_model.htm" label="The linear regression model"/>
+<topic href="reg_cars_intro.htm" label="Using linear regression to model vehicle sales">
+<topic href="reg_cars_howto.htm" label="Running the analysis"/>
+<topic href="reg_cars_modelfit_01.htm" label="Checking the model fit"/>
+<topic href="reg_cars_coeff.htm" label="Coefficients"/>
+<topic href="reg_cars_collin_01.htm" label="Collinearity diagnostics"/>
+<topic href="reg_cars_zscores_01.htm" label="Running a linear regression on the z-scores">
+<topic href="reg_cars_collin_02.htm" label="Collinearity Diagnostics"/>
+</topic>
+<topic href="reg_cars_factor_01.htm" label="Running a linear regression on factor component scores"/>
+<topic href="reg_cars_stepwise_01.htm" label="Running a stepwise linear regression">
+<topic href="reg_cars_modelfit_02.htm" label="Checking the model fit"/>
+<topic href="reg_cars_coeff_02.htm" label="Stepwise Coefficients"/>
+<topic href="reg_cars_resids_01.htm" label="Checking the Normality of the Error Term"/>
+<topic href="reg_cars_case_01.htm" label="Casewise diagnostics"/>
+<topic href="reg_cars_resids_02.htm" label="Residual scatterplots"/>
+<topic href="reg_cars_lever.htm" label="Identifying influential points"/>
+</topic>
+<topic href="reg_cars_summary.htm" label="Summary"/>
+</topic>
+<topic href="reg_related.htm" label="Related procedures"/>
+<topic href="reg_readings.htm" label="Recommended readings"/>
+</topic>
+<topic label="Ordinal Regression" href="plum_table.htm">
+<topic href="plum_model.htm" label="The Ordinal Regression Model"/>
+<topic href="plum_germcr_intro.htm" label="Using Ordinal Regression to Build a Credit Scoring Model">
+<topic href="plum_germcr_build_model.htm" label="Constructing a Model">
+<topic href="plum_germcr_identify_target.htm" label="Identifying the Outcome Variable"/>
+<topic href="plum_germcr_choose_location.htm" label="Choosing Predictors for the Location Model"/>
+<topic href="plum_germcr_choose_scale.htm" label="Scale Component"/>
+<topic href="plum_germcr_choose_link.htm" label="Choosing a Link Function"/>
+</topic>
+<topic href="plum_germcr_howto.htm" label="Running the Analysis"/>
+<topic href="plum_germcr_modeleval.htm" label="Evaluating the Model">
+<topic href="plum_germcr_modelfit.htm" label="Predictive Value of the Model"/>
+<topic href="plum_germcr_chisquare.htm" label="Chi-Square-Based Fit Statistics"/>
+<topic href="plum_germcr_rsquare.htm" label="Pseudo R-Squared Measures"/>
+<topic href="plum_germcr_classification.htm" label="Classification Table"/>
+</topic>
+<topic href="plum_germcr_parallel.htm" label="Test of Parallel Lines"/>
+<topic href="plum_germcr_intro_02.htm" label="Evaluating the Choice of Link Function">
+<topic href="plum_germcr_howto_02.htm" label="Revising the Model"/>
+<topic href="plum_germcr_modelfit_02.htm" label="Model-fitting information"/>
+<topic href="plum_germcr_rsq_02.htm" label="Pseudo R-squared Measures"/>
+<topic href="plum_germcr_classtable_02.htm" label="Classification Table"/>
+</topic>
+<topic href="plum_germcr_paramest.htm" label="Interpreting the Model"/>
+<topic href="plum_germcr_summary.htm" label="Summary : Using the Model to Make Predictions"/>
+</topic>
+<topic href="plum_related.htm" label="Related Procedures"/>
+<topic href="plum_readings.htm" label="Recommended Readings"/>
+</topic>
+<topic label="Curve Estimation" href="curvefit_table.htm">
+<topic href="curveest_advert.htm" label="Using Curve Estimation to Model the Law of Diminishing Returns">
+<topic href="curveest_advert_howto_01c.htm" label="Running the Analysis"/>
+<topic href="curveest_coeff.htm" label="Model Summary and Parameter Estimates"/>
+<topic href="curveest_curvefit.htm" label="Curve Fit"/>
+<topic href="curveest_resids.htm" label="Residuals vs. Fit Values Plots"/>
+<topic href="curveest_advert_summary.htm" label="Summary"/>
+</topic>
+<topic href="curveest_virus_intro.htm" label="Using Curve Estimation to Model Viral Growth">
+<topic href="curveest_virus_howto.htm" label="Running the Analysis"/>
+<topic href="curveest_anova_virus.htm" label="ANOVA Table"/>
+<topic href="curveest_modelsummary_virus.htm" label="Model Summary"/>
+<topic href="curveest_coeff_virus.htm" label="Parameter Estimates"/>
+<topic href="curveest_curvefit_virus.htm" label="Curve Fit"/>
+<topic href="curveest_resids_virus.htm" label="Residuals vs. Fit Values Plots"/>
+<topic href="curveest_virus_summary.htm" label="Summary"/>
+</topic>
+<topic href="curveest_related.htm" label="Related Procedures"/>
+</topic>
+<topic label="Partial Least Squares Regression" href="pls_table.htm">
+<topic href="pls_carsales_intro.htm" label="Using Partial Least Squares Regression to Model Vehicle Sales">
+<topic href="pls_carsales_howto.htm" label="Running the Analysis"/>
+<topic href="pls_carsales_pve.htm" label="Proportion of Variance Explained"/>
+<topic href="pls_carsales_independent-variables.htm" label="Output for Independent Variables"/>
+<topic href="pls_carsales_latent-factors.htm" label="Output for Latent Factors"/>
+<topic href="pls_carsales_individual-cases.htm" label="Output for Individual Cases"/>
+</topic>
+</topic>
+<topic label="Nearest Neighbor Analysis" href="knn_table.htm">
+<topic href="knn_carsales_intro.htm" label="Using Nearest Neighbor Analysis to Assess New Vehicle Offerings">
+<topic href="knn_carsales_adddata.htm" label="Preparing the Data"/>
+<topic href="knn_carsales_examine_howto.htm" label="Examining the Feature Space of Predictors">
+<topic href="knn_carsales_examine_cps.htm" label="Case Processing Summary"/>
+<topic href="knn_carsales_examine_modelviewer.htm" label="Model Viewer">
+<topic href="knn_carsales_examine_modelviewer_feature-space.htm" label="Feature Space"/>
+<topic href="knn_carsales_examine_modelviewer_peers.htm" label="Peers Chart"/>
+</topic>
+</topic>
+<topic href="knn_carsales_check-type_howto.htm" label="Checking Vehicle Type">
+<topic href="knn_carsales_check-type_modelviewer_feature-space.htm" label="Feature Space"/>
+<topic href="knn_carsales_check-type_modelviewer_peers.htm" label="Peers"/>
+<topic href="knn_carsales_check-type_modelviewer_importance.htm" label="Variable Importance"/>
+<topic href="knn_carsales_check-type_modelviewer_k-selection.htm" label="k Selection Error Log"/>
+<topic href="knn_carsales_check-type_modelviewer_classification.htm" label="Classification Table"/>
+</topic>
+<topic href="knn_carsales_predict-sales_howto.htm" label="Predicting Sales">
+<topic href="knn_carsales_predict-sales_feature-space.htm" label="Feature Space"/>
+<topic href="knn_carsales_predict-sales_quadrant-map.htm" label="Quadrant Map"/>
+<topic href="knn_carsales_predict-sales_k-feature-selection.htm" label="k and Feature Selection"/>
+</topic>
+</topic>
+</topic>
+<topic label="Discriminant Analysis" href="discriminant_table.htm">
+<topic href="discrim_model.htm" label="Discriminant Analysis Model"/>
+<topic href="discrim_bankloan_intro.htm" label="Using Discriminant Analysis to Assess Credit Risk">
+<topic href="discriminant_bankloan_dataprep.htm" label="Preparing the Data for Analysis"/>
+<topic href="discrim_bankloan_howto.htm" label="Running the Analysis"/>
+<topic href="discrim_bankloan_classification.htm" label="Classifying Customers as High or Low Credit Risks"/>
+<topic href="discrim_bankloan_corr.htm" label="Checking Collinearity of Predictors"/>
+<topic href="discrim_bankloan_means.htm" label="Checking for Correlation of Group Means and Variances"/>
+<topic href="discrim_bankloan_boxsm.htm" label="Checking Homogeneity of Covariance Matrices"/>
+<topic href="discrim_bankloan_varselect.htm" label="Assessing the Contribution of Individual Predictors">
+<topic href="discrim_bankloan_groupmean.htm" label="Tests of Equality of Group Means"/>
+<topic href="discrim_bankloan_canoncoeff.htm" label="Standardized Canonical Discriminant Function Coefficients"/>
+<topic href="discrim_bankloan_structure.htm" label="Structure Matrix"/>
+</topic>
+<topic href="discrim_bankloan_modelfit.htm" label="Assessing Model Fit">
+<topic href="discrim_bankloan_eigen.htm" label="Eigenvalues"/>
+<topic href="discrim_bankloan_wilks.htm" label="Wilks' Lambda"/>
+</topic>
+<topic href="discrim_bankloan_validate.htm" label="Model Validation"/>
+<topic href="disc_loan_separate_groups.htm" label="Specifying Separate-Groups Covariance Matrices"/>
+<topic href="disc_loan_adjust_priors.htm" label="Adjusting Prior Probabilities"/>
+<topic href="discrim_loan_summary.htm" label="Summary"/>
+</topic>
+<topic href="discrim_telco_intro.htm" label="Using Discriminant Analysis to Classify Telecommunications Customers">
+<topic href="discrim_telco_howto.htm" label="Running the Analysis"/>
+<topic href="discrim_telco_stepwise.htm" label="Stepwise Discriminant Analysis"/>
+<topic href="discrim_using_stepwise.htm" label="A Note of Caution Concerning Stepwise Methods"/>
+<topic href="discrim_telco_fit.htm" label="Checking Model Fit"/>
+<topic href="discrim_telco_structure.htm" label="Structure Matrix"/>
+<topic href="discrim_telco_terrimap.htm" label="Territorial Map"/>
+<topic href="discrim_telco_classtable.htm" label="Classification Results"/>
+<topic href="disc_telco_summary.htm" label="Summary"/>
+</topic>
+<topic href="discrim_related.htm" label="Related Procedures"/>
+<topic href="discrim_readings.htm" label="Recommended Readings"/>
+</topic>
+<topic label="Factor Analysis" href="factoranalysis_table.htm">
+<topic href="factor_methodology.htm" label="Factor Analysis Methods"/>
+<topic href="factor_cars_intro.htm" label="Using Factor Analysis for Data Reduction">
+<topic href="factor_cars_howto_01.htm" label="Running the Analysis"/>
+<topic href="fac_cars_communalities_01.htm" label="Communalities"/>
+<topic href="fac_cars_tve.htm" label="Total Variance Explained"/>
+<topic href="fac_cars_scree_01.htm" label="Scree Plot"/>
+<topic href="fac_cars_rotcompmtrx_01.htm" label="Rotated Component Matrix"/>
+<topic href="fac_cars_compsccoeffmtrx_01.htm" label="Component Score Coefficient Matrix"/>
+<topic href="fac_cars_fscorescatter.htm" label="Scatterplot Matrix of Component Scores"/>
+<topic href="fac_cars_summary.htm" label="Summary"/>
+</topic>
+<topic href="fac_telco_intro.htm" label="Using Factor Analysis for Structure Detection">
+<topic href="factor_telco_howto_01.htm" label="Running the Analysis"/>
+<topic href="fac_telco_kmo_01.htm" label="KMO and Bartlett's Test"/>
+<topic href="fac_telco_communalities.htm" label="Communalities"/>
+<topic href="fac_telco_tve_01.htm" label="Total Variance Explained"/>
+<topic href="fac_telco_scree_01.htm" label="Scree Plot"/>
+<topic href="fac_telco_facmtrx.htm" label="Factor Matrix"/>
+<topic href="fac_telco_rotfacmtrx_01.htm" label="Rotated Factor Matrix"/>
+<topic href="fac_telco_summary.htm" label="Summary"/>
+</topic>
+<topic href="fac_related.htm" label="Related Procedures"/>
+<topic href="fac_readings.htm" label="Recommended Readings"/>
+</topic>
+<topic label="TwoStep Cluster Analysis" href="twostepcluster_table.htm">
+<topic href="twostep_methodology.htm" label="Clustering Principles"/>
+<topic href="twostep_cars_intro.htm" label="Using TwoStep Cluster Analysis to Classify Motor Vehicles">
+<topic href="twostep_cars_howto.htm" label="Running the Analysis"/>
+<topic href="twostep_cars_quality.htm" label="Model Summary and Cluster Quality"/>
+<topic href="twostep_cars_distribution.htm" label="Cluster Distribution"/>
+<topic href="twostep_cars_profiles.htm" label="Cluster Profiles"/>
+<topic href="twostep_cars_summary.htm" label="Summary"/>
+</topic>
+<topic href="twostep_related.htm" label="Related Procedures"/>
+</topic>
+<topic label="Hierarchical Cluster Analysis" href="cluster_table.htm">
+<topic href="hca_methodology.htm" label="Clustering Principles"/>
+<topic href="hca_cars_intro.htm" label="Using HCA to Classify Automobiles">
+<topic href="hca_cars_dataprep.htm" label="Preparing the Data"/>
+<topic href="hca_cars_howto.htm" label="Running the Analysis"/>
+<topic href="hca_cars_single_dendrogram.htm" label="Dendrogram"/>
+<topic href="hca_cars_single_agglomeration.htm" label="Agglomeration Schedule"/>
+<topic href="hca_cars_complete_linkage.htm" label="Complete Linkage Solution">
+<topic href="hca_cars_complete_agglomeration.htm" label="Agglomeration Schedule"/>
+<topic href="hca_cars_complete_dendrogram.htm" label="Dendrogram"/>
+</topic>
+<topic href="hca_cars_summary.htm" label="Summary"/>
+</topic>
+<topic href="hca_telco_intro.htm" label="Using HCA to Study Relationships between Telecommunications Services">
+<topic href="hca_telco_howto.htm" label="Running the Analysis"/>
+<topic href="hca_telco_simple_agglomeration.htm" label="Agglomeration Schedule"/>
+<topic href="hca_telco_simple_dendrogram.htm" label="Dendrogram"/>
+<topic href="hca_telco_jaccard.htm" label="Solution Using the Jaccard Measure">
+<topic href="hca_telco_jaccard_dendrogram.htm" label="Dendrogram"/>
+</topic>
+<topic href="hca_telco_summary.htm" label="Summary"/>
+</topic>
+<topic href="hca_related.htm" label="Related Procedures"/>
+<topic href="hca_readings.htm" label="Recommended Readings"/>
+</topic>
+<topic label="K-Means Cluster Analysis" href="quickcluster_table.htm">
+<topic href="kmeans_methodology.htm" label="Clustering Principles"/>
+<topic href="kmeans_telco_intro.htm" label="Using K-Means to Classify Customers">
+<topic href="kmeans_telco_howto.htm" label="Running the Analysis"/>
+<topic href="kmeans_telco_initial.htm" label="Initial Cluster Centers"/>
+<topic href="kmeans_telco_iteration.htm" label="Iteration History"/>
+<topic href="kmeans_telco_anova.htm" label="ANOVA"/>
+<topic href="kmeans_telco_final.htm" label="Final Cluster Centers"/>
+<topic href="kmeans_telco_distance.htm" label="Distances between Final Cluster Centers"/>
+<topic href="kmeans_telco_cases.htm" label="Number of Cases in Each Cluster"/>
+<topic href="kmeans_telco_4cluster.htm" label="Building a Four-Cluster Solution">
+<topic href="kmeans_telco_plot_01.htm" label="Plot of Distances from Cluster Center by Cluster Membership"/>
+<topic href="kmeans_telco_final_02.htm" label="Final Cluster Centers"/>
+<topic href="kmeans_telco_distance_02.htm" label="Distances between Final Cluster Centers"/>
+<topic href="kmeans_telco_cases_02.htm" label="Number of Cases in Each Cluster"/>
+</topic>
+<topic href="kmeans_summary.htm" label="Summary"/>
+</topic>
+<topic href="kmeans_related.htm" label="Related Procedures"/>
+<topic href="kmeans_readings.htm" label="Recommended Readings"/>
+</topic>
+<topic label="Nonparametric Tests" href="npartests_table.htm">
+<topic href="npar_credit_card_intro.htm" label="Using Nonparametric Tests to Study Credit Card Data">
+<topic href="npar_credit_card_prepare_data_01.htm" label="Preparing the Data for Independent Samples Analysis"/>
+<topic href="npar_credit_card_independent_howto.htm" label="Running an Independent Samples Nonparametric Analysis"/>
+<topic href="npar_credit_card_hypothesis_test_summary.htm" label="Hypothesis Test Summary"/>
+<topic href="npar_credit_card_independent_samples_test.htm" label="Independent Samples Test View"/>
+<topic href="npar_credit_card_pairwise_comparisons.htm" label="Pairwise Comparisons"/>
+<topic href="npar_credit_card_categorical_field_information.htm" label="Categorical Field Information"/>
+<topic href="npar_credit_card_prepare_data_02.htm" label="Preparing the Data for Related Samples Analysis"/>
+<topic href="npar_credit_card_related_howto.htm" label="Running a Related Samples Nonparametric Analysis"/>
+<topic href="npar_credit_card_hypothesis_test_summary_02.htm" label="Hypothesis Test Summary"/>
+<topic href="npar_credit_card_homogeneous_subsets.htm" label="Homogeneous Subsets"/>
+<topic href="npar_credit_card_summary.htm" label="Summary"/>
+</topic>
+</topic>
+<topic label="Multiple Response Analysis" href="multipleresponse_table.htm">
+<topic href="multresponse_telco_intro.htm" label="Using Multiple Response Analysis to Track Service Usage">
+<topic href="multresponse_telco_definesets_howto.htm" label="Defining the Multiple Response Set"/>
+<topic href="multresponse_telco_howto.htm" label="Producing Frequency Tables"/>
+<topic href="multresponse_freq_telco_casesummary.htm" label="Case Summary"/>
+<topic href="multresponse_telco_freqtable.htm" label="Frequency Table"/>
+<topic href="multresponse_telco_computenoservices_howto.htm" label="Accounting for Customers Without Services"/>
+<topic href="multresponse_xtab_telco_howto.htm" label="Producing Crosstabulation Tables"/>
+<topic href="multresponse_telco_crosstabulation.htm" label="Crosstabulation Table"/>
+<topic href="multresponse_telco_summary.htm" label="Summary"/>
+</topic>
+</topic>
+<topic label="Measures of reliability in scale problems">
+<topic href="reliability_table.htm" label="Reliability analysis"/>
+<topic href="rely_tvsurvey_intro.htm" label="Using reliability measures to analyze survey items">
+<topic href="rely_tvsurvey_howto.htm" label="Running the Analysis"/>
+<topic href="rely_tvsurvey_descstats.htm" label="Descriptive statistics"/>
+<topic href="rely_tvsurvey_cronbach.htm" label="Cronbach's alpha">
+<topic href="rely_tvsurvey_alphatable.htm" label="Reliability Table"/>
+</topic>
+<topic href="rely_tvsurvey_splithalf.htm" label="Split-half coefficients"/>
+<topic href="rely_tvsurvey_guttman.htm" label="Guttman's lower bounds"/>
+<topic href="rely_tvsurvey_parallel.htm" label="Parallel and strictly parallel"/>
+</topic>
+<topic href="rely_judges_intro.htm" label="Using reliability measures to analyze inter-rater agreement">
+<topic href="rely_judges_howto.htm" label="Running the analysis"/>
+<topic href="rely_judges_desc.htm" label="Descriptive statistics"/>
+<topic href="rely_judges_icc.htm" label="Intraclass correlation coefficients"/>
+<topic href="rely_judges_summary.htm" label="Summary"/>
+</topic>
+<topic href="rely_readings.htm" label="Recommended readings"/>
+</topic>
+<topic label="Ratio Statistics" href="ratiostatistics_table.htm">
+<topic href="ratio_property_intro.htm" label="Using Ratio Statistics to Aid Property Value Assessment">
+<topic href="ratio_property_howto.htm" label="Running the Analysis"/>
+<topic href="ratio_property_stats.htm" label="Ratio Statistics"/>
+<topic href="ratio_property_summary.htm" label="Summary"/>
+</topic>
+<topic href="ratio_related.htm" label="Related Procedures"/>
+<topic href="ratio_readings.htm" label="Recommended Readings"/>
+</topic>
+<topic label="ROC Curve" href="roccurve_table.htm">
+<topic href="roc_hiv_intro.htm" label="Using ROC Curve to Evaluate Assay Performance">
+<topic href="roc_hiv_howto.htm" label="Running the Analysis"/>
+<topic href="roc_curve_hiv_01.htm" label="ROC Curve"/>
+<topic href="roc_area_hiv_01.htm" label="Area under the Curve"/>
+<topic href="roc_coord_hiv_01.htm" label="Coordinates of the Curve"/>
+<topic href="roc_hiv_summary.htm" label="Summary"/>
+</topic>
+<topic href="roc_bankloan_intro.htm" label="Using ROC Curves to Choose between Competing Classification Schemes">
+<topic href="roc_bankloan_howto.htm" label="Running the Analysis"/>
+<topic href="roc_curve_bankloan_01.htm" label="ROC Curve"/>
+<topic href="roc_area_bankloan_01.htm" label="Area under the Curve"/>
+<topic href="roc_bankloan_summary.htm" label="Summary"/>
+</topic>
+<topic href="roc_related.htm" label="Related Procedures"/>
+<topic href="roc_readings.htm" label="Recommended Readings"/>
+</topic>
+<topic label="Control Charts" href="spchart_table.htm">
+<topic href="spch_model.htm" label="Control Chart Principles"/>
+<topic href="spch_ph_intro.htm" label="Using X-bar and R Charts to Monitor Shampoo pH">
+<topic href="spch_ph_howto.htm" label="Running the Analysis"/>
+<topic href="spch_ph_rchart.htm" label="Range Chart"/>
+<topic href="spch_rchart_xbarchart.htm" label="Relationship between the R Chart and X-bar Chart"/>
+<topic href="spch_xbar_chart.htm" label="X-bar Chart"/>
+<topic href="spch_xbar_rules.htm" label="Rule Violations"/>
+<topic href="spch_xbar_stat.htm" label="Process Statistics"/>
+<topic href="spch_ph_summary.htm" label="Summary"/>
+</topic>
+<topic href="spch_cloth_intro.htm" label="Using p Charts to Track the Proportion of Defective Units">
+<topic href="spch_cloth_howto.htm" label="Running the Analysis"/>
+<topic href="spch_cloth_pchart.htm" label="p Chart"/>
+</topic>
+<topic href="spch_readings.htm" label="Recommended Readings"/>
+</topic>
+<topic label="Select Predictors" href="selectpred_table.htm">
+<topic href="selectpred_customerdbase_intro.htm" label="Using Select Predictors to Mine a Customer Database">
+<topic href="selectpred_customerdbase_howto.htm" label="Running the Analysis"/>
+<topic href="selectpred_customerdbase_exclpred.htm" label="Excluded Predictors"/>
+<topic href="selectpred_customerdbase_predsummary.htm" label="Predictor Summary"/>
+<topic href="selectpred_customerdbase_howto_02.htm" label="Widening the Search"/>
+<topic href="selectpred_customerdbase_predsummary_02.htm" label="Predictor Summary"/>
+<topic href="selectpred_customerdbase_selpred.htm" label="Selected Predictors"/>
+</topic>
+<topic href="selectpred_related.htm" label="Related Procedures"/>
+</topic>
+<topic label="Naive Bayes" href="naivebayes_table.htm">
+<topic href="naivebayes_model.htm" label="The Model"/>
+<topic href="naivebayes_bankloan_intro.htm" label="Using Naive Bayes for Predictor Selection and Classification">
+<topic href="naivebayes_bankloan_dataprep.htm" label="Preparing the Data for Analysis"/>
+<topic href="naivebayes_bankloan_howto.htm" label="Running the Analysis"/>
+<topic href="naivebayes_bankloan_cps.htm" label="Case Processing Summary"/>
+<topic href="naivebayes_bankloan_subsetsummary.htm" label="Subset Summary"/>
+<topic href="naivebayes_bankloan_classification.htm" label="Classification"/>
+<topic href="naivebayes_bankloan_predvals.htm" label="Predictor Effects"/>
+<topic href="naivebayes_telco_summary.htm" label="Summary"/>
+</topic>
+<topic href="naivebayes_customerdbase_intro.htm" label="Using Naive Bayes to Classify Respondents">
+<topic href="naivebayes_customerdbase_howto.htm" label="Running the Analysis"/>
+<topic href="naivebayes_customerdbase_classification.htm" label="Classification"/>
+<topic href="naivebayes_data_summary.htm" label="Summary"/>
+</topic>
+<topic href="naivebayes_related.htm" label="Related Procedures"/>
+<topic href="naivebayes_readings.htm" label="Recommended Readings"/>
+</topic>
+<topic label="Simulation" href="simulation_tutorial.htm">
+<topic href="simulation_diabetes_intro.htm" label="Using simulation to model treatment costs for diabetes">
+<topic href="simulation_diabetes_howto.htm" label="Running the simulation"/>
+<topic href="simulation_diabetes_simplan.htm" label="Simulation plan output"/>
+<topic href="simulation_diabetes_simrun_summary.htm" label="Simulation summary"/>
+<topic href="simulation_diabetes_simrun_descriptives.htm" label="Descriptive statistics"/>
+<topic href="simulation_diabetes_simrun_tornado.htm" label="Correlation tornado chart"/>
+<topic href="simulation_diabetes_simrun_pdf.htm" label="Probability Density chart"/>
+<topic href="simulation_diabetes_summary.htm" label="Summary"/>
+</topic>
+<topic href="simulation_npv_intro.htm" label="Accounting for risk in a net present value calculation">
+<topic href="simulation_npv_howto.htm" label="Setting up the simulation"/>
+<topic href="simulation_npv_checkoutput.htm" label="Checking the output"/>
+<topic href="simulation_npv_sensitivity.htm" label="Running a sensitivity analysis"/>
+<topic href="simulation_npv_results.htm" label="Analyzing the results"/>
+<topic href="simulation_npv_summary.htm" label="Summary"/>
+</topic>
+</topic>
+</topic>
+<topic label="Advanced Statistics Option">
+<topic label="Multivariate General Linear Modeling" href="glm_table.htm">
+<topic href="glm-multi_toc.htm" label="GLM Multivariate">
+<topic href="glmm_intro.htm" label="GLM Multivariate"/>
+<topic href="glmm_model.htm" label="The Model"/>
+<topic href="glmm_patlos_intro_01.htm" label="Multivariate Analysis of Variance (MANOVA) Using the GLM Multivariate Procedure">
+<topic href="glmm_patlos_howto_01.htm" label="Running the Analysis"/>
+<topic href="glmm_patlos_mult.htm" label="SSCP Matrices and Multivariate Tests"/>
+<topic href="glmm_patlos_contrast.htm" label="Contrast Results"/>
+<topic href="glmm_patlos_homcov.htm" label="Testing Homogeneity of Covariance Matrices"/>
+<topic href="glmm_patlos_intro_02.htm" label="Using Log-transformed Treatment Costs">
+<topic href="glmm_patlos_homcov_02.htm" label="Testing Homogeneity of Covariance Matrices"/>
+<topic href="glmm_patlos_homcov_02b.htm" label="Is the Assumption of Homogeneity Violated?"/>
+<topic href="glmm_patlos_contrast_02.htm" label="Contrast Results"/>
+</topic>
+<topic href="glmm_patlos_summary.htm" label="Summary"/>
+</topic>
+<topic href="glmm_telco_intro.htm" label="Using GLM Multivariate to Profile Churners">
+<topic href="glmm_telco_howto.htm" label="Running the Analysis"/>
+<topic href="glmm_telco_mult.htm" label="Multivariate tests"/>
+<topic href="glmm_telco_profplt.htm" label="Profile Plots"/>
+<topic href="glmm_telco_summary.htm" label="Summary"/>
+</topic>
+<topic href="glmm_related.htm" label="Related Procedures"/>
+<topic href="glmm_readings.htm" label="Recommended Readings"/>
+</topic>
+<topic href="glm-repeated_toc.htm" label="GLM Repeated Measures">
+<topic href="glmr_intro.htm" label="GLM Repeated Measures"/>
+<topic href="glmr_model.htm" label="The GLM Repeated Measures Model"/>
+<topic href="glmr_testmkt_intro.htm" label="A Repeated Measures Analysis of Variance">
+<topic href="glmr_testmkt_dataprep.htm" label="Preparing the Data File"/>
+<topic href="glmr_testmkt_howto.htm" label="Running the Analysis"/>
+<topic href="glmr_testmarket_bseff.htm" label="Between-Subjects Effects"/>
+<topic href="glmr_testmarket_profplt.htm" label="Profile Plots"/>
+<topic href="glmr_testmarket_wssscp.htm" label="Within-Subjects SSCP Matrices"/>
+<topic href="glmr_testmarket_mult.htm" label="Multivariate Tests of Within-Subjects Effects"/>
+<topic href="glmr_testmarket_homcov.htm" label="Testing Homogeneity of Covariance Matrices"/>
+<topic href="glmr_testmarket_mauchly.htm" label="Mauchly's Test of Sphericity"/>
+<topic href="glmr_testmarket_wseff.htm" label="Univariate Tests of Within-Subjects Effects"/>
+<topic href="glmr_testmarket_contrast.htm" label="Contrast Results"/>
+<topic href="glmr_testmkt_summary.htm" label="Summary"/>
+</topic>
+<topic href="glmr_diet_intro.htm" label="A Doubly Multivariate Analysis of Variance">
+<topic href="glmr_diet_howto.htm" label="Running the Analysis"/>
+<topic href="glmr_diet_mult.htm" label="Multivariate Tests"/>
+<topic href="glmr_diet_contrast.htm" label="Contrast Results"/>
+<topic href="glmr_diet_means.htm" label="Estimated Marginal Means"/>
+<topic href="glmr_diet_profile.htm" label="Profile Plots"/>
+<topic href="glmr_diet_summary.htm" label="Summary"/>
+</topic>
+<topic href="glmr_related.htm" label="Related Procedures"/>
+<topic href="glmr_readings.htm" label="Recommended Readings"/>
+</topic>
+</topic>
+<topic label="Variance Components" href="variancecomponentsestimation_table.htm">
+<topic href="varcomp_model.htm" label="The Model">
+<topic href="varcomp_estimation_methods.htm" label="Estimation Methods">
+<topic href="varcomp_anova_method.htm" label="ANOVA Method"/>
+<topic href="varcomp_minque_method.htm" label="MINQUE Method"/>
+<topic href="varcomp_ml_method.htm" label="Maximum Likelihood Method"/>
+<topic href="varcomp_reml_method.htm" label="Restricted Maximum Likelihood Method"/>
+</topic>
+</topic>
+<topic href="varcomp_groc_intro.htm" label="Using Variance Components to Assess a Random Effect">
+<topic href="varcomp_groc_howto_01.htm" label="Running the Analysis"/>
+<topic href="varcomp_groc_varest.htm" label="Variance Estimates"/>
+<topic href="varcomp_groc_anova_01.htm" label="Computing Variance Estimates (ANOVA Method)"/>
+<topic href="varcomp_groc_intro_02.htm" label="Restricted Maximum Likelihood Estimation">
+<topic href="varcomp_groc_iter_02.htm" label="Iteration History"/>
+<topic href="varcomp_groc_varest_02.htm" label="Variance Estimates"/>
+<topic href="varcomp_groc_covmat_02.htm" label="Asymptotic Covariance Matrix"/>
+</topic>
+<topic href="varcomp_groc_intro_03.htm" label="MINQUE (1) Estimation">
+<topic href="varcomp_groc_varest_03.htm" label="Variance Estimates"/>
+</topic>
+<topic href="varcomp_groc_intro_04.htm" label="MINQUE (0) Estimation">
+<topic href="varcomp_groc_varest_04.htm" label="Variance Estimates"/>
+</topic>
+<topic href="varcomp_groc_summary.htm" label="Summary"/>
+</topic>
+<topic href="varcomp_related.htm" label="Related Procedures"/>
+<topic href="varcomp_readings.htm" label="Recommended Readings"/>
+</topic>
+<topic label="Linear Mixed Models" href="mixed_table.htm">
+<topic href="mixed_model.htm" label="The Linear Mixed Model"/>
+<topic href="mixed_testmkt_intro_01.htm" label="Using Linear Mixed Models to Analyze Product Test Results From Multiple Markets">
+<topic href="mixed_testmkt_howto_01.htm" label="Running the Analysis"/>
+<topic href="mixed_testmkt_modeldim_01.htm" label="Model Dimension"/>
+<topic href="mixed_testmkt_fixed_01.htm" label="Fixed Effects"/>
+<topic href="mixed_testmkt_covpar_01.htm" label="Covariance Parameters"/>
+<topic href="mixed_testmkt_gmat_01.htm" label="Random Effect Covariance (G) Matrix"/>
+<topic href="mixed_testmkt_summary_01.htm" label="Summary"/>
+</topic>
+<topic href="mixed_diet_intro.htm" label="Using Linear Mixed Models to Analyze Repeated Measurements">
+<topic href="mixed_diet_dataprep.htm" label="Preparing the Data File"/>
+<topic href="mixed_diet_howto.htm" label="Running the Analysis"/>
+<topic href="mixed_fixed_diet_01.htm" label="Fixed Effects"/>
+<topic href="mixed_diet_intro_01b.htm" label="Treating Time as a Repeated Effect">
+<topic href="mixed_diet_howto_02.htm" label="Running the Analysis"/>
+<topic href="mixed_diet_moddim_02.htm" label="Model Dimension"/>
+<topic href="mixed_diet_info_02.htm" label="Information Criteria"/>
+<topic href="mixed_diet_fixed_02.htm" label="Fixed Effects"/>
+<topic href="mixed_diet_covpar_02.htm" label="Covariance Parameters"/>
+<topic href="mixed_diet_rmat_02.htm" label="Residual Covariance (R) Matrix"/>
+</topic>
+<topic href="mixed_diet_intro_02b.htm" label="Restricting the Covariance Structure">
+<topic href="mixed_diet_howto_03.htm" label="Running the Analysis"/>
+<topic href="mixed_diet_moddim_03.htm" label="Model Dimension"/>
+<topic href="mixed_diet_rmat_03.htm" label="Residual Covariance (R) Matrix"/>
+<topic href="mixed_diet_info_03.htm" label="Information Criteria"/>
+</topic>
+<topic href="mixed_diet_intro_04.htm" label="A Likelihood Ratio Test">
+<topic href="mixed_diet_lrtstat_04.htm" label="Computing the Likelihood Ratio Statistic"/>
+<topic href="mixed_diet_howto_04.htm" label="Computing the Significance Value of the Test Statistic"/>
+</topic>
+<topic href="mixed_diet_summary.htm" label="Summary"/>
+</topic>
+<topic href="mixed_groc_intro.htm" label="Using Linear Mixed Models to Analyze a Crossover Trial">
+<topic href="mixed_groc_howto.htm" label="Running the Analysis"/>
+<topic href="mixed_groc_moddim_01.htm" label="Model Dimension"/>
+<topic href="mixed_groc_fixed_01.htm" label="Fixed Effects"/>
+<topic href="mixed_groc_covpar_01.htm" label="Covariance Parameters"/>
+<topic href="mixed_groc_intro_02.htm" label="Using Repeated Effects to Model the Crossover Trial">
+<topic href="mixed_groc_howto_02.htm" label="Running the Analysis"/>
+<topic href="mixed_groc_warning_02.htm" label="Warning"/>
+<topic href="mixed_groc_moddim_02.htm" label="Model Dimension"/>
+<topic href="mixed_groc_info_02.htm" label="Information Criteria"/>
+<topic href="mixed_groc_fixtest_02.htm" label="Fixed Effects"/>
+<topic href="mixed_groc_covpar_02.htm" label="Covariance Parameters"/>
+<topic href="mixed_groc_rmat_02.htm" label="Residual Covariance (R) Matrix"/>
+</topic>
+<topic href="mixed_groc_intro_03.htm" label="Specifying an Unstructured Covariance Matrix for the Repeated Effects">
+<topic href="mixed_groc_howto_03.htm" label="Running the Analysis"/>
+<topic href="mixed_groc_moddim_03.htm" label="Model Dimension"/>
+<topic href="mixed_groc_info_03.htm" label="Information Criteria"/>
+<topic href="mixed_groc_fixtest_03.htm" label="Fixed Effects"/>
+<topic href="mixed_groc_covpar_03.htm" label="Covariance Parameters"/>
+<topic href="mixed_groc_rmat_03.htm" label="Residual Covariance (R) Matrix"/>
+</topic>
+<topic href="mixed_groc_intro_04.htm" label="Specifying the Treatment as the Repeated Effect">
+<topic href="mixed_groc_howto_04.htm" label="Running the Analysis"/>
+<topic href="mixed_groc_moddim_04.htm" label="Model Dimension"/>
+<topic href="mixed_groc_info_04.htm" label="Information Criteria"/>
+<topic href="mixed_groc_testfix_04.htm" label="Fixed Effects"/>
+<topic href="mixed_groc_rmat_04.htm" label="Residual Covariance (R) Matrix"/>
+</topic>
+<topic href="mixed_groc_summary.htm" label="Summary"/>
+</topic>
+<topic href="mixed_diet_intro_02.htm" label="Using Linear Mixed Models to Model Random Effects and Repeated Measures">
+<topic href="mixed_testmkt_howto_02.htm" label="Running the Analysis"/>
+<topic href="mixed_testmkt_moddim_02.htm" label="Model Dimension"/>
+<topic href="mixed_testmkt_fixed_02.htm" label="Fixed Effects"/>
+<topic href="mixed_testmkt_covpar_02.htm" label="Covariance Parameters"/>
+<topic href="mixed_testmkt_intro_03.htm" label="An Unstructed Covariance Matrix for Repeated Effects">
+<topic href="mixed_testmkt_howto_03.htm" label="Running the Analysis"/>
+<topic href="mixed_testmkt_moddim_03.htm" label="Model Dimension"/>
+<topic href="mixed_testmkt_info_03.htm" label="Information Criteria"/>
+<topic href="mixed_testmkt_fixed_03.htm" label="Fixed Effects"/>
+<topic href="mixed_testmkt_gmat_03.htm" label="Random Effect Covariance (G) Matrix"/>
+<topic href="mixed_testmkt_rmat_03.htm" label="Residual Covariance (R) Matrix"/>
+</topic>
+<topic href="mixed_testmkt_summary_02.htm" label="Summary"/>
+</topic>
+<topic href="mixed_diet_intro_03.htm" label="Using Linear Mixed Models to Fit a Random Coefficients Model">
+<topic href="mixed_diet_dataprep_05.htm" label="Preparing the Data File"/>
+<topic href="mixed_diet_howto_05.htm" label="Running the Analysis"/>
+<topic href="mixed_diet_moddim_05.htm" label="Model Dimension"/>
+<topic href="mixed_diet_fixed_05.htm" label="Fixed Effects"/>
+<topic href="mixed_diet_covpar_05.htm" label="Covariance Parameters"/>
+<topic href="mixed_diet_summary_02.htm" label="Summary"/>
+</topic>
+<topic href="mixed_related.htm" label="Related Procedures"/>
+<topic href="mixed_readings.htm" label="Recommended Readings"/>
+</topic>
+<topic label="Generalized Linear Models" href="generalizedlinearmodel_table.htm">
+<topic href="gzlm_toc.htm" label="Generalized Linear Models">
+<topic href="genlin_intro.htm" label="Generalized Linear Models"/>
+<topic href="genlin_ships_intro.htm" label="Using Poisson Regression to Analyze Ship Damage Rates (Generalized Linear Models)">
+<topic href="genlin_ships_howto.htm" label="Fitting an &quot;Overdispersed&quot; Poisson Regression"/>
+<topic href="genlin_ships_fit.htm" label="Goodness-of-Fit Statistics"/>
+<topic href="genlin_ships_omnibus.htm" label="Omnibus Test"/>
+<topic href="genlin_ships_test-model-effects.htm" label="Tests of Model Effects"/>
+<topic href="genlin_ships_paramest.htm" label="Parameter Estimates"/>
+<topic href="genlin_ships_emmeans-shiptype.htm" label="Estimated Marginal Means: Ship Type"/>
+<topic href="genlin_ships_emmeans-construction.htm" label="Estimated Marginal Means: Year of Construction"/>
+<topic href="genlin_ships_resid_plot.htm" label="A Residual Diagnostic Plot"/>
+<topic href="genlin_ships_negbin_intro.htm" label="Fitting Alternative Models"/>
+<topic href="genlin_ships_negbin_fit.htm" label="Goodness-of-Fit Statistics"/>
+<topic href="genlin_ships_summary.htm" label="Summary"/>
+</topic>
+<topic href="genlin_car-ins_intro.htm" label="Fitting a Gamma Regression to Car Insurance Claims (Generalized Linear Models)">
+<topic href="genlin_car-ins_howto.htm" label="Running the Analysis"/>
+<topic href="genlin_car-claims_test-model-effects.htm" label="Parameter Estimates"/>
+<topic href="genlin_car-claims_emmeans-holderage.htm" label="Estimated Marginal Means: Policyholder Age"/>
+<topic href="genlin_car-claims_emmeans-vehicletype.htm" label="Estimated Marginal Means: Vehicle Type"/>
+<topic href="genlin_car-claims_emmeans-vehicleage.htm" label="Estimated Marginal Means: Vehicle Age"/>
+<topic href="genlin_car-claims_resid_plot.htm" label="A Residual Diagnostic Plot"/>
+<topic href="genlin_car-ins_summary.htm" label="Summary"/>
+</topic>
+<topic href="genlin_ulcer_intro.htm" label="Analyzing Interval-Censored Survival Data (Generalized Linear Models)">
+<topic href="genlin_ulcer_howto.htm" label="Running the Analysis"/>
+<topic href="genlin_ulcer_test-model-effects.htm" label="Tests of Model Effects"/>
+<topic href="genlin_ulcer_treatment-only_01.htm" label="Fitting the Treatment-Only Model"/>
+<topic href="genlin_ulcer_treatment-only_paramest_01.htm" label="Parameter Estimates"/>
+<topic href="genlin_ulcer_treatment-only_out_01.htm" label="Predicted Recurrence and Survival Probabilities"/>
+<topic href="genlin_ulcer_intro_02.htm" label="Modeling the Recurrence Probability by Period"/>
+<topic href="genlin_ulcer_test-model-effects_02.htm" label="Tests of Model Effects"/>
+<topic href="genlin_ulcer_treatment-only_02.htm" label="Fitting the Reduced Model"/>
+<topic href="genlin_ulcer_treatment-only_paramest_02.htm" label="Parameter Estimates"/>
+<topic href="genlin_ulcer_treatment-only_probrecur_02.htm" label="Predicted Recurrence and Survival Probabilities"/>
+<topic href="genlin_ulcer_summary.htm" label="Summary"/>
+</topic>
+<topic href="genlin_related.htm" label="Related Procedures"/>
+<topic href="genlin_readings.htm" label="Recommended Readings"/>
+</topic>
+<topic href="gee_toc.htm" label="Generalized Estimating Equations">
+<topic href="gee_intro.htm" label="Generalized Estimating Equations"/>
+<topic href="gee_wheeze_intro.htm" label="Using Generalized Estimating Equations to Fit a Repeated Measures Logistic Regression">
+<topic href="gee_wheeze_howto.htm" label="Running the Analysis"/>
+<topic href="gee_wheeze_modelinfo.htm" label="Model Information"/>
+<topic href="gee_wheeze_correlated-data-summary.htm" label="Correlated Data Summary"/>
+<topic href="gee_wheeze_fit.htm" label="Goodness of Fit"/>
+<topic href="gee_wheeze_paramest.htm" label="Parameter Estimates"/>
+<topic href="gee_wheeze_working-correlation.htm" label="Working Correlation Matrix"/>
+<topic href="gee_wheeze_corrtype.htm" label="Choosing a Correlation Structure"/>
+<topic href="gee_wheeze_predsubset.htm" label="Choosing Model Terms"/>
+<topic href="gee_wheeze_summary.htm" label="Summary"/>
+</topic>
+<topic href="gee_related.htm" label="Related Procedures"/>
+<topic href="gee_readings.htm" label="Recommended Readings"/>
+</topic>
+</topic>
+<topic label="Generalized linear mixed models" href="glmm_table.htm">
+<topic href="glmm_testscores_intro.htm" label="Analyzing test scores">
+<topic href="glmm_testscores_howto.htm" label="Running the analysis"/>
+<topic href="glmm_testscores_model_summary.htm" label="Model Summary"/>
+<topic href="glmm_testscores_data_structure.htm" label="Data Structure"/>
+<topic href="glmm_testscores_predicted_by_observed.htm" label="Predicted by Observed"/>
+<topic href="glmm_testscores_fixed_effects.htm" label="Fixed Effects"/>
+<topic href="glmm_testscores_fixed_coefficients.htm" label="Fixed Coefficients"/>
+<topic href="glmm_testscores_covariance_parameters.htm" label="Covariance Parameters"/>
+<topic href="glmm_testscores_howto_02.htm" label="Comparing to a linear regression model"/>
+<topic href="glmm_testscores_model_summary_02.htm" label="Model Summary"/>
+<topic href="glmm_testscores_covariance_parameters_02.htm" label="Covariance Parameters"/>
+<topic href="glmm_testscores_fixed_coefficients_02.htm" label="Fixed Coefficients"/>
+</topic>
+<topic href="glmm_anticonvulsant_intro.htm" label="Determining treatment effectiveness in a clinical trial">
+<topic href="glmm_anticonvulsant_howto.htm" label="Running the analysis"/>
+<topic href="glmm_anticonvulsant_model_summary.htm" label="Model Summary"/>
+<topic href="glmm_anticonvulsant_parameter_estimates.htm" label="Fixed effect and covariance parameter estimates"/>
+<topic href="glmm_anticonvulsant_predicted_by_observed.htm" label="Predicted by Observed"/>
+<topic href="glmm_anticonvulsant_summary.htm" label="Summary"/>
+</topic>
+<topic href="glmm_cablesurvey_intro.htm" label="Profiling cable customers">
+<topic href="glmm_cablesurvey_howto.htm" label="Running the analysis"/>
+<topic href="glmm_cablesurvey_accuracy.htm" label="Accuracy and classification results"/>
+<topic href="glmm_cablesurvey_outputtype.htm" label="Fixed Coefficients"/>
+<topic href="glmm_cablesurvey_summary.htm" label="Summary"/>
+</topic>
+</topic>
+<topic label="Loglinear Modeling" href="generalloglinear_table.htm">
+<topic href="loglinear-modsel_toc.htm" label="Model Selection Loglinear Analysis">
+<topic href="hierarchicalloglinearanalysis_table.htm" label="Model Selection Loglinear Analysis"/>
+<topic href="hilog_accident_intro.htm" label="Using Model Selection Loglinear Analysis to Find the &quot;Best&quot; Model">
+<topic href="hilog_demo_howto.htm" label="Running the Analysis"/>
+<topic href="hilog_demo_stepsummary.htm" label="Step Summary"/>
+<topic href="hilog_demo_fit.htm" label="Goodness-of-Fit Tests"/>
+<topic href="hilog_demo_cellcount.htm" label="Cell Count and Residuals"/>
+<topic href="hilog_demo_summary.htm" label="Summary"/>
+</topic>
+<topic href="hilog_related.htm" label="Related Procedures"/>
+<topic href="hilog_readings.htm" label="Recommended Readings"/>
+</topic>
+<topic href="loglinear-general_toc.htm" label="General Loglinear Analysis">
+<topic href="genlog_intro.htm" label="General Loglinear Analysis"/>
+<topic href="genlog_model.htm" label="The General Loglinear Model"/>
+<topic href="genlog_accident_intro.htm" label="Using General Loglinear Analysis to Model Response to Mailings">
+<topic href="genlog_demo_howto.htm" label="Running the Analysis"/>
+<topic href="genlog_demo_fit.htm" label="Goodness-of-Fit Tests"/>
+<topic href="genlog_demo_cellcount.htm" label="Cell Count and Residuals"/>
+<topic href="genlog_demo_intro_02.htm" label="Adding the Interaction to the Model">
+<topic href="genlog_demo_howto_02.htm" label="Running the Analysis"/>
+<topic href="genlog_demo_param_01.htm" label="Parameter Estimates"/>
+</topic>
+<topic href="genlog_demo_summary.htm" label="Summary"/>
+</topic>
+<topic href="genlog_acci_intro.htm" label="Using General Loglinear Analysis to Model Accident Rates">
+<topic href="genlog_dataprep_howto.htm" label="Weighting the Cases"/>
+<topic href="genlog_accident_howto.htm" label="Running the Analysis"/>
+<topic href="genlog_acci_param_01.htm" label="Parameter Estimates"/>
+<topic href="genlog_2nddata_summary.htm" label="Summary"/>
+</topic>
+<topic href="genlog_debate_intro.htm" label="Paired Data">
+<topic href="genlog_paired_models.htm" label="Models for Paired Data"/>
+<topic href="genlog_debate_dataprep_howto.htm" label="Weighting the Cases"/>
+<topic href="genlog_debate_howto.htm" label="Running the Symmetry Model"/>
+<topic href="genlog_debate_fit_01.htm" label="Goodness-of-fit Tests"/>
+<topic href="genlog_debate_howto_02.htm" label="Running the Quasi-Symmetry Model"/>
+<topic href="genlog_debate_fit_02.htm" label="Goodness-of-fit Tests"/>
+<topic href="genlog_debate_mhtest.htm" label="Testing Marginal Homogeneity">
+<topic href="genlog_debate_howto_mh.htm" label="Computing the Statistic"/>
+</topic>
+<topic href="genlog_debate_howto_04.htm" label="Running the Quasi-Independence Model"/>
+<topic href="genlog_debate_fit_04.htm" label="Goodness-of-fit Tests"/>
+<topic href="genlog_debate_summary.htm" label="Summary"/>
+</topic>
+<topic href="genlog_related.htm" label="Related Procedures"/>
+<topic href="genlog_readings.htm" label="Recommended Readings"/>
+</topic>
+<topic href="loglinear-logit_toc.htm" label="Logit Loglinear Analysis">
+<topic href="loglog_intro.htm" label="Logit Loglinear Analysis"/>
+<topic href="loglog_model.htm" label="The Model"/>
+<topic href="loglog_cereal_intro.htm" label="Using Logit Loglinear Analysis to Model Consumer Preference of Packaged Goods">
+<topic href="loglog_cereal_howto.htm" label="Running the Analysis"/>
+<topic href="loglog_cereal_gof.htm" label="Goodness-of-Fit"/>
+<topic href="loglog_cereal_cellprob.htm" label="Cell Count and Residuals"/>
+<topic href="loglog_cereal_disp.htm" label="Analysis of Dispersion"/>
+<topic href="loglog_cereal_est.htm" label="Logit Loglinear Analysis Parameter Estimates"/>
+<topic href="loglog_cereal_summary.htm" label="Summary"/>
+</topic>
+<topic href="loglog_related.htm" label="Related Procedures"/>
+<topic href="logitlog_readings.htm" label="Recommended Readings"/>
+</topic>
+</topic>
+<topic label="Life Tables" href="survivalanalysis_table.htm">
+<topic href="lifetables_telco_intro.htm" label="Using Life Tables to Examine Customer Time to Churn">
+<topic href="lifetables_telco_howto.htm" label="Running the Analysis"/>
+<topic href="lifetables_telco_tables.htm" label="Life Tables"/>
+<topic href="lifetables_telco_survival.htm" label="Survival Curve"/>
+<topic href="lifetables_telco_comparisons.htm" label="Comparisons"/>
+<topic href="lifetables_telco_summary.htm" label="Summary"/>
+</topic>
+<topic href="lifetables_readings.htm" label="Recommended Readings"/>
+</topic>
+<topic label="Kaplan-Meier Survival Analysis" href="kaplan_meier_table.htm">
+<topic href="km_telco_intro.htm" label="Using Kaplan-Meier Survival Analysis to Test Competing Pain Relief Treatments">
+<topic href="km_telco_howto.htm" label="Running the Analysis"/>
+<topic href="km_painmeds_tables.htm" label="Survival Tables"/>
+<topic href="km_painmeds_survival.htm" label="Survival Curve"/>
+<topic href="km_painmeds_means.htm" label="Comparing Survival Curves"/>
+<topic href="km_telco_summary.htm" label="Summary"/>
+</topic>
+<topic href="km_readings.htm" label="Recommended Readings"/>
+</topic>
+<topic label="Cox Regression" href="coxregression_table.htm">
+<topic href="coxreg_model.htm" label="The Cox Regression Model">
+<topic href="coxreg_model_prop_haz.htm" label="The Proportional Hazards Model"/>
+<topic href="coxreg_model_strata.htm" label="Stratified Proportional Hazards"/>
+<topic href="coxreg_model_time_dep_cov.htm" label="Time-Dependent Covariates"/>
+</topic>
+<topic href="coxreg_telco_intro.htm" label="Using Cox Regression to Model Customer Time to Churn">
+<topic href="coxreg_telco_howto.htm" label="Running the Analysis"/>
+<topic href="coxreg_telco_cps_01.htm" label="Censored Cases"/>
+<topic href="coxreg_telco_catcode.htm" label="Categorical Variable Codings"/>
+<topic href="coxreg_telco_varselect.htm" label="Variable Selection"/>
+<topic href="coxreg_telco_means.htm" label="Covariate Means and Patterns"/>
+<topic href="coxreg_telco_survival.htm" label="Survival Curve"/>
+<topic href="coxreg_telco_hazard.htm" label="Hazard Curves"/>
+<topic href="coxreg_telco_summary.htm" label="Summary"/>
+</topic>
+<topic href="coxreg_recid_intro.htm" label="Cox Regression with a Time-Dependent Covariate">
+<topic href="coxreg_recid_howto_01.htm" label="Running the Analysis"/>
+<topic href="coxreg_recid_scat_howto_01.htm" label="Creating the Diagnostic Scatterplot"/>
+<topic href="coxreg_recid_howto_02.htm" label="Adding the Time-Dependent Covariate">
+<topic href="coxreg_recid_varin_02.htm" label="Variables in the Equation"/>
+</topic>
+<topic href="coxreg_recid_summary.htm" label="Summary"/>
+</topic>
+<topic href="coxreg_readings.htm" label="Recommended Readings"/>
+</topic>
+</topic>
+<topic label="Bootstrapping Option">
+<topic label="Bootstrapping" href="bootstrap_ex_intro.htm">
+<topic href="bootstrap_telco_intro.htm" label="Using Bootstrapping to Obtain Confidence Intervals for Proportions">
+<topic href="bootstrap_telco_split.htm" label="Preparing the Data"/>
+<topic href="bootstrap_telco_howto.htm" label="Running the Analysis"/>
+<topic href="bootstrap_telco_bootstrap-specs.htm" label="Bootstrap Specifications"/>
+<topic href="bootstrap_telco_frequencies_statistics.htm" label="Statistics"/>
+<topic href="bootstrap_telco_frequencies_table.htm" label="Frequency Table"/>
+</topic>
+<topic href="bootstrap_employee01_intro.htm" label="Using Bootstrapping to Obtain Confidence Intervals for Medians">
+<topic href="bootstrap_employee01_howto.htm" label="Running the Analysis"/>
+<topic href="bootstrap_employee01_descriptives.htm" label="Descriptives"/>
+</topic>
+<topic href="bootstrap_employee02_intro.htm" label="Using Bootstrapping to Choose Better Predictors">
+<topic href="bootstrap_employee02_prep.htm" label="Preparing the Data"/>
+<topic href="bootstrap_employee02_howto.htm" label="Running the Analysis"/>
+<topic href="bootstrap_employee02_parameter-estimates.htm" label="Parameter Estimates"/>
+</topic>
+<topic href="bootstrap_readings.htm" label="Recommended Readings"/>
+</topic>
+</topic>
+<topic label="Categories Option">
+<topic label="Categorical Regression" href="catreg_table.htm">
+<topic href="catreg_data_intro.htm" label="Example: Carpet Cleaner Data">
+<topic href="catreg_carpet_linear.htm" label="A Standard Linear Regression Analysis">
+<topic href="catreg_carpet_linear_summary.htm" label="Model Summary"/>
+<topic href="catreg_carpet_linear_coeff.htm" label="Coefficients"/>
+<topic href="catreg_carpet_linear_resids.htm" label="Residual Scatterplots"/>
+</topic>
+<topic href="catreg_carpet_howto.htm" label="A Categorical Regression Analysis">
+<topic href="catreg_howto_01a.htm" label="Running the Analysis"/>
+<topic href="catreg_carpet_intercorrelations.htm" label="Intercorrelations"/>
+<topic href="catreg_carpet_modelfit.htm" label="Model Fit and Coefficients"/>
+<topic href="catreg_carpet_correlations.htm" label="Correlations and Importance"/>
+<topic href="catreg_carpet_transplots.htm" label="Transformation Plots"/>
+<topic href="catreg_carpet_multicollinearity.htm" label="Residual Analysis"/>
+</topic>
+</topic>
+<topic href="catreg_2nddata_intro.htm" label="Example: Ozone Data">
+<topic href="catreg_discretizing_ozone.htm" label="Discretizing Variables"/>
+<topic href="catreg_ozone_howto.htm" label="Selection of Transformation Type"/>
+<topic href="catreg_ozone_optimality.htm" label="Optimality of the Quantifications"/>
+<topic href="catreg_ozone_transformations_effects.htm" label="Effects of Transformations"/>
+</topic>
+<topic href="catreg_readings.htm" label="Recommended Readings"/>
+</topic>
+<topic label="Categorical Principal Components Analysis" href="catpca_table.htm">
+<topic href="catpca_guttman_intro.htm" label="Example: Examining Interrelations of Social Systems">
+<topic href="catpca_guttman_howto.htm" label="Running the Analysis"/>
+<topic href="catpca_guttman_dim.htm" label="Number of Dimensions"/>
+<topic href="catpca_guttman_quant.htm" label="Quantifications"/>
+<topic href="catpca_guttman_objscores.htm" label="Object Scores"/>
+<topic href="catpca_guttman_loadings.htm" label="Component Loadings"/>
+<topic href="catpca_guttman_intro_02.htm" label="Additional Dimensions">
+<topic href="catpca_data_howto_02.htm" label="Running the Analysis"/>
+<topic href="catpca_guttman_summary.htm" label="Model Summary">
+<topic href="catpca_guttman_objscores_02.htm" label="Object Scores"/>
+<topic href="catpca_guttman_loadings_02.htm" label="Component Loadings"/>
+</topic>
+</topic>
+</topic>
+<topic href="catpca_anorectic_intro.htm" label="Example: Symptomatology of Eating Disorders">
+<topic href="catpca_anorectic_howto.htm" label="Running the Analysis"/>
+<topic href="catpca_anorectic_transformationplots.htm" label="Transformation Plots"/>
+<topic href="catpca_anorectic_summary.htm" label="Model Summary"/>
+<topic href="catpca_anorectic_loadings.htm" label="Component Loadings"/>
+<topic href="catpca_anorectic_objscores.htm" label="Object Scores"/>
+<topic href="catpca_anorectic_categorypoints.htm" label="Examining the Structure of the Course of Illness">
+<topic href="catpca_anorectic_diffdevelop.htm" label="Differential Development for Selected Variables"/>
+</topic>
+</topic>
+<topic href="catpca_readings.htm" label="Recommended Readings"/>
+</topic>
+<topic label="Nonlinear Canonical Correlation Analysis" href="overals_table.htm">
+<topic href="overals_verd_intro.htm" label="Example: An Analysis of Survey Results">
+<topic href="overals_verd_howto.htm" label="Examining the Data"/>
+<topic href="overals_verd_similarity.htm" label="Accounting for Similarity between Sets">
+<topic href="overals_verd_summary.htm" label="Summary of Analysis"/>
+<topic href="overals_verd_weight.htm" label="Weights and Component Loadings"/>
+<topic href="overals_verd_loss.htm" label="Partitioning Fit and Loss"/>
+</topic>
+<topic href="overals_verd_loadings.htm" label="Component Loadings"/>
+<topic href="overals_verd_plots_transformation.htm" label="Transformation Plots"/>
+<topic href="overals_verd_catcoord.htm" label="Single Category versus Multiple Category Coordinates"/>
+<topic href="overals_verd_centroids.htm" label="Centroids and Projected Centroids"/>
+<topic href="overals_verd_intro_02.htm" label="An Alternative Analysis">
+<topic href="overals_verd_howto_02.htm" label="To Run the Analysis"/>
+</topic>
+<topic href="overals_verd_summary_02.htm" label="General Suggestions"/>
+</topic>
+<topic href="overals_readings.htm" label="Recommended Readings"/>
+</topic>
+<topic label="Correspondence analysis" href="correspondence_table.htm">
+<topic href="corresp_normalization.htm" label="Normalization"/>
+<topic href="corresp_coffee_intro.htm" label="Example: Perceptions of Coffee Brands">
+<topic href="corresp_coffee_howto.htm" label="Running the Analysis"/>
+<topic href="corresp_coffee_dim.htm" label="Dimensionality"/>
+<topic href="corresp_coffee_contrib.htm" label="Contributions"/>
+<topic href="corresp_coffee_plots.htm" label="Plots"/>
+<topic href="corresp_coffee_intro_02.htm" label="Symmetrical Normalization"/>
+</topic>
+<topic href="correspondence_readings.htm" label="Recommended readings"/>
+</topic>
+<topic label="Multiple Correspondence Analysis" href="multiplecorrespondence_table.htm">
+<topic href="homals_data_intro.htm" label="Example: Characteristics of Hardware">
+<topic href="homals_data_howto.htm" label="Running the Analysis"/>
+<topic href="mca_screws_summary.htm" label="Model Summary"/>
+<topic href="mca_screws_objscores.htm" label="Object Scores"/>
+<topic href="mca_screws_discrim.htm" label="Discrimination Measures"/>
+<topic href="mca_screws_catquant.htm" label="Category Quantifications"/>
+<topic href="mca_screws_obscores_02.htm" label="A More Detailed Look at Object Scores"/>
+<topic href="mca_screws_outliers.htm" label="Omission of Outliers"/>
+</topic>
+<topic href="mca_readings.htm" label="Recommended Readings"/>
+</topic>
+<topic label="Multidimensional Scaling" href="proxscal_table.htm">
+<topic href="proxscal_kinship_intro.htm" label="Example: An Examination of Kinship Terms">
+<topic href="proxscal_data_howto.htm" label="Choosing the Number of Dimensions"/>
+<topic href="proxscal_kinship_intro_02.htm" label="A Three-Dimensional Solution">
+<topic href="proxscal_kinship_howto_02.htm" label="Running the Analysis"/>
+<topic href="proxscal_kinship_stress.htm" label="Stress Measures"/>
+<topic href="proxscal_kinship_finalcoord.htm" label="Final Coordinates of the Common Space"/>
+</topic>
+<topic href="proxscal_data_intro_02.htm" label="A Three-Dimensional Solution with Nondefault Transformations">
+<topic href="proxscal_kinship_transplots.htm" label="Transformation Plots"/>
+<topic href="proxscal_kinship_stress_02.htm" label="Stress Measures"/>
+<topic href="proxscal_kinship_finalcoord_02.htm" label="Final Coordinates of the Common Space"/>
+</topic>
+<topic href="proxscal_data_summary.htm" label="Discussion"/>
+</topic>
+<topic href="proxscal_readings.htm" label="Recommended Readings"/>
+</topic>
+<topic label="Multidimensional Unfolding" href="prefscal_table.htm">
+<topic href="prefscal_breakfast_intro.htm" label="Example: Breakfast Item Preferences">
+<topic href="prefscal_breakfast_howto_degenerate.htm" label="Producing a Degenerate Solution"/>
+<topic href="prefscal_breakfast_degenerate_measures.htm" label="Measures"/>
+<topic href="prefscal_breakfast_degenerate_common.htm" label="Common Space"/>
+<topic href="prefscal_breakfast_howto_nondegenerate.htm" label="Running a Nondegenerate Analysis"/>
+<topic href="prefscal_breakfast_nondegenerate_measures.htm" label="Measures"/>
+<topic href="prefscal_breakfast_nondegenerate_common.htm" label="Common Space"/>
+</topic>
+<topic href="prefscal_breakfast_intro_02.htm" label="Example: Three-Way Unfolding of Breakfast Item Preferences">
+<topic href="prefscal_breakfast_howto_02.htm" label="Running the Analysis"/>
+<topic href="prefscal_breakfast_measures.htm" label="Measures"/>
+<topic href="prefscal_breakfast_jointplot.htm" label="Common Space"/>
+<topic href="prefscal_breakfast_individual-spaces.htm" label="Individual Spaces"/>
+<topic href="prefscal_breakfast_howto_03.htm" label="Using a Different Initial Configuration"/>
+<topic href="prefscal_breakfast_measures_02.htm" label="Measures"/>
+<topic href="prefscal_breakfast_jointplot_02.htm" label="Common Space"/>
+<topic href="prefscal_breakfast_individual-spaces_02.htm" label="Individual Spaces"/>
+</topic>
+<topic href="prefscal_behavior_intro.htm" label="Example: Examining Behavior-Situation Appropriateness">
+<topic href="prefscal_behavior_howto.htm" label="Running the Analysis"/>
+<topic href="prefscal_behavior_measure.htm" label="Measures"/>
+<topic href="prefscal_behavior_common.htm" label="Common Space"/>
+<topic href="prefscal_behavior_transform.htm" label="Proximity Transformations"/>
+<topic href="prefscal_behavior_howto_02.htm" label="Changing the Proximities Transformation (Ordinal)"/>
+<topic href="prefscal_behavior_measure_02.htm" label="Measures"/>
+<topic href="prefscal_behavior_common_02.htm" label="Common Space"/>
+<topic href="prefscal_behavior_transform_02.htm" label="Proximity Transformations"/>
+</topic>
+<topic href="prefscal_readings.htm" label="Recommended Readings"/>
+</topic>
+</topic>
+<topic label="Complex Samples Option">
+<topic label="Planning for Complex Samples" href="csplan_table.htm"/>
+<topic label="Complex Samples Sampling Wizard" href="csselect_table.htm">
+<topic href="cssample_property_intro.htm" label="Obtaining a Sample from a Full Sampling Frame">
+<topic href="cssample_property_howto.htm" label="Using the Wizard"/>
+<topic href="cssample_property_plansummary.htm" label="Plan Summary"/>
+<topic href="cssample_property_samplesummary.htm" label="Sampling Summary"/>
+<topic href="cssample_property_results.htm" label="Sample Results"/>
+</topic>
+<topic href="cssample_demo_intro.htm" label="Obtaining a Sample from a Partial Sampling Frame">
+<topic href="cssample_demo_howto.htm" label="Using the Wizard to Sample from the First Partial Frame"/>
+<topic href="cssample_demo_results.htm" label="Sample Results"/>
+<topic href="cssample_demo_howto_02.htm" label="Using the Wizard to Sample from the Second Partial Frame"/>
+<topic href="cssample_demo_results_01.htm" label="Sample Results"/>
+</topic>
+<topic href="cssample_poll_intro.htm" label="Sampling with Probability Proportional to Size (PPS)">
+<topic href="cssample_poll_howto.htm" label="Using the Wizard"/>
+<topic href="cssample_poll_plansummary.htm" label="Plan Summary"/>
+<topic href="cssample_poll_samplesummary.htm" label="Sampling Summary"/>
+<topic href="cssample_poll_results.htm" label="Sample Results"/>
+</topic>
+<topic href="cssample_related.htm" label="Related Procedures"/>
+<topic href="cssample_readings.htm" label="Recommended Readings"/>
+</topic>
+<topic label="Complex Samples Analysis Preparation Wizard" href="cs_prepwiz_intro.htm">
+<topic href="prepwiz_nhis_intro.htm" label="Using the Complex Samples Analysis Preparation Wizard to Ready NHIS Public Data">
+<topic href="prepwiz_nhis_howto.htm" label="Using the Wizard"/>
+<topic href="prepwiz_nhis_summary.htm" label="Summary"/>
+</topic>
+<topic href="prepwiz_bankloan_intro.htm" label="Preparing for Analysis When Sampling Weights Are Not in the Data File">
+<topic href="prepwiz_bankloan_computeweights.htm" label="Computing Inclusion Probabilities and Sampling Weights"/>
+<topic href="prepwiz_bankloan_howto.htm" label="Using the Wizard"/>
+<topic href="prepwiz_bankloan_summary.htm" label="Summary"/>
+</topic>
+<topic href="prepwiz_related.htm" label="Related Procedures"/>
+<topic href="prepwiz_readings.htm" label="Recommended Readings"/>
+</topic>
+<topic label="Complex Samples Analysis Procedures: Tabulation" href="cstabulate_table.htm"/>
+<topic label="Complex Samples Analysis Procedures: Descriptives" href="csdescriptives_table.htm"/>
+<topic label="Complex Samples Frequencies" href="csfrequencies_intro.htm">
+<topic href="csfreq_data_intro.htm" label="Using Complex Samples Frequencies to Analyze Nutritional Supplement Usage">
+<topic href="csfreq_data_howto.htm" label="Running the Analysis"/>
+<topic href="csfreq_nhis_table.htm" label="Frequency Table"/>
+<topic href="csfreq_nhis_bysubpop.htm" label="Frequency by Subpopulation"/>
+<topic href="csfreq_data_summary.htm" label="Summary"/>
+</topic>
+<topic href="csfreq_related.htm" label="Related Procedures"/>
+<topic href="csfreq_readings.htm" label="Recommended Readings"/>
+</topic>
+<topic label="Complex Samples Descriptives" href="csdescriptives_intro.htm">
+<topic href="csdesc_nhis_intro.htm" label="Using Complex Samples Descriptives to Analyze Activity Levels">
+<topic href="csdesc_nhis_howto.htm" label="Running the Analysis"/>
+<topic href="csdesc_nhis_univariate.htm" label="Univariate Statistics"/>
+<topic href="csdesc_data_outputtype.htm" label="Univariate Statistics by Subpopulation"/>
+<topic href="csdesc_nhis_summary.htm" label="Summary"/>
+</topic>
+<topic href="csdesc_related.htm" label="Related Procedures"/>
+<topic href="csdesc_readings.htm" label="Recommended Readings"/>
+</topic>
+<topic label="Complex Samples Crosstabs" href="cscrosstabs_intro.htm">
+<topic href="cscrosstabs_intro_demo_01.htm" label="Using Complex Samples Crosstabs to Measure the Relative Risk of an Event">
+<topic href="cscrosstabs_demo_howto.htm" label="Running the Analysis"/>
+<topic href="cscrosstabs_crosstab_demo_01.htm" label="Crosstabulation"/>
+<topic href="cscrosstabs_demo_risk_01.htm" label="Risk Estimate">
+<topic href="cscrosstabs_demo_oddsratio.htm" label="Odds Ratio versus Relative Risk"/>
+</topic>
+<topic href="cscrosstabs_demo_risk_02.htm" label="Risk Estimate by Subpopulation"/>
+<topic href="cscrosstabs_demo_summary.htm" label="Summary"/>
+</topic>
+<topic href="cscrosstabs_related.htm" label="Related Procedures"/>
+<topic href="cscrosstabs_readings.htm" label="Recommended Readings"/>
+</topic>
+<topic label="Complex Samples Ratios" href="csratios_intro.htm">
+<topic href="csratios_property_intro.htm" label="Using Complex Samples Ratios to Aid Property Value Assessment">
+<topic href="csratios_property_howto.htm" label="Running the Analysis"/>
+<topic href="csratios_property_ratios.htm" label="Ratios">
+<topic href="csratios_ratios_pivot.htm" label="Pivoting the Ratios Table"/>
+</topic>
+<topic href="csratios_ratios_pivot_02.htm" label="Pivoted Ratios Table"/>
+<topic href="csratios_property_summary.htm" label="Summary"/>
+</topic>
+<topic href="csratios_related.htm" label="Related Procedures"/>
+<topic href="csratios_readings.htm" label="Recommended Readings"/>
+</topic>
+<topic label="Complex Samples General Linear Model" href="csglm_table.htm">
+<topic href="csglm_grocery_intro.htm" label="Using Complex Samples General Linear Model to Fit a Two-Factor ANOVA">
+<topic href="csglm_gr1mo_howto.htm" label="Running the Analysis"/>
+<topic href="csglm_gr1mo_modsummary.htm" label="Model Summary"/>
+<topic href="csglm_gr1mo_modeleff.htm" label="Tests of Model Effects"/>
+<topic href="csglm_gr1mo_paramest.htm" label="Parameter Estimates"/>
+<topic href="csglm_gr1mo_emm_01.htm" label="Estimated Marginal Means"/>
+<topic href="csglm_gr1mo_summary_01.htm" label="Summary"/>
+</topic>
+<topic href="csglm_related.htm" label="Related Procedures"/>
+<topic href="csglm_readings.htm" label="Recommended Readings"/>
+</topic>
+<topic label="Complex Samples Logistic Regression" href="cslogistic_table.htm">
+<topic href="cslogistic_bankloan_intro.htm" label="Using Complex Samples Logistic Regression to Assess Credit Risk">
+<topic href="cslogistic_bankloan_howto.htm" label="Running the Analysis"/>
+<topic href="cslogistic_bankloan_rsq.htm" label="Pseudo R-Squares"/>
+<topic href="cslogistic_loan_class.htm" label="Classification"/>
+<topic href="cslogistic_bankloan_modeleff.htm" label="Tests of Model Effects"/>
+<topic href="cslogistic_bankloan_paramest.htm" label="Parameter Estimates"/>
+<topic href="cslogistic_bankloan_odds_01.htm" label="Odds Ratios"/>
+<topic href="cslogistic_loan_summary.htm" label="Summary"/>
+</topic>
+<topic href="cslogistic_related.htm" label="Related Procedures"/>
+<topic href="cslogistic_readings.htm" label="Recommended Readings"/>
+</topic>
+<topic label="Complex Samples Ordinal Regression" href="csordinal_table.htm">
+<topic href="csordinal_poll_intro.htm" label="Using Complex Samples Ordinal Regression to Analyze Survey Results">
+<topic href="csordinal_poll_howto.htm" label="Running the Analysis"/>
+<topic href="csordinal_poll_rsq.htm" label="Pseudo R-Squares"/>
+<topic href="csordinal_poll_modeltest.htm" label="Tests of Model Effects"/>
+<topic href="csordinal_poll_paramest.htm" label="Parameter Estimates"/>
+<topic href="csordinal_poll_classification.htm" label="Classification"/>
+<topic href="csordinal_poll_oddsratios.htm" label="Odds Ratios"/>
+<topic href="csordinal_poll_gencummodel.htm" label="Generalized Cumulative Model"/>
+<topic href="csordinal_poll_howto_02.htm" label="Dropping Non-Significant Predictors"/>
+<topic href="csordinal_poll_warnings_02.htm" label="Warnings"/>
+<topic href="csordinal_poll_compare.htm" label="Comparing Models"/>
+<topic href="csordinal_poll_summary.htm" label="Summary"/>
+</topic>
+<topic href="csordinal_related.htm" label="Related Procedures"/>
+<topic href="csordinal_readings.htm" label="Recommended Readings"/>
+</topic>
+<topic label="Complex Samples Cox Regression" href="cscoxreg_table.htm">
+<topic href="cscoxreg_recidivism_intro.htm" label="Using a Time-Dependent Predictor in Complex Samples Cox Regression">
+<topic href="cscoxreg_recidivism_dataprep.htm" label="Preparing the Data"/>
+<topic href="cscoxreg_recidivism_howto.htm" label="Running the Analysis"/>
+<topic href="cscoxreg_recidivism_sample-design-info.htm" label="Sample Design Information"/>
+<topic href="cscoxreg_recidivism_test-model-effects_01.htm" label="Tests of Model Effects"/>
+<topic href="cscoxreg_recidivism_testprophazard.htm" label="Test of Proportional Hazards"/>
+<topic href="cscoxreg_recidivism_intro_02.htm" label="Adding a Time-Dependent Predictor">
+<topic href="cscoxreg_recidivism_test-model-effects_02.htm" label="Tests of Model Effects"/>
+<topic href="cscoxreg_recidivism_parameter-estimates_02.htm" label="Parameter Estimates"/>
+</topic>
+</topic>
+<topic href="cscoxreg_stroke_intro.htm" label="Multiple Cases per Subject in Complex Samples Cox Regression">
+<topic href="cscoxreg_stroke_dataprep.htm" label="Preparing the Data for Analysis"/>
+<topic href="cscoxreg_stroke_srsplan.htm" label="Creating a Simple Random Sampling Analysis Plan"/>
+<topic href="cscoxreg_stroke_howto.htm" label="Running the Analysis"/>
+<topic href="cscoxreg_stroke_sampleinfo.htm" label="Sample Design Information"/>
+<topic href="cscoxreg_stroke_test-model-effects.htm" label="Tests of Model Effects"/>
+<topic href="cscoxreg_stroke_parameter-estimates.htm" label="Parameter Estimates"/>
+<topic href="cscoxreg_stroke_pattern-values.htm" label="Pattern Values"/>
+<topic href="cscoxreg_stroke_lml-plot.htm" label="Log-Minus-Log Plot"/>
+<topic href="cscoxreg_stroke_summary.htm" label="Summary"/>
+</topic>
+</topic>
+</topic>
+<topic label="Conjoint Option">
+<topic label="Introduction and Methodology" href="conjoint_table.htm">
+<topic href="conjoint_method_design.htm" label="Designing the Survey"/>
+<topic href="conjoint_method_stimuli.htm" label="Producing the Experimental Stimuli"/>
+<topic href="conjoint_method_analyze.htm" label="Analyzing the Data"/>
+</topic>
+<topic label="Using Conjoint Analysis to Model Carpet-Cleaner Preference" href="conjointanalysis_table.htm">
+<topic href="conjoint_carpet_generate_plan.htm" label="Generating an Orthogonal Design"/>
+<topic href="conjoint_carpet_display_plan.htm" label="Creating the Experimental Stimuli: Displaying the Design"/>
+<topic href="conjoint_carpet_run.htm" label="Running the Analysis"/>
+<topic href="conjoint_carpet_utilities.htm" label="Utility Scores"/>
+<topic href="conjoint_carpet_coeff.htm" label="Coefficients"/>
+<topic href="conjoint_carpet_importance.htm" label="Relative Importance"/>
+<topic href="conjoint_carpet_corr.htm" label="Correlations"/>
+<topic href="conjoint_carpet_reversals.htm" label="Reversals"/>
+<topic href="conjoint_carpet_simulations_run.htm" label="Running Simulations"/>
+<topic href="conjoint_carpet_simulations_probs.htm" label="Preference Probabilities of Simulations"/>
+<topic href="conjoint_readings.htm" label="Recommended Readings"/>
+</topic>
+</topic>
+<topic label="Data Preparation Option">
+<topic label="Validate Data" href="validatedata_table.htm">
+<topic href="validatedata_stroke_intro.htm" label="Validating a Medical Database">
+<topic href="validatedata_stroke_basicchecks.htm" label="Performing Basic Checks">
+<topic href="validatedata_stroke_warnings.htm" label="Warnings"/>
+<topic href="validatedata_stroke_incompleteid.htm" label="Incomplete Identifiers"/>
+<topic href="validatedata_stroke_duplicateid.htm" label="Duplicate Identifiers"/>
+</topic>
+<topic href="validatedata_stroke_copyrules.htm" label="Copying and Using Rules from Another File">
+<topic href="validatedata_stroke_single-descrip.htm" label="Rule Descriptions"/>
+<topic href="validatedata_stroke_single-varsummary.htm" label="Variable Summary"/>
+<topic href="validatedata_stroke_casereport.htm" label="Case Report"/>
+</topic>
+<topic href="validatedata_stroke_definerules.htm" label="Defining Your Own Rules"/>
+<topic href="validatedata_stroke_crossvar.htm" label="Cross-Variable Rules"/>
+<topic href="validatedata_stroke_casereport_02.htm" label="Case Report"/>
+<topic href="validatedata_stroke_summary.htm" label="Summary"/>
+</topic>
+<topic href="validatedata_related.htm" label="Related Procedures"/>
+</topic>
+<topic label="Automated Data Preparation" href="adp_table.htm">
+<topic href="adp_insurance_intro.htm" label="Using Automated Data Preparation Interactively">
+<topic href="adp_insurance_objectives.htm" label="Choosing Between Objectives"/>
+<topic href="adp_insurance_field-processing-summary.htm" label="Fields and Field Details"/>
+</topic>
+<topic href="adp_car_sales_intro.htm" label="Using Automated Data Preparation Automatically">
+<topic href="adp_car_sales_howto.htm" label="Preparing the Data"/>
+<topic href="adp_car_sales_initial_model.htm" label="Building a Model on the Unprepared Data"/>
+<topic href="adp_car_sales_prepared_model.htm" label="Building a Model on the Prepared Data"/>
+<topic href="adp_car_sales_graphs.htm" label="Comparing the Predicted Values"/>
+<topic href="adp_car_sales_backtransform.htm" label="Backtransforming the Predicted Values"/>
+<topic href="commandnameshort_datanameshort_summary.htm" label="Summary"/>
+</topic>
+</topic>
+<topic label="Identify Unusual Cases" href="detectanomaly_table.htm">
+<topic href="detectanomaly_model.htm" label="Identify Unusual Cases Algorithm"/>
+<topic href="detectanomaly_stroke_intro.htm" label="Identifying Unusual Cases in a Medical Database">
+<topic href="detectanomaly_stroke_howto.htm" label="Running the Analysis"/>
+<topic href="detectanomaly_stroke_cps.htm" label="Case Processing Summary"/>
+<topic href="detectanomaly_stroke_anomalycaselist.htm" label="Anomaly Case Index List"/>
+<topic href="detectanomaly_stroke_anomaly-case-peerid.htm" label="Anomaly Case Peer ID List"/>
+<topic href="detectanomaly_stroke_anomaly-case-reason.htm" label="Anomaly Case Reason List"/>
+<topic href="detectanomaly_stroke_continuous-norms.htm" label="Scale Variable Norms"/>
+<topic href="detectanomaly_stroke_categorical-norms.htm" label="Categorical Variable Norms"/>
+<topic href="detectanomaly_stroke_anomaly-summary.htm" label="Anomaly Index Summary"/>
+<topic href="detectanomaly_stroke_reason-summary.htm" label="Reason Summary"/>
+<topic href="detectanomaly_stroke_scatterplot.htm" label="Scatterplot of Anomaly Index by Variable Impact"/>
+<topic href="detectanomaly_data_summary.htm" label="Summary"/>
+</topic>
+<topic href="detectanomaly_related.htm" label="Related Procedures"/>
+</topic>
+<topic label="Optimal Binning" href="optimalbinning_table.htm">
+<topic href="optimal-binning_model.htm" label="The Optimal Binning Algorithm"/>
+<topic href="optimal-binning_bankloan_intro.htm" label="Using Optimal Binning to Discretize Loan Applicant Data">
+<topic href="optimal-binning_bankloan_howto.htm" label="Running the Analysis"/>
+<topic href="optimal-binning_bankloan_descriptives.htm" label="Descriptive Statistics"/>
+<topic href="optimal-binning_bankloan_model-entropy.htm" label="Model Entropy"/>
+<topic href="optimal-binning_bankloan_binsummaries.htm" label="Binning Summaries"/>
+<topic href="optimal-binning_bankloand_binned-vars.htm" label="Binned Variables"/>
+<topic href="optimal-binning_bankloan_apply-binning-rules.htm" label="Applying Syntax Binning Rules"/>
+<topic href="optimal-binning_data_summary.htm" label="Summary"/>
+</topic>
+</topic>
+</topic>
+<topic label="Decision Trees Option">
+<topic label="Decision Trees" href="tree_tut_intro.htm"/>
+<topic label="Data assumptions and requirements" href="classificationtree_table.htm">
+<topic href="tree_req_2.htm" label="Effects of measurement level on tree models">
+<topic href="tree_req_3.htm" label="Permanently assigning measurement level"/>
+<topic href="tree_req3a.htm" label="Variables with an unknown measurement level"/>
+</topic>
+<topic href="tree_req_4.htm" label="Effects of value labels on tree models">
+<topic href="tree_req_5.htm" label="Assigning value labels to all values"/>
+</topic>
+<topic href="tree_req_summary.htm" label="Summary"/>
+</topic>
+<topic label="Using Decision Trees to Evaluate Credit Risk" href="trees_credit_intro1.htm">
+<topic href="tree_credit_default_chaid.htm" label="Creating the Model">
+<topic href="tree_credit_howto_01.htm" label="Building the CHAID Tree Model"/>
+<topic href="tree_credit_howto_02.htm" label="Selecting Target Categories"/>
+<topic href="tree_credit_howto_criteria.htm" label="Specifying Tree Growing Criteria"/>
+<topic href="tree_credit_howto_03.htm" label="Selecting Additional Output"/>
+<topic href="tree_credit_howto_04.htm" label="Saving Predicted Values"/>
+</topic>
+<topic href="tree_credit_output.htm" label="Evaluating the Model">
+<topic href="tree_credit_model_summary.htm" label="Model Summary Table"/>
+<topic href="tree_credit_tree_diagram.htm" label="Tree Diagram"/>
+<topic href="tree_credit_treetable.htm" label="Tree Table"/>
+<topic href="tree_credit_node_gain.htm" label="Gains for Nodes"/>
+<topic href="tree_credit_gain_chart.htm" label="Gains Chart"/>
+<topic href="tree_credit_index_chart.htm" label="Index Chart"/>
+<topic href="tree_credit_risk_class.htm" label="Risk Estimate and Classification"/>
+<topic href="tree_credit_predicted_values.htm" label="Predicted Values"/>
+</topic>
+<topic href="tree_credit_refine1.htm" label="Refining the Model">
+<topic href="tree_credit_refine2.htm" label="Selecting Cases in Nodes"/>
+<topic href="tree_credit_refine3.htm" label="Examining the Selected Cases"/>
+<topic href="tree_credit_refine_costs.htm" label="Assigning Costs to Outcomes"/>
+</topic>
+<topic href="tree_credit_summary.htm" label="Summary"/>
+</topic>
+<topic label="Building a Scoring Model" href="trees_scoring_intro1.htm">
+<topic href="tree_scoring_build1.htm" label="Building the Model"/>
+<topic href="tree_scoring_eval_intro.htm" label="Evaluating the Model">
+<topic href="tree_scoring_eval_modelsummary.htm" label="Model Summary"/>
+<topic href="tree_scoring_treemodel.htm" label="Tree Model Diagram"/>
+<topic href="tree_scoring_risk.htm" label="Risk Estimate"/>
+</topic>
+<topic href="tree_scoring_apply.htm" label="Applying the Model to Another Data File"/>
+<topic href="tree_scoring_summary.htm" label="Summary"/>
+</topic>
+<topic label="Missing Values in Tree Models" href="trees_missing_intro1.htm">
+<topic href="trees_chaid_missing_intro.htm" label="Missing Values with CHAID">
+<topic href="tree_missing_chaid_results.htm" label="CHAID Results"/>
+</topic>
+<topic href="tree_missing_crt_intro.htm" label="Missing Values with CRT">
+<topic href="tree_missing_crt_results.htm" label="CRT Results">
+<topic href="tree_missing_crt_surrogates.htm" label="Surrogates"/>
+</topic>
+</topic>
+<topic href="tree_missing_summary.htm" label="Summary"/>
+</topic>
+</topic>
+<topic label="Direct Marketing">
+<topic label="RFM Analysis" href="rfm_tut_intro.htm">
+<topic href="rfm_tut_data.htm" label="Data Considerations"/>
+</topic>
+<topic label="RFM Analysis from Transaction Data" href="rfm_tut_transaction_intro.htm">
+<topic href="rfm_tut_transaction_intro2.htm" label="Transaction Data"/>
+<topic href="rfm_tuf_transaction_run1.htm" label="Running the Analysis"/>
+<topic href="rfm_tut_transaction_results1.htm" label="Evaluating the Results"/>
+<topic href="rfm_tut_transactions_merge.htm" label="Merging Score Data with Customer Data"/>
+</topic>
+<topic label="Cluster analysis" href="dm_cluster_cs_intro.htm">
+<topic href="dm_cluster_howto.htm" label="Running the analysis"/>
+<topic href="dm_cluster_cs_output.htm" label="Output"/>
+<topic href="dm_cluster_cs_filter.htm" label="Selecting records based on clusters">
+<topic href="dm_cluster_cs_filter_interactive.htm" label="Creating a filter in the Cluster Model Viewer"/>
+<topic href="dm_cluster_cs_select.htm" label="Selecting records based on cluster field values"/>
+</topic>
+<topic href="dm_cluster_cs_summary.htm" label="Summary"/>
+</topic>
+<topic label="Prospect profiles" href="dm_prospect_profiles_cs_intro.htm">
+<topic href="dm_prospect_profiles_data.htm" label="Data considerations"/>
+<topic href="dm_prospect_profiles_howto.htm" label="Running the analysis"/>
+<topic href="dm_prospect_profiles_cs_output.htm" label="Output"/>
+<topic href="dmtree_dmdata.sav_summary.htm" label="Summary"/>
+</topic>
+<topic label="Postal code response rates" href="dm_postal_code_cs_intro.htm">
+<topic href="dm_postal_code_data.htm" label="Data considerations"/>
+<topic href="dm_postal_code_howto.htm" label="Running the analysis"/>
+<topic href="dm_postal_code_cs_output.htm" label="Output"/>
+<topic href="dm_postal_code_cs_summary.htm" label="Summary"/>
+</topic>
+<topic label="Propensity to purchase" href="dm_propensity_cs_intro.htm">
+<topic href="dm_propensity_data.htm" label="Data considerations"/>
+<topic href="dm_propensity_build_model.htm" label="Building a predictive model">
+<topic href="dm_propensity_evaluate_model.htm" label="Evaluating the model"/>
+</topic>
+<topic href="dm_propensity_apply_model.htm" label="Applying the model"/>
+<topic href="dm_propensity_cs_summary.htm" label="Summary"/>
+</topic>
+<topic label="Control package test" href="dm_control_package_cs_intro.htm">
+<topic href="dm_control_package_howto.htm" label="Running the analysis"/>
+<topic href="dm_control_package_cs_output.htm" label="Output"/>
+<topic href="dm_control_package_cs_summary.htm" label="Summary"/>
+</topic>
+</topic>
+<topic label="Missing Values Option">
+<topic label="Missing Value Analysis" href="mva_tut_intro.htm">
+<topic href="mva_describe_intro.htm" label="Describing the Pattern of Missing Data"/>
+<topic href="mva_describe_run.htm" label="Running the Analysis to Display Descriptive Statistics"/>
+<topic href="mva_describe_evaldescriptives.htm" label="Evaluating the Descriptive Statistics"/>
+<topic href="mva_describe_rerun_patterns.htm" label="Rerunning the Analysis to Display Patterns"/>
+<topic href="mva_describe_evalpatterns.htm" label="Evaluating the Patterns Table"/>
+<topic href="mva_describe_rerun_mcartest.htm" label="Rerunning the Analysis for Little's MCAR Test"/>
+</topic>
+<topic label="Multiple Imputation" href="mi_table.htm">
+<topic href="mi_telco_intro.htm" label="Using Multiple Imputation to Complete and Analyze a Dataset">
+<topic href="mi_patterns_telco_howto.htm" label="Analyze Patterns of Missing Values">
+<topic href="mi_patterns_telco_overall-summary.htm" label="Overall Summary"/>
+<topic href="mi_patterns_telco_variable-summary.htm" label="Variable Summary"/>
+<topic href="mi_patterns_telco_patterns.htm" label="Patterns"/>
+</topic>
+<topic href="mi_impute_telco_howto.htm" label="Automatic Imputation of Missing Values">
+<topic href="mi_impute_telco_imputation-specification.htm" label="Imputation Specifications"/>
+<topic href="mi_impute_telco_imputation-results.htm" label="Imputation Results"/>
+<topic href="mi_impute_telco_imputation-models.htm" label="Imputation Models"/>
+<topic href="mi_impute_telco_descriptive-statistics.htm" label="Descriptive Statistics"/>
+</topic>
+<topic href="mi_impute-custom_telco_howto.htm" label="Custom Imputation Model">
+<topic href="mi_impute-custom_telco_constraints.htm" label="Imputation Constraints"/>
+<topic href="mi_impute-custom_telco_descriptives.htm" label="Descriptive Statistics"/>
+</topic>
+<topic href="mi_fcs-convergence_telco_howto.htm" label="Checking FCS Convergence">
+<topic href="mi_fcs-convergence_telco_convergence-charts.htm" label="FCS Convergence Charts"/>
+</topic>
+<topic href="mi_analyze_telco_howto.htm" label="Analyze Complete Data">
+<topic href="mi_analyze_telco_step-summary.htm" label="Step Summary"/>
+<topic href="mi_analyze_telco_howto_02.htm" label="Running the Model with a Subset of Predictors"/>
+<topic href="mi_analyze_telco_outputtype.htm" label="Pooled Parameter Estimates"/>
+</topic>
+<topic href="mi_telco_summary.htm" label="Summary"/>
+</topic>
+</topic>
+</topic>
+<topic label="Neural Networks Option">
+<topic label="Multilayer Perceptron" href="mlp_table.htm">
+<topic href="mlp_bankloan_intro.htm" label="Using a Multilayer Perceptron to Assess Credit Risk">
+<topic href="mlp_bankloan_dataprep.htm" label="Preparing the Data for Analysis"/>
+<topic href="mlp_bankloan_howto.htm" label="Running the Analysis"/>
+<topic href="mlp_bankloan_cps.htm" label="Case Processing Summary"/>
+<topic href="mlp_bankloan_network-information.htm" label="Network Information"/>
+<topic href="mlp_bankloan_model-summary.htm" label="Model Summary"/>
+<topic href="mlp_bankloan_classification.htm" label="Classification"/>
+<topic href="mlp_bankloan_intro_02.htm" label="Correcting Overtraining">
+<topic href="mlp_bankloan_dataprep_02.htm" label="Creating the Testing Sample"/>
+<topic href="mlp_bankloan_howto_02.htm" label="Running the Analysis"/>
+<topic href="mlp_bankloan_cps_02.htm" label="Case Processing Summary"/>
+<topic href="mlp_bankloan_network-information_02.htm" label="Network Information"/>
+<topic href="mlp_bankloan_model-summary_02.htm" label="Model Summary"/>
+<topic href="mlp_bankloan_classification_02.htm" label="Classification"/>
+<topic href="mlp_bankloan_roc-curve_02.htm" label="ROC Curve"/>
+<topic href="mlp_bankloan_predicted-by-observed_02.htm" label="Predicted-by-Observed Chart"/>
+<topic href="mlp_bankloan_outputtype_02.htm" label="Cumulative Gains and Lift Charts"/>
+<topic href="mlp_bankloan_importance_02.htm" label="Independent Variable Importance"/>
+</topic>
+<topic href="mlp_bankloan_summary.htm" label="Summary"/>
+</topic>
+<topic href="mlp_patlos_intro.htm" label="Using a Multilayer Perceptron to Estimate Healthcare Costs and Lengths of Stay">
+<topic href="mlp_patlos_dataprep.htm" label="Preparing the Data for Analysis"/>
+<topic href="mlp_patlos_howto.htm" label="Running the Analysis"/>
+<topic href="mlp_patlos_warnings.htm" label="Warnings"/>
+<topic href="mlp_patlos_cps.htm" label="Case Processing Summary"/>
+<topic href="mlp_patlos_network-information.htm" label="Network Information"/>
+<topic href="mlp_patlos_model-summary.htm" label="Model Summary"/>
+<topic href="mlp_patlos_predicted-by-observed.htm" label="Predicted-by-Observed Charts"/>
+<topic href="mlp_patlos_residual-by-predicted.htm" label="Residual-by-Predicted Charts"/>
+<topic href="mlp_patlos_importance.htm" label="Independent Variable Importance"/>
+<topic href="mlp_patlos_summary.htm" label="Summary"/>
+</topic>
+<topic href="mlp_readings.htm" label="Recommended Readings"/>
+</topic>
+<topic label="Radial Basis Function" href="rbf_table.htm">
+<topic href="rbf_telco_intro.htm" label="Using Radial Basis Function to Classify Telecommunications Customers">
+<topic href="rbf_telco_dataprep.htm" label="Preparing the Data for Analysis"/>
+<topic href="rbf_telco_howto.htm" label="Running the Analysis"/>
+<topic href="rbf_telco_cps.htm" label="Case Processing Summary"/>
+<topic href="rbf_telco_network-information.htm" label="Network Information"/>
+<topic href="rbf_telco_model-summary.htm" label="Model Summary"/>
+<topic href="rbf_telco_classification.htm" label="Classification"/>
+<topic href="rbf_telco_predicted-by-observed.htm" label="Predicted-by-Observed Chart"/>
+<topic href="rbf_telco_roc.htm" label="ROC Curve"/>
+<topic href="rbf_telco_gains-lift.htm" label="Cumulative Gains and Lift Charts"/>
+</topic>
+<topic href="rbf_readings.htm" label="Recommended Readings"/>
+</topic>
+</topic>
+<topic label="Regression Option">
+<topic label="Binary Logistic Regression" href="logisticregression_table.htm">
+<topic href="log_model.htm" label="The Logistic Regression Model"/>
+<topic href="log_bankloan_intro.htm" label="Using Binary Logistic Regression to Assess Credit Risk">
+<topic href="logistic_bankloan_dataprep.htm" label="Preparing the Data for Analysis"/>
+<topic href="log_bankloan_howto.htm" label="Running the Analysis"/>
+<topic href="log_loan_diagnostics.htm" label="Model Diagnostics">
+<topic href="log_loan_fit.htm" label="Tests of Model Fit"/>
+<topic href="log_loan_residplot_chgdev_01.htm" label="Change in Deviance Versus Predicted Probabilities"/>
+<topic href="log_loan_residplot_cooks_01.htm" label="Cook's Distances Versus Predicted Probabilities"/>
+</topic>
+<topic href="log_loan_modelchoice.htm" label="Choosing the Right Model">
+<topic href="log_loan_stepwise.htm" label="Variable Selection"/>
+<topic href="log_loan_rsquare.htm" label="R-Squared Statistics"/>
+<topic href="log_loan_class.htm" label="Classification"/>
+</topic>
+<topic href="log_loan_coeff.htm" label="Logistic Regression Coefficients"/>
+<topic href="log_loan_summary.htm" label="Summary"/>
+</topic>
+<topic href="log_related.htm" label="Related Procedures"/>
+<topic href="log_readings.htm" label="Recommended Readings"/>
+</topic>
+<topic label="Multinomial Logistic Regression" href="nominalregression_table.htm">
+<topic href="nomreg_model.htm" label="The Multinomial Logistic Regression Model"/>
+<topic href="nomreg_cereal_intro.htm" label="Using Multinomial Logistic Regression to Profile Consumers of Packaged Goods">
+<topic href="nomreg_cereal_howto.htm" label="Running the Analysis"/>
+<topic href="nom_cereal_diag.htm" label="Model Diagnostics">
+<topic href="nom_cereal_warnings.htm" label="Warnings"/>
+<topic href="nom_cereal_gof.htm" label="Goodness-of-Fit"/>
+<topic href="nom_cereal_cellprob.htm" label="Observed and Predicted Frequencies"/>
+<topic href="nom_cereal_modelfit.htm" label="Model Fitting Information"/>
+</topic>
+<topic href="nom_cereal_choose.htm" label="Choosing the Right Model">
+<topic href="nom_cereal_lrt.htm" label="Likelihood Ratio Tests"/>
+<topic href="nom_cereal_rsq.htm" label="Pseudo R Square"/>
+<topic href="nom_cereal_classtable.htm" label="Classification Table"/>
+</topic>
+<topic href="nom_cereal_coeff.htm" label="Multinomial Logistic Regression Coefficients"/>
+<topic href="nom_cereal_summary.htm" label="Summary"/>
+</topic>
+<topic href="nom_telco_intro.htm" label="Using Multinomial Logistic Regression to Classify Telecommunications Customers">
+<topic href="nom_telco_howto.htm" label="Running the Analysis"/>
+<topic href="nom_telco_stepwise.htm" label="Stepwise Multinomial Logistic Regression"/>
+<topic href="nomreg_using_stepwise.htm" label="A Note of Caution Concerning Stepwise Methods"/>
+<topic href="nom_telco_classtable.htm" label="Classification Results"/>
+<topic href="nom_telco_summary.htm" label="Summary"/>
+</topic>
+<topic href="nom_insure_intro.htm" label="Using Multinomial Logistic Regression to Analyze a 1-1 Matched Case-Control Study">
+<topic href="nom_insure_data.htm" label="Data File Setup for Case-Control"/>
+<topic href="nom_insure_howto.htm" label="Running the Analysis"/>
+<topic href="nom_casecontrol_diag.htm" label="Model Diagnostics">
+<topic href="nom_insure_modelfit.htm" label="Model Fitting Information"/>
+</topic>
+<topic href="nom_insure_choose.htm" label="Choosing the Right Model">
+<topic href="nom_insure_lrt.htm" label="Likelihood Ratio Tests"/>
+</topic>
+<topic href="nom_insure_coeff.htm" label="Multinomial Logistic Regression Coefficients"/>
+<topic href="nom_insure_summary.htm" label="Summary"/>
+</topic>
+<topic href="nom_related.htm" label="Related Procedures"/>
+<topic href="nom_readings.htm" label="Recommended Readings"/>
+</topic>
+<topic label="Nonlinear Regression" href="nonlinearregressionanalysis_table.htm">
+<topic href="nlr_advert_intro.htm" label="Using Nonlinear Regression to Model the Law of Diminishing Returns">
+<topic href="nlr_advert_howto_01a.htm" label="Creating a Scatterplot of the Dependent by the Independent"/>
+<topic href="nlr_asymptotic_regression_advert.htm" label="Preparing to Fit an Asymptotic Regression Model"/>
+<topic href="nlr_advert_howto_01c.htm" label="Running the Analysis"/>
+<topic href="nlr_coeff_advert_01.htm" label="Parameter Estimates"/>
+<topic href="nlr_anova_advert.htm" label="Model Fit"/>
+<topic href="nlr_resids_advert.htm" label="Residuals vs. Fit Values Plots"/>
+<topic href="nlr_advert_summary.htm" label="Summary/Discussion"/>
+</topic>
+<topic href="nlr_virus_intro.htm" label="Using Nonlinear Regression to Model Viral Growth">
+<topic href="nlr_virus_howto_01a.htm" label="Creating a Scatterplot of the Dependent by the Independent"/>
+<topic href="nlr_virus_prep_models.htm" label="Preparing to Fit a Segmented Model"/>
+<topic href="nlr_virus_howto_01c.htm" label="Running the Analysis"/>
+<topic href="nlr_coeff_virus_01.htm" label="Parameter Estimates"/>
+<topic href="nlr_anova_virus.htm" label="Model Fit"/>
+<topic href="nlr_resids_virus.htm" label="Residuals vs. Fit Values Plots"/>
+<topic href="nlr_virus_summary.htm" label="Summary"/>
+</topic>
+<topic href="nlr_related.htm" label="Related Procedures"/>
+<topic href="nonlinear_readings.htm" label="Recommended Readings"/>
+</topic>
+<topic label="Probit Analysis" href="probitanalysis_table.htm">
+<topic href="probit_model.htm" label="The Probit Analysis Model">
+<topic href="probit_model_links.htm" label="Link Functions for the Probit Analysis Procedure"/>
+<topic href="probit_model_natresponse.htm" label="Natural Response Rate"/>
+</topic>
+<topic href="probit_offer_intro.htm" label="Using Probit Analysis to Test Promotional Effects on Sales">
+<topic href="probit_offer_howto.htm" label="Running the Analysis"/>
+<topic href="probit_offer_chisquare.htm" label="Chi-Square Tests"/>
+<topic href="probit_offer_est.htm" label="Parameter Estimates"/>
+<topic href="probit_offer_ci.htm" label="Relative Potencies"/>
+</topic>
+<topic href="probit_related.htm" label="Related Procedures"/>
+<topic href="probit_readings.htm" label="Recommended Readings"/>
+</topic>
+<topic label="Weight Estimation" href="weightedleastsquaresanalysis_table.htm">
+<topic href="wls_model.htm" label="The Weight Estimation Model"/>
+<topic href="wls_mallcost.htm" label="Using Weight Estimation to Model the Cost of Mall Construction">
+<topic href="wls_diagnose.htm" label="Diagnosing the need for WLS"/>
+<topic href="wls_source.htm" label="Identify a Source Variable"/>
+<topic href="wls_howto.htm" label="Run Weight Estimation">
+<topic href="wls_mallcost_power.htm" label="Power Summary"/>
+</topic>
+<topic href="wls_ols_2.htm" label="Re-Run Regression with Estimated Weights">
+<topic href="procedure_output4.htm" label="Model Summary"/>
+<topic href="procedure_output9.htm" label="Parameter Coefficients"/>
+<topic href="wls_residual-plots.htm" label="Residual Plots"/>
+</topic>
+<topic href="wls_mallcost_summary.htm" label="Summary"/>
+</topic>
+</topic>
+<topic label="Two-Stage Least-Squares Regression" href="two_stageleastsquaresanalysis_table.htm">
+<topic href="twostage_model.htm" label="The Two-Stage Least-Squares Regression Model"/>
+<topic href="tsls_crosssell.htm" label="Using Two-Stage Least-Squares Regression to Model Cross-Sales">
+<topic href="tsls_setup.htm" label="Choosing Instruments"/>
+<topic href="tsls_howto.htm" label="Running the Analysis"/>
+<topic href="tsls_crosssell_modeldescrip.htm" label="Model Description"/>
+<topic href="tsls_crosssell_modelsummary.htm" label="Model Summary"/>
+<topic href="tsls_crosssell_anova.htm" label="ANOVA Table"/>
+<topic href="tsls_crosssell_coefficients.htm" label="Coefficients"/>
+<topic href="tsls_crosssell_summary.htm" label="Summary"/>
+</topic>
+</topic>
+</topic>
+<topic label="Forecasting Option">
+<topic label="Time Series Modeling and Forecasting" href="timeseriesmodeling_gateway.htm"/>
+<topic label="Bulk Forecasting with the Expert Modeler" href="tsmodel_table.htm">
+<topic href="timeseriesmodeler_expert_bulk_data.htm" label="Examining Your Data"/>
+<topic href="timeseriesmodeler_expert_bulk_run.htm" label="Running the Analysis"/>
+<topic href="timeseriesmodeler_expert_bulk_summary_charts.htm" label="Model Summary Charts"/>
+<topic href="timeseriesmodeler_expert_bulk_pred.htm" label="Model Predictions"/>
+<topic href="timeseriesmodeler_expert_bulk_summary.htm" label="Summary"/>
+</topic>
+<topic label="Bulk Reforecasting by Applying Saved Models" href="tsapply_table.htm">
+<topic href="timeseriesmodeler_apply_bulk_run.htm" label="Running the Analysis"/>
+<topic href="timeseriesmodeler_apply_bulk_modelfit.htm" label="Model Fit Statistics"/>
+<topic href="timeseriesmodeler_apply_bulk_pred.htm" label="Model Predictions"/>
+<topic href="timeseriesmodeler_apply_bulk_summary.htm" label="Summary"/>
+</topic>
+<topic label="Using the Expert Modeler to Determine Significant Predictors" href="timeseriesmodeler_expert_predictors.htm">
+<topic href="timeseriesmodeler_expert_predictors_data.htm" label="Plotting Your Data"/>
+<topic href="timeseriesmodeler_expert_predictors_run.htm" label="Running the Analysis"/>
+<topic href="timeseriesmodeler_expert_predictors_plot.htm" label="Series Plot"/>
+<topic href="timeseriesmodeler_expert_predictors_model.htm" label="Model Description Table"/>
+<topic href="timeseriesmodeler_expert_predictors_statistics.htm" label="Model Statistics Table"/>
+<topic href="timeseriesmodeler_expert_predictors_parameters.htm" label="ARIMA Model Parameters Table"/>
+<topic href="timeseriesmodeler_expert_predictors_summary.htm" label="Summary"/>
+</topic>
+<topic label="Experimenting with Predictors by Applying Saved Models" href="timeseriesmodeler_apply_predictors.htm">
+<topic href="timeseriesmodeler_apply_predictors_prepare.htm" label="Extending the Predictor Series"/>
+<topic href="timeseriesmodeler_apply_predictors_change.htm" label="Modifying Predictor Values in the Forecast Period"/>
+<topic href="timeseriesmodeler_apply_predictors_run.htm" label="Running the Analysis"/>
+</topic>
+<topic label="Seasonal Decomposition" href="seasonaldecomposition_table.htm">
+<topic href="season_models.htm" label="Models"/>
+<topic href="season_cat.htm" label="Removing Seasonality from Sales Data">
+<topic href="season_cat_periodicity.htm" label="Determining and Setting the Periodicity"/>
+<topic href="season_cat_run.htm" label="Running the Analysis"/>
+<topic href="season_cat_output.htm" label="Understanding the Output"/>
+<topic href="season_cat_summary.htm" label="Summary"/>
+</topic>
+<topic href="season_related.htm" label="Related Procedures"/>
+</topic>
+<topic label="Spectral Plots" href="spectralanalysis_table.htm">
+<topic href="spectral_cat.htm" label="Using Spectral Plots to Verify Expectations about Periodicity">
+<topic href="spectral_cat_run.htm" label="Running the Analysis"/>
+<topic href="spectral_cat_output.htm" label="Understanding the Periodogram and Spectral Density"/>
+<topic href="spectral_cat_summary.htm" label="Summary"/>
+</topic>
+<topic href="spectral_related.htm" label="Related Procedures"/>
+</topic>
+</topic>
+</toc>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<toc label="Add-ons">
+<topic label="Extras">
+<topic href="sm_statistics_base.htm" label="IBM SPSS Statistics Base"/>
+<topic href="advanced_models.htm" label="IBM SPSS Advanced Statistics"/>
+<topic href="sm_bootstrapping.htm" label="IBM SPSS Bootstrapping"/>
+<topic href="tables.htm" label="IBM SPSS Custom Tables"/>
+<topic href="categories.htm" label="IBM SPSS Categories"/>
+<topic href="conjoint.htm" label="IBM SPSS Conjoint"/>
+<topic href="complex_samples.htm" label="IBM SPSS Complex Samples"/>
+<topic href="data_validation.htm" label="IBM SPSS Data Preparation"/>
+<topic href="classification_trees.htm" label="IBM SPSS Decision Trees"/>
+<topic href="sm_direct_marketing.htm" label="IBM SPSS Direct Marketing"/>
+<topic href="exact_tests.htm" label="IBM SPSS Exact Tests"/>
+<topic href="trends.htm" label="IBM SPSS Forecasting"/>
+<topic href="missing_values_analysis.htm" label="IBM SPSS Missing Values"/>
+<topic href="neural_networks.htm" label="IBM SPSS Neural Networks"/>
+<topic href="regression_models.htm" label="IBM SPSS Regression"/>
+<topic href="programmability_extension.htm" label="IBM SPSS Statistics Programmability Extension"/>
+<topic href="spss_server.htm" label="IBM SPSS Statistics Server"/>
+<topic href="amos.htm" label="IBM SPSS Amos"/>
+<topic href="clementine.htm" label="IBM SPSS Modeler"/>
+<topic href="samplepower.htm" label="IBM SPSS SamplePower"/>
+<topic href="spss_reportwriter.htm" label="IBM ShowCase Report Writer"/>
+<topic href="text_analysis.htm" label="IBM SPSS Text Analytics for Surveys"/>
+<topic href="extras_data_collection.htm" label="IBM SPSS Data Collection"/>
+<topic href="sm_collaboration.htm" label="IBM SPSS Collaboration and Deployment Services"/>
+<topic href="consulting.htm" label="Consulting"/>
+<topic href="training.htm" label="Training"/>
+</topic>
+</toc>

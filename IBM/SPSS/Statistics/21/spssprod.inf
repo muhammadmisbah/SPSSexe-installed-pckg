@@ -1,0 +1,32 @@
+[Language]
+SPSSLanguage=en
+[Product]
+LicenseDescription= 
+Organization=KING 
+ProductName=IBM SPSS Statistics 21
+ProductNickName=IBM SPSS Statistics 
+RegistryRoot=SPSS Statistics\21 
+CommonRoot=C:\Program Files\IBM\SPSS\Statistics\21\common
+Version=21.0.0.0
+VersionMajor=21
+VersionMinor=0 
+VersionPatch=0 
+StartJVMAtStartup=no
+DaemonHost=no-net 
+FeatureCode=1200
+PreferencesRoot=Statistics
+CodePage=65001
+Copyright=Copyright (c) IBM Corp. 1999, 2012.
+CommuterMaxLife=7
+FixPack=0
+CustomerName=MOIN
+[ProductRegistration]
+URL=http://www.ibm.com/software/analytics/spss/register/
+ALT=ProductRegistration.pdf
+[ProductUpdates]
+LCID=409
+UpdateName=SPSSCLNT
+UpdateVer=21.0.0.0
+AUTOCHECK=0
+[Setup]
+Setup=BasTabProAdvTrdCytCatMvaConMapMsaCspTreVldPrgViz

@@ -1,0 +1,832 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<toc label="Integration Plug-in for Python Help">
+<topic label="How to get the IBM SPSS Statistics - Integration Plug-in for Python" href="howto_get_python_plugin.htm">
+<topic href="howto_get_python_plugin.htm" label="How to get the IBM SPSS Statistics - Integration Plug-in for Python"/>
+</topic>
+<topic label="Python Integration Package for IBM SPSS Statistics">
+<topic label="Introduction to Python Programs" href="python_package_intro.htm">
+<topic href="python_package_tips.htm" label="Working with Python Program Blocks">
+<topic href="python_package_python_keyword.htm" label="Basic Specification for a Python Program Block"/>
+<topic href="python_package_nested_blocks.htm" label="Nested Program Blocks (Python)"/>
+<topic href="python_package_unicode.htm" label="Unicode Mode (Python)"/>
+</topic>
+<topic href="begin_program_python_keyword_syntax.htm" label="Python Syntax Rules"/>
+<topic href="python_package_multiple_versions.htm" label="Working with Multiple Versions of IBM SPSS Statistics (Python)"/>
+<topic href="python_package_working_directories.htm" label="Python and IBM SPSS Statistics Working Directories"/>
+<topic href="python_package_xdrives.htm" label="Running IBM SPSS Statistics from an External Python Process"/>
+<topic href="python_package_localize.htm" label="Localizing Output from Python Programs">
+<topic href="python_package_localize_modifycode.htm" label="Modifying the Python code"/>
+<topic href="python_package_localize_extractstrings.htm" label="Extracting translatable text"/>
+<topic href="python_package_localize_translate.htm" label="Translating the pot file"/>
+<topic href="python_package_localize_install.htm" label="Installing the mo files"/>
+</topic>
+</topic>
+<topic label="Python Functions and Classes" href="python_package_python_functions.htm">
+<topic href="python_package_activedataset.htm" label="spss.ActiveDataset Function (Python)"/>
+<topic href="python_package_addprocedurefootnotes.htm" label="spss.AddProcedureFootnotes Function (Python)"/>
+<topic href="python_package_basepivottable.htm" label="spss.BasePivotTable Class (Python)">
+<topic href="python_package_basepivottable_simple.htm" label="Creating Pivot Tables with the SimplePivotTable Method (Python)"/>
+<topic href="python_package_basepivottable_general.htm" label="General Approach to Creating Pivot Tables (Python)">
+<topic href="python_package_basepivottable_general_dimensions.htm" label="Step 1: Adding Dimensions (Python)"/>
+<topic href="python_package_basepivottable_general_categories.htm" label="Step 2: Defining Categories (Python)"/>
+<topic href="python_package_basepivottable_general_cells.htm" label="Step 3: Setting Cell Values (Python)"/>
+<topic href="python_package_basepivottable_general_getitem.htm" label="Using Cell Values in Expressions (Python)"/>
+</topic>
+<topic href="python_package_basepivottable_methods.htm" label="spss.BasePivotTable Methods (Python)">
+<topic href="python_package_basepivottable_append.htm" label="Append Method (Python)"/>
+<topic href="python_package_basepivottable_caption.htm" label="Caption Method (Python)"/>
+<topic href="python_package_basepivottable_categoryfootnotes.htm" label="CategoryFootnotes Method (Python)"/>
+<topic href="python_package_basepivottable_dimensionfootnotes.htm" label="DimensionFootnotes Method (Python)"/>
+<topic href="python_package_basepivottable_footnotes.htm" label="Footnotes Method (Python)"/>
+<topic href="python_package_basepivottable_getdefaultformatspec.htm" label="GetDefaultFormatSpec Method (Python)"/>
+<topic href="python_package_basepivottable_hidetitle.htm" label="HideTitle Method (Python)"/>
+<topic href="python_package_basepivottable_insert.htm" label="Insert Method (Python)"/>
+<topic href="python_package_basepivottable_setcategories.htm" label="SetCategories Method (Python)"/>
+<topic href="python_package_basepivottable_setcell.htm" label="SetCell Method (Python)"/>
+<topic href="python_package_basepivottable_setcellsbycolumn.htm" label="SetCellsByColumn Method (Python)"/>
+<topic href="python_package_basepivottable_setcellsbyrow.htm" label="SetCellsByRow Method (Python)"/>
+<topic href="python_package_basepivottable_setdefaultformatspec.htm" label="SetDefaultFormatSpec Method (Python)"/>
+<topic href="python_package_basepivottable_simplepivottable.htm" label="SimplePivotTable Method (Python)"/>
+<topic href="python_package_basepivottable_titlefootnotes.htm" label="TitleFootnotes Method (Python)"/>
+</topic>
+<topic href="python_package_celltext.htm" label="spss.CellText Class (Python)">
+<topic href="python_package_celltext_number.htm" label="Number Class (Python)"/>
+<topic href="python_package_celltext_string.htm" label="String Class (Python)"/>
+<topic href="python_package_celltext_varname.htm" label="VarName Class (Python)"/>
+<topic href="python_package_celltext_varvalue.htm" label="VarValue Class (Python)"/>
+<topic href="python_package_celltext_tonumber.htm" label="toNumber Method (Python)"/>
+<topic href="python_package_celltext_tostring.htm" label="toString Method (Python)"/>
+</topic>
+<topic href="python_package_basepivottable_warnings.htm" label="Creating a Warnings Table (Python)"/>
+</topic>
+<topic href="python_package_baseprocedure.htm" label="spss.BaseProcedure Class (Python)"/>
+<topic href="python_package_createxpathdictionary.htm" label="spss.CreateXPathDictionary Function (Python)"/>
+<topic href="python_package_cursor.htm" label="spss.Cursor Class (Python)">
+<topic href="python_package_cursor_read.htm" label="Read Mode (Python)"/>
+<topic href="python_package_cursor_write.htm" label="Write Mode (Python)"/>
+<topic href="python_package_cursor_append.htm" label="Append Mode (Python)"/>
+<topic href="python_package_cursor_methods.htm" label="spss.Cursor Methods (Python)">
+<topic href="python_package_cursor_methods_allocnewvarsbuffer.htm" label="AllocNewVarsBuffer Method (Python)"/>
+<topic href="python_package_cursor_methods_close.htm" label="close Method (Python)"/>
+<topic href="python_package_cursor_methods_commitcase.htm" label="CommitCase Method (Python)"/>
+<topic href="python_package_cursor_methods_commitdictionary.htm" label="CommitDictionary Method (Python)"/>
+<topic href="python_package_cursor_methods_endchanges.htm" label="EndChanges Method (Python)"/>
+<topic href="python_package_cursor_methods_fetchall.htm" label="fetchall Method (Python)"/>
+<topic href="python_package_cursor_methods_fetchmany.htm" label="fetchmany Method (Python)"/>
+<topic href="python_package_cursor_methods_fetchone.htm" label="fetchone Method (Python)"/>
+<topic href="python_package_cursor_methods_isendsplit.htm" label="IsEndSplit Method (Python)"/>
+<topic href="python_package_cursor_methods_reset.htm" label="reset Method (Python)"/>
+<topic href="python_package_cursor_methods_setfetchvarlist.htm" label="SetFetchVarList (Python)"/>
+<topic href="python_package_cursor_methods_setonevarnameandtype.htm" label="SetOneVarNameAndType Method (Python)"/>
+<topic href="python_package_cursor_methods_setusermissinginclude.htm" label="SetUserMissingInclude Method (Python)"/>
+<topic href="python_package_cursor_methods_setvaluechar.htm" label="SetValueChar Method (Python)"/>
+<topic href="python_package_cursor_methods_setvaluenumeric.htm" label="SetValueNumeric Method (Python)"/>
+<topic href="python_package_cursor_methods_setvaralignment.htm" label="SetVarAlignment Method (Python)"/>
+<topic href="python_package_cursor_methods_setvarattributes.htm" label="SetVarAttributes Method (Python)"/>
+<topic href="python_package_cursor_methods_setvarcmissingvalues.htm" label="SetVarCMissingValues Method (Python)"/>
+<topic href="python_package_cursor_methods_setvarcvaluelabel.htm" label="SetVarCValueLabel Method (Python)"/>
+<topic href="python_package_cursor_methods_setvarformat.htm" label="SetVarFormat Method (Python)"/>
+<topic href="python_package_cursor_methods_setvarlabel.htm" label="SetVarLabel Method (Python)"/>
+<topic href="python_package_cursor_methods_setvarmeasurelevel.htm" label="SetVarMeasureLevel Method (Python)"/>
+<topic href="python_package_cursor_methods_setvarnameandtype.htm" label="SetVarNameAndType Method (Python)"/>
+<topic href="python_package_cursor_methods_setvarnmissingvalues.htm" label="SetVarNMissingValues Method (Python)"/>
+<topic href="python_package_cursor_methods_setvarnvaluelabel.htm" label="SetVarNValueLabel Method (Python)"/>
+<topic href="python_package_cursor_methods_setvarrole.htm" label="SetVarRole Method (Python)"/>
+</topic>
+</topic>
+<topic href="python_package_dataset.htm" label="spss.Dataset Class (Python)">
+<topic href="python_package_dataset_cases.htm" label="cases Property (Python)"/>
+<topic href="python_package_dataset_name.htm" label="name Property (Python)"/>
+<topic href="python_package_dataset_varlist.htm" label="varlist Property (Python)"/>
+<topic href="python_package_dataset_datafileattributes.htm" label="dataFileAttributes Property (Python)"/>
+<topic href="python_package_dataset_multiresponseset.htm" label="multiResponseSet Property (Python)"/>
+<topic href="python_package_dataset_close.htm" label="close Method (Python)"/>
+<topic href="python_package_dataset_deepcopy.htm" label="deepCopy Method (Python)"/>
+<topic href="python_package_caselist.htm" label="CaseList Class (Python)">
+<topic href="python_package_caselist_append.htm" label="append Method (Python)"/>
+<topic href="python_package_caselist_insert.htm" label="insert Method (Python)"/>
+</topic>
+<topic href="python_package_variablelist.htm" label="VariableList Class (Python)">
+<topic href="python_package_variablelist_append.htm" label="append Method (Python)"/>
+<topic href="python_package_variablelist_insert.htm" label="insert Method (Python)"/>
+</topic>
+<topic href="python_package_variable.htm" label="Variable Class (Python)">
+<topic href="python_package_variable_alignment.htm" label="alignment Property (Python)"/>
+<topic href="python_package_variable_attributes.htm" label="attributes Property (Python)"/>
+<topic href="python_package_variable_columnwidth.htm" label="columnWidth Property (Python)"/>
+<topic href="python_package_variable_format.htm" label="format Property (Python)"/>
+<topic href="python_package_variable_index.htm" label="index Property (Python)"/>
+<topic href="python_package_variable_label.htm" label="label Property (Python)"/>
+<topic href="python_package_variable_measurementlevel.htm" label="measurementLevel Property (Python)"/>
+<topic href="python_package_variable_missingvalues.htm" label="missingValues Property (Python)"/>
+<topic href="python_package_variable_name.htm" label="name Property (Python)"/>
+<topic href="python_package_variable_role.htm" label="role Property (Python)"/>
+<topic href="python_package_variable_type.htm" label="type Property (Python)"/>
+<topic href="python_package_variable_valuelabels.htm" label="valueLabels Property (Python)"/>
+</topic>
+</topic>
+<topic href="python_package_datastep.htm" label="spss.DataStep Class (Python)"/>
+<topic href="python_package_deletexpathhandle.htm" label="spss.DeleteXPathHandle Function (Python)"/>
+<topic href="python_package_enddatastep.htm" label="spss.EndDataStep Function (Python)"/>
+<topic href="python_package_endprocedure.htm" label="spss.EndProcedure Function (Python)"/>
+<topic href="python_package_evaluatexpath.htm" label="spss.EvaluateXPath Function (Python)"/>
+<topic href="python_package_getcasecount.htm" label="spss.GetCaseCount Function (Python)"/>
+<topic href="python_package_getdatafileattributenames.htm" label="spss.GetDataFileAttributeNames Function (Python)"/>
+<topic href="python_package_getdatafileattributes.htm" label="spss.GetDataFileAttributes Function (Python)"/>
+<topic href="python_package_getdatasets.htm" label="spss.GetDatasets Function (Python)"/>
+<topic href="python_package_getdefaultpluginversion.htm" label="spss.GetDefaultPlugInVersion Function (Python)"/>
+<topic href="python_package_getfilehandles.htm" label="spss.GetFileHandles Function (Python)"/>
+<topic href="python_package_gethandlelist.htm" label="spss.GetHandleList Function (Python)"/>
+<topic href="python_package_getimage.htm" label="spss.GetImage Function (Python)"/>
+<topic href="python_package_getlasterror.htm" label="spss.GetLastErrorLevel and spss.GetLastErrorMessage Functions (Python)"/>
+<topic href="python_package_getmultiresponsesetnames.htm" label="spss.GetMultiResponseSetNames Function (Python)"/>
+<topic href="python_package_getmultiresponseset.htm" label="spss.GetMultiResponseSet Function (Python)"/>
+<topic href="python_package_getomstaglist.htm" label="spss.GetOMSTagList Function (Python)"/>
+<topic href="python_package_getsetting.htm" label="spss.GetSetting Function (Python)"/>
+<topic href="python_package_getsplitvariablenames.htm" label="spss.GetSplitVariableNames Function (Python)"/>
+<topic href="python_package_getspsslocale.htm" label="spss.GetSPSSLocale Function (Python)"/>
+<topic href="python_package_getspsslowhigh.htm" label="spss.GetSPSSLowHigh Function (Python)"/>
+<topic href="python_package_getvarattributenames.htm" label="spss.GetVarAttributeNames Function (Python)"/>
+<topic href="python_package_getvarattributes.htm" label="spss.GetVarAttributes Function (Python)"/>
+<topic href="python_package_getvariablecount.htm" label="spss.GetVariableCount Function (Python)"/>
+<topic href="python_package_getvariableformat.htm" label="spss.GetVariableFormat Function (Python)"/>
+<topic href="python_package_getvariablelabel.htm" label="spss.GetVariableLabel Function (Python)"/>
+<topic href="python_package_getvariablemeasurmentlevel.htm" label="spss.GetVariableMeasurementLevel Function (Python)"/>
+<topic href="python_package_getvariablename.htm" label="spss.GetVariableName Function (Python)"/>
+<topic href="python_package_getvariablerole.htm" label="spss.GetVariableRole Function (Python)"/>
+<topic href="python_package_getvariabletype.htm" label="spss.GetVariableType Function (Python)"/>
+<topic href="python_package_getvarmissingvalues.htm" label="spss.GetVarMissingValues Function (Python)"/>
+<topic href="python_package_getweightvar.htm" label="spss.GetWeightVar Function (Python)"/>
+<topic href="python_package_getxml.htm" label="spss.GetXmlUtf16 Function (Python)"/>
+<topic href="python_package_hascursor.htm" label="spss.HasCursor Function (Python)"/>
+<topic href="python_package_isactive.htm" label="spss.IsActive Function (Python)"/>
+<topic href="python_package_isoutputon.htm" label="spss.IsOutputOn Function (Python)"/>
+<topic href="python_package_procedure.htm" label="spss.Procedure Class (Python)"/>
+<topic href="python_package_isutf8mode.htm" label="spss.PyInvokeSpss.IsUTF8mode Function (Python)"/>
+<topic href="python_package_invokespss.htm" label="spss.PyInvokeSpss.IsXDriven Function (Python)"/>
+<topic href="python_package_setactive.htm" label="spss.SetActive Function (Python)"/>
+<topic href="python_package_setdefaultpluginversion.htm" label="spss.SetDefaultPlugInVersion Function (Python)"/>
+<topic href="python_package_setmacrovalue.htm" label="spss.SetMacroValue Function (Python)"/>
+<topic href="python_package_setoutput.htm" label="spss.SetOutput Function (Python)"/>
+<topic href="python_package_setoutputlanguage.htm" label="spss.SetOutputLanguage Function (Python)"/>
+<topic href="python_package_showinstalledpluginversions.htm" label="spss.ShowInstalledPlugInVersions Function (Python)"/>
+<topic href="python_package_splitchange.htm" label="spss.SplitChange Function (Python)"/>
+<topic href="python_package_startdatastep.htm" label="spss.StartDataStep Function (Python)"/>
+<topic href="python_package_startprocedure.htm" label="spss.StartProcedure Function (Python)"/>
+<topic href="python_package_startspss.htm" label="spss.StartSPSS Function (Python)"/>
+<topic href="python_package_stopspss.htm" label="spss.StopSPSS Function (Python)"/>
+<topic href="python_package_submit.htm" label="spss.Submit Function (Python)"/>
+<topic href="python_package_textblock.htm" label="spss.TextBlock Class (Python)">
+<topic href="python_package_textblock_append.htm" label="append Method (Python)"/>
+</topic>
+</topic>
+<topic label="Variable Format Types">
+<topic href="spss_format_types.htm" label="Variable Format Types (Python)"/>
+</topic>
+</topic>
+<topic label="Scripting Guide for IBM SPSS Statistics">
+<topic label="Introduction to Python Scripts" href="python_scripting_intro.htm">
+<topic href="python_scripting_multiple_versions.htm" label="Working with Multiple Versions of IBM SPSS Statistics (Python)"/>
+<topic href="python_scripting_class_diagram.htm" label="Class Hierarchy for Scripting Facility (Python)"/>
+<topic href="python_scripting_start.htm" label="Getting Started with Python Scripts">
+<topic href="python_scripting_autoscripts.htm" label="Getting Started with Autoscripts in Python"/>
+<topic href="python_scripting_script_from_program.htm" label="Running Python Scripts from Python Programs"/>
+</topic>
+</topic>
+<topic label="SpssClient Class">
+<topic href="python_scripting_spssclient.htm" label="SpssClient Class (Python)">
+<topic href="python_scripting_spssclient_createnewserver.htm" label="CreateNewServer Method (Python)"/>
+<topic href="python_scripting_spssclient_exit.htm" label="Exit Method (Python)"/>
+<topic href="python_scripting_spssclient_getactivedatadoc.htm" label="GetActiveDataDoc Method (Python)"/>
+<topic href="python_scripting_spssclient_getconfiguredservers.htm" label="GetConfiguredServers Method (Python)"/>
+<topic href="python_scripting_spssclient_getcurrentdirectory.htm" label="GetCurrentDirectory Method (Python)"/>
+<topic href="python_scripting_spssclient_getcurrentserver.htm" label="GetCurrentServer Method (Python)"/>
+<topic href="python_scripting_spssclient_getdatadocuments.htm" label="GetDataDocuments Method (Python)"/>
+<topic href="python_scripting_spssclient_getdefaultjcversion.htm" label="GetDefaultJCVersion Method (Python)"/>
+<topic href="python_scripting_spssclient_getdefaultserver.htm" label="GetDefaultServer Method (Python)"/>
+<topic href="python_scripting_spssclient_getdesignatedoutputdoc.htm" label="GetDesignatedOutputDoc Method (Python)"/>
+<topic href="python_scripting_spssclient_getdesignatedsyntaxdoc.htm" label="GetDesignatedSyntaxDoc Method (Python)"/>
+<topic href="python_scripting_spssclient_getexportoption.htm" label="GetExportOption Method (Python)"/>
+<topic href="python_scripting_spssclient_getlocale.htm" label="GetLocale Method (Python)"/>
+<topic href="python_scripting_spssclient_getlocalserver.htm" label="GetLocalServer Method (Python)"/>
+<topic href="python_scripting_spssclient_getoutputdocuments.htm" label="GetOutputDocuments Method (Python)"/>
+<topic href="python_scripting_spssclient_getpreference.htm" label="GetPreference Method (Python)"/>
+<topic href="python_scripting_spssclient_getscriptcontext.htm" label="GetScriptContext Method (Python)"/>
+<topic href="python_scripting_spssclient_getspssoptions.htm" label="GetSPSSOptions Method (Python)"/>
+<topic href="python_scripting_spssclient_getspsspath.htm" label="GetSPSSPath Method (Python)"/>
+<topic href="python_scripting_spssclient_getspssversion.htm" label="GetSPSSVersion Method (Python)"/>
+<topic href="python_scripting_spssclient_getsyntaxdocuments.htm" label="GetSyntaxDocuments Method (Python)"/>
+<topic href="python_scripting_spssclient_getuialerts.htm" label="GetUIAlerts Method (Python)"/>
+<topic href="python_scripting_spssclient_isdatadocinuse.htm" label="IsDataDocInUse Method (Python)"/>
+<topic href="python_scripting_spssclient_isdistributedmode.htm" label="IsDistributedMode (Python)"/>
+<topic href="python_scripting_spssclient_isoptionavailable.htm" label="IsOptionAvailable Method (Python)"/>
+<topic href="python_scripting_spssclient_logtoviewer.htm" label="LogToViewer Method (Python)"/>
+<topic href="python_scripting_spssclient_newdatadoc.htm" label="NewDataDoc Method (Python)"/>
+<topic href="python_scripting_spssclient_newoutputdoc.htm" label="NewOutputDoc Method (Python)"/>
+<topic href="python_scripting_spssclient_newsyntaxdoc.htm" label="NewSyntaxDoc Method (Python)"/>
+<topic href="python_scripting_spssclient_opendatadoc.htm" label="OpenDataDoc Method (Python)"/>
+<topic href="python_scripting_spssclient_openoutputdoc.htm" label="OpenOutputDoc Method (Python)"/>
+<topic href="python_scripting_spssclient_opensyntaxdoc.htm" label="OpenSyntaxDoc Method (Python)"/>
+<topic href="python_scripting_spssclient_runsyntax.htm" label="RunSyntax Method (Python)"/>
+<topic href="python_scripting_spssclient_saveservers.htm" label="SaveServers Method (Python)"/>
+<topic href="python_scripting_spssclient_scriptparameter.htm" label="ScriptParameter Method (Python)"/>
+<topic href="python_scripting_spssclient_setcurrentdirectory.htm" label="SetCurrentDirectory Method (Python)"/>
+<topic href="python_scripting_spssclient_setdefaultjcversion.htm" label="SetDefaultJCVersion Method (Python)"/>
+<topic href="python_scripting_spssclient_setexportoption.htm" label="SetExportOption Method (Python)"/>
+<topic href="python_scripting_spssclient_setpreference.htm" label="SetPreference Method (Python)"/>
+<topic href="python_scripting_spssclient_setuialerts.htm" label="SetUIAlerts Method (Python)"/>
+<topic href="python_scripting_spssclient_startclient.htm" label="StartClient Method (Python)"/>
+<topic href="python_scripting_spssclient_stopclient.htm" label="StopClient Method (Python)"/>
+<topic href="python_scripting_spssclient_heartbeat.htm" label="_heartBeat Method (Python)"/>
+</topic>
+</topic>
+<topic label="Datasets and Data Editor Windows">
+<topic href="python_scripting_spssdatadoc.htm" label="SpssDataDoc Class (Python)">
+<topic href="python_scripting_spssdatadoc_closedocument.htm" label="CloseDocument Method (Python)"/>
+<topic href="python_scripting_spssdatadoc_getcasecount.htm" label="GetCaseCount Method (Python)"/>
+<topic href="python_scripting_spssdatadoc_getdatasetname.htm" label="GetDatasetName Method (Python)"/>
+<topic href="python_scripting_spssdatadoc_getdataui.htm" label="GetDataUI Method (Python)"/>
+<topic href="python_scripting_spssdatadoc_getdocumentpath.htm" label="GetDocumentPath Method (Python)"/>
+<topic href="python_scripting_spssdatadoc_getmenutable.htm" label="GetMenuTable Method (Python)"/>
+<topic href="python_scripting_spssdatadoc_getvariablecount.htm" label="GetVariableCount Method (Python)"/>
+<topic href="python_scripting_spssdatadoc_isactivedatadoc.htm" label="IsActiveDataDoc Method (Python)"/>
+<topic href="python_scripting_spssdatadoc_isequalto.htm" label="IsEqualTo Method (Python)"/>
+<topic href="python_scripting_spssdatadoc_ismodified.htm" label="IsModified Method (Python)"/>
+<topic href="python_scripting_spssdatadoc_isprompttosave.htm" label="IsPromptToSave Method (Python)"/>
+<topic href="python_scripting_spssdatadoc_saveas.htm" label="SaveAs Method (Python)"/>
+<topic href="python_scripting_spssdatadoc_setasactivedatadoc.htm" label="SetAsActiveDataDoc Method (Python)"/>
+<topic href="python_scripting_spssdatadoc_setdatasetname.htm" label="SetDatasetName Method (Python)"/>
+<topic href="python_scripting_spssdatadoc_setmodified.htm" label="SetModified Method (Python)"/>
+<topic href="python_scripting_spssdatadoc_setprompttosave.htm" label="SetPromptToSave Method (Python)"/>
+</topic>
+<topic href="python_scripting_spssdatadoc_datadocslist.htm" label="DataDocsList Class (Python)">
+<topic href="python_scripting_spssdatadoc_datadocslist_getitemat.htm" label="GetItemAt Method (Python)"/>
+<topic href="python_scripting_spssdatadoc_datadocslist_size.htm" label="Size Method (Python)"/>
+</topic>
+<topic href="python_scripting_spssdataui.htm" label="SpssDataUI Class (Python)">
+<topic href="python_scripting_spssdataui_getheight.htm" label="GetHeight Method (Python)"/>
+<topic href="python_scripting_spssdataui_getleft.htm" label="GetLeft Method (Python)"/>
+<topic href="python_scripting_spssdataui_getshowgridlines.htm" label="GetShowGridLines Method (Python)"/>
+<topic href="python_scripting_spssdataui_getshowvaluelabels.htm" label="GetShowValueLabels Method (Python)"/>
+<topic href="python_scripting_spssdataui_gettitletext.htm" label="GetTitleText Method (Python)"/>
+<topic href="python_scripting_spssdataui_gettop.htm" label="GetTop Method (Python)"/>
+<topic href="python_scripting_spssdataui_getvisible.htm" label="GetVisible Method (Python)"/>
+<topic href="python_scripting_spssdataui_getwidth.htm" label="GetWidth Method (Python)"/>
+<topic href="python_scripting_spssdataui_getwindowstate.htm" label="GetWindowState Method (Python)"/>
+<topic href="python_scripting_spssdataui_invokedialog.htm" label="InvokeDialog Method (Python)"/>
+<topic href="python_scripting_spssdataui_printdatadoc.htm" label="PrintDataDoc Method (Python)"/>
+<topic href="python_scripting_spssdataui_setheight.htm" label="SetHeight Method (Python)"/>
+<topic href="python_scripting_spssdataui_setleft.htm" label="SetLeft Method (Python)"/>
+<topic href="python_scripting_spssdataui_setshowgridlines.htm" label="SetShowGridLines Method (Python)"/>
+<topic href="python_scripting_spssdataui_setshowvaluelabels.htm" label="SetShowValueLabels Method (Python)"/>
+<topic href="python_scripting_spssdataui_settop.htm" label="SetTop Method (Python)"/>
+<topic href="python_scripting_spssdataui_setvisible.htm" label="SetVisible Method (Python)"/>
+<topic href="python_scripting_spssdataui_setwidth.htm" label="SetWidth Method (Python)"/>
+<topic href="python_scripting_spssdataui_setwindowstate.htm" label="SetWindowState Method (Python)"/>
+</topic>
+</topic>
+<topic label="Output Documents and Viewer Windows">
+<topic href="python_scripting_spssoutputdoc.htm" label="SpssOutputDoc Class (Python)">
+<topic href="python_scripting_spssoutputdoc_clearselection.htm" label="ClearSelection Method (Python)"/>
+<topic href="python_scripting_spssoutputdoc_closedocument.htm" label="CloseDocument Method (Python)"/>
+<topic href="python_scripting_spssoutputdoc_copy.htm" label="Copy Method (Python)"/>
+<topic href="python_scripting_spssoutputdoc_copyspecial.htm" label="CopySpecial Method (Python)"/>
+<topic href="python_scripting_spssoutputdoc_createheaderitem.htm" label="CreateHeaderItem Method (Python)"/>
+<topic href="python_scripting_spssoutputdoc_createimagechartitem.htm" label="CreateImageChartItem Method (Python)"/>
+<topic href="python_scripting_spssoutputdoc_createtextitem.htm" label="CreateTextItem Method (Python)"/>
+<topic href="python_scripting_spssoutputdoc_createtitleitem.htm" label="CreateTitleItem Method (Python)"/>
+<topic href="python_scripting_spssoutputdoc_cut.htm" label="Cut Method (Python)"/>
+<topic href="python_scripting_spssoutputdoc_delete.htm" label="Delete Method (Python)"/>
+<topic href="python_scripting_spssoutputdoc_demote.htm" label="Demote Method (Python)"/>
+<topic href="python_scripting_spssoutputdoc_exportcharts.htm" label="ExportCharts Method (Python)"/>
+<topic href="python_scripting_spssoutputdoc_exportdocument.htm" label="ExportDocument Method (Python)"/>
+<topic href="python_scripting_spssoutputdoc_getcurrentitem.htm" label="GetCurrentItem Method (Python)"/>
+<topic href="python_scripting_spssoutputdoc_getdocumentpath.htm" label="GetDocumentPath Method (Python)"/>
+<topic href="python_scripting_spssoutputdoc_getfootertext.htm" label="GetFooterText Method (Python)"/>
+<topic href="python_scripting_spssoutputdoc_getheadertext.htm" label="GetHeaderText Method (Python)"/>
+<topic href="python_scripting_spssoutputdoc_getmenutable.htm" label="GetMenuTable Method (Python)"/>
+<topic href="python_scripting_spssoutputdoc_getoutputitems.htm" label="GetOutputItems Method (Python)"/>
+<topic href="python_scripting_spssoutputdoc_getoutputoptions.htm" label="GetOutputOptions Method (Python)"/>
+<topic href="python_scripting_spssoutputdoc_getoutputui.htm" label="GetOutputUI Method (Python)"/>
+<topic href="python_scripting_spssoutputdoc_getprintoptions.htm" label="GetPrintOptions Method (Python)"/>
+<topic href="python_scripting_spssoutputdoc_inserttable.htm" label="InsertTable Method (Python)"/>
+<topic href="python_scripting_spssoutputdoc_isdesignatedoutputdoc.htm" label="IsDesignatedOutputDoc Method (Python)"/>
+<topic href="python_scripting_spssoutputdoc_isequalto.htm" label="IsEqualTo Method (Python)"/>
+<topic href="python_scripting_spssoutputdoc_ismodified.htm" label="IsModified Method (Python)"/>
+<topic href="python_scripting_spssoutputdoc_isprompttosave.htm" label="IsPromptToSave Method (Python)"/>
+<topic href="python_scripting_spssoutputdoc_paste.htm" label="Paste Method (Python)"/>
+<topic href="python_scripting_spssoutputdoc_pastebefore.htm" label="PasteBefore Method (Python)"/>
+<topic href="python_scripting_spssoutputdoc_printrange.htm" label="PrintRange Method (Python)"/>
+<topic href="python_scripting_spssoutputdoc_promote.htm" label="Promote Method (Python)"/>
+<topic href="python_scripting_spssoutputdoc_saveas.htm" label="SaveAs Method (Python)"/>
+<topic href="python_scripting_spssoutputdoc_selectall.htm" label="SelectAll Method (Python)"/>
+<topic href="python_scripting_spssoutputdoc_selectallcharts.htm" label="SelectAllCharts Method (Python)"/>
+<topic href="python_scripting_spssoutputdoc_selectalllogs.htm" label="SelectAllLogs Method (Python)"/>
+<topic href="python_scripting_spssoutputdoc_selectallmodels.htm" label="SelectAllModels Method (Python)"/>
+<topic href="python_scripting_spssoutputdoc_selectallnotes.htm" label="SelectAllNotes Method (Python)"/>
+<topic href="python_scripting_spssoutputdoc_selectallnotesex.htm" label="SelectAllNotesEx Method (Python)"/>
+<topic href="python_scripting_spssoutputdoc_selectallother.htm" label="SelectAllOther Method (Python)"/>
+<topic href="python_scripting_spssoutputdoc_selectalltables.htm" label="SelectAllTables Method (Python)"/>
+<topic href="python_scripting_spssoutputdoc_selectalltablesex.htm" label="SelectAllTablesEx Method (Python)"/>
+<topic href="python_scripting_spssoutputdoc_selectalltext.htm" label="SelectAllText Method (Python)"/>
+<topic href="python_scripting_spssoutputdoc_selectalltitles.htm" label="SelectAllTitles Method (Python)"/>
+<topic href="python_scripting_spssoutputdoc_selectallwarnings.htm" label="SelectAllWarnings Method (Python)"/>
+<topic href="python_scripting_spssoutputdoc_selectallwarningsex.htm" label="SelectAllWarningsEx Method (Python)"/>
+<topic href="python_scripting_spssoutputdoc_selectlastoutput.htm" label="SelectLastOutput Method (Python)"/>
+<topic href="python_scripting_spssoutputdoc_setasdesignatedoutputdoc.htm" label="SetAsDesignatedOutputDoc Method (Python)"/>
+<topic href="python_scripting_spssoutputdoc_setfootertext.htm" label="SetFooterText Method (Python)"/>
+<topic href="python_scripting_spssoutputdoc_setheadertext.htm" label="SetHeaderText Method (Python)"/>
+<topic href="python_scripting_spssoutputdoc_setmodified.htm" label="SetModified Method (Python)"/>
+<topic href="python_scripting_spssoutputdoc_setoutputoptions.htm" label="SetOutputOptions Method (Python)"/>
+<topic href="python_scripting_spssoutputdoc_setprintoptions.htm" label="SetPrintOptions Method (Python)"/>
+<topic href="python_scripting_spssoutputdoc_setprompttosave.htm" label="SetPromptToSave Method (Python)"/>
+</topic>
+<topic href="python_scripting_spssoutputdoc_outputdocslist.htm" label="OutputDocsList Class (Python)">
+<topic href="python_scripting_spssoutputdoc_outputdocslist_getitemat.htm" label="GetItemAt Method (Python)"/>
+<topic href="python_scripting_spssoutputdoc_outputdocslist_size.htm" label="Size Method (Python)"/>
+</topic>
+<topic href="python_scripting_spssoutputdoc_outputitemlist.htm" label="OutputItemList Class (Python)">
+<topic href="python_scripting_spssoutputdoc_outputitemlist_getitemat.htm" label="GetItemAt Method (Python)"/>
+<topic href="python_scripting_spssoutputdoc_outputitemlist_size.htm" label="Size Method (Python)"/>
+</topic>
+<topic href="python_scripting_spssoutputui.htm" label="SpssOutputUI Class (Python)">
+<topic href="python_scripting_spssoutputui_getheight.htm" label="GetHeight Method (Python)"/>
+<topic href="python_scripting_spssoutputui_getleft.htm" label="GetLeft Method (Python)"/>
+<topic href="python_scripting_spssoutputui_getsplitterposition.htm" label="GetSplitterPosition Method (Python)"/>
+<topic href="python_scripting_spssoutputui_gettitletext.htm" label="GetTitleText Method (Python)"/>
+<topic href="python_scripting_spssoutputui_gettop.htm" label="GetTop Method (Python)"/>
+<topic href="python_scripting_spssoutputui_getvisible.htm" label="GetVisible Method (Python)"/>
+<topic href="python_scripting_spssoutputui_getwidth.htm" label="GetWidth Method (Python)"/>
+<topic href="python_scripting_spssoutputui_getwindowstate.htm" label="GetWindowState Method (Python)"/>
+<topic href="python_scripting_spssoutputui_invokedialog.htm" label="InvokeDialog Method (Python)"/>
+<topic href="python_scripting_spssoutputui_printoutputdoc.htm" label="PrintOutputDoc Method (Python)"/>
+<topic href="python_scripting_spssoutputui_setheight.htm" label="SetHeight Method (Python)"/>
+<topic href="python_scripting_spssoutputui_setleft.htm" label="SetLeft Method (Python)"/>
+<topic href="python_scripting_spssoutputui_setsplitterposition.htm" label="SetSplitterPosition Method (Python)"/>
+<topic href="python_scripting_spssoutputui_settop.htm" label="SetTop Method (Python)"/>
+<topic href="python_scripting_spssoutputui_setvisible.htm" label="SetVisible Method (Python)"/>
+<topic href="python_scripting_spssoutputui_setwidth.htm" label="SetWidth Method (Python)"/>
+<topic href="python_scripting_spssoutputui_setwindowstate.htm" label="SetWindowState Method (Python)"/>
+</topic>
+</topic>
+<topic label="Syntax Documents and Syntax Editor Windows">
+<topic href="python_scripting_spsssyntaxdoc.htm" label="SpssSyntaxDoc Class (Python)">
+<topic href="python_scripting_spsssyntaxdoc_closedocument.htm" label="CloseDocument Method (Python)"/>
+<topic href="python_scripting_spsssyntaxdoc_getdocumentpath.htm" label="GetDocumentPath Method (Python)"/>
+<topic href="python_scripting_spsssyntaxdoc_getmenutable.htm" label="GetMenuTable Method (Python)"/>
+<topic href="python_scripting_spsssyntaxdoc_getsyntax.htm" label="GetSyntax Method (Python)"/>
+<topic href="python_scripting_spsssyntaxdoc_getsyntaxui.htm" label="GetSyntaxUI Method (Python)"/>
+<topic href="python_scripting_spsssyntaxdoc_isdesignatedsyntaxdoc.htm" label="IsDesignatedSyntaxDoc Method (Python)"/>
+<topic href="python_scripting_spsssyntaxdoc_isequalto.htm" label="IsEqualTo Method (Python)"/>
+<topic href="python_scripting_spsssyntaxdoc_ismodified.htm" label="IsModified Method (Python)"/>
+<topic href="python_scripting_spsssyntaxdoc_isprompttosave.htm" label="IsPromptToSave Method (Python)"/>
+<topic href="python_scripting_spsssyntaxdoc_runsyntax.htm" label="RunSyntax Method (Python)"/>
+<topic href="python_scripting_spsssyntaxdoc_saveas.htm" label="SaveAs Method (Python)"/>
+<topic href="python_scripting_spsssyntaxdoc_setasdesignatedsyntaxdoc.htm" label="SetAsDesignatedSyntaxDoc Method (Python)"/>
+<topic href="python_scripting_spsssyntaxdoc_setmodified.htm" label="SetModified Method (Python)"/>
+<topic href="python_scripting_spsssyntaxdoc_setprompttosave.htm" label="SetPromptToSave Method (Python)"/>
+<topic href="python_scripting_spsssyntaxdoc_setsyntax.htm" label="SetSyntax Method (Python)"/>
+</topic>
+<topic href="python_scripting_spsssyntaxdoc_syntaxdocslist.htm" label="SyntaxDocsList Class (Python)">
+<topic href="python_scripting_spsssyntaxdoc_syntaxdocslist_getitemat.htm" label="GetItemAt Method (Python)"/>
+<topic href="python_scripting_spsssyntaxdoc_syntaxdocslist_size.htm" label="Size Method (Python)"/>
+</topic>
+<topic href="python_scripting_spsssyntaxui.htm" label="SpssSyntaxUI Class (Python)">
+<topic href="python_scripting_spsssyntaxui_getheight.htm" label="GetHeight Method (Python)"/>
+<topic href="python_scripting_spsssyntaxui_getleft.htm" label="GetLeft Method (Python)"/>
+<topic href="python_scripting_spsssyntaxui_gettitletext.htm" label="GetTitleText Method (Python)"/>
+<topic href="python_scripting_spsssyntaxui_gettop.htm" label="GetTop Method (Python)"/>
+<topic href="python_scripting_spsssyntaxui_getvisible.htm" label="GetVisible Method (Python)"/>
+<topic href="python_scripting_spsssyntaxui_getwidth.htm" label="GetWidth Method (Python)"/>
+<topic href="python_scripting_spsssyntaxui_getwindowstate.htm" label="GetWindowState Method (Python)"/>
+<topic href="python_scripting_spsssyntaxui_invokedialog.htm" label="InvokeDialog Method (Python)"/>
+<topic href="python_scripting_spsssyntaxui_printsyntaxdoc.htm" label="PrintSyntaxDoc Method (Python)"/>
+<topic href="python_scripting_spsssyntaxui_setheight.htm" label="SetHeight Method (Python)"/>
+<topic href="python_scripting_spsssyntaxui_setleft.htm" label="SetLeft Method (Python)"/>
+<topic href="python_scripting_spsssyntaxui_settop.htm" label="SetTop Method (Python)"/>
+<topic href="python_scripting_spsssyntaxui_setvisible.htm" label="SetVisible Method (Python)"/>
+<topic href="python_scripting_spsssyntaxui_setwidth.htm" label="SetWidth Method (Python)"/>
+<topic href="python_scripting_spsssyntaxui_setwindowstate.htm" label="SetWindowState Method (Python)"/>
+</topic>
+</topic>
+<topic label="Output Items">
+<topic href="python_scripting_spssoutputitem.htm" label="SpssOutputItem Class (Python)">
+<topic href="python_scripting_spssoutputitem_converttostdtable.htm" label="ConvertToStdTable Method (Python)"/>
+<topic href="python_scripting_spssoutputitem_exporttodocument.htm" label="ExportToDocument Method (Python)"/>
+<topic href="python_scripting_spssoutputitem_exporttoimage.htm" label="ExportToImage Method (Python)"/>
+<topic href="python_scripting_spssoutputitem_getalignment.htm" label="GetAlignment Method (Python)"/>
+<topic href="python_scripting_spssoutputitem_getdescription.htm" label="GetDescription Method (Python)"/>
+<topic href="python_scripting_spssoutputitem_getheight.htm" label="GetHeight Method (Python)"/>
+<topic href="python_scripting_spssoutputitem_getpagebreak.htm" label="GetPageBreak Method (Python)"/>
+<topic href="python_scripting_spssoutputitem_getparentitem.htm" label="GetParentItem Method (Python)"/>
+<topic href="python_scripting_spssoutputitem_getprocedurename.htm" label="GetProcedureName Method (Python)"/>
+<topic href="python_scripting_spssoutputitem_getspecifictype.htm" label="GetSpecificType Method (Python)"/>
+<topic href="python_scripting_spssoutputitem_getsubtype.htm" label="GetSubType Method (Python)"/>
+<topic href="python_scripting_spssoutputitem_gettreelevel.htm" label="GetTreeLevel Method (Python)"/>
+<topic href="python_scripting_spssoutputitem_gettype.htm" label="GetType Method (Python)"/>
+<topic href="python_scripting_spssoutputitem_gettypestring.htm" label="GetTypeString Method (Python)"/>
+<topic href="python_scripting_spssoutputitem_getwidth.htm" label="GetWidth Method (Python)"/>
+<topic href="python_scripting_spssoutputitem_getxml.htm" label="GetXML Method (Python)"/>
+<topic href="python_scripting_spssoutputitem_iscurrentitem.htm" label="IsCurrentItem Method (Python)"/>
+<topic href="python_scripting_spssoutputitem_iseditable.htm" label="IsEditable Method (Python)"/>
+<topic href="python_scripting_spssoutputitem_isequalto.htm" label="IsEqualTo Method (Python)"/>
+<topic href="python_scripting_spssoutputitem_isselected.htm" label="IsSelected Method (Python)"/>
+<topic href="python_scripting_spssoutputitem_isvisible.htm" label="IsVisible Method (Python)"/>
+<topic href="python_scripting_spssoutputitem_setalignment.htm" label="SetAlignment Method (Python)"/>
+<topic href="python_scripting_spssoutputitem_setcurrentitem.htm" label="SetCurrentItem Method (Python)"/>
+<topic href="python_scripting_spssoutputitem_setdescription.htm" label="SetDescription Method (Python)"/>
+<topic href="python_scripting_spssoutputitem_setheight.htm" label="SetHeight Method (Python)"/>
+<topic href="python_scripting_spssoutputitem_setpagebreak.htm" label="SetPageBreak Method (Python)"/>
+<topic href="python_scripting_spssoutputitem_setprocedurename.htm" label="SetProcedureName Method (Python)"/>
+<topic href="python_scripting_spssoutputitem_setselected.htm" label="SetSelected Method (Python)"/>
+<topic href="python_scripting_spssoutputitem_setsubtype.htm" label="SetSubType Method (Python)"/>
+<topic href="python_scripting_spssoutputitem_settreelevel.htm" label="SetTreeLevel Method (Python)"/>
+<topic href="python_scripting_spssoutputitem_setvisible.htm" label="SetVisible Method (Python)"/>
+<topic href="python_scripting_spssoutputitem_setwidth.htm" label="SetWidth Method (Python)"/>
+</topic>
+<topic href="python_scripting_spsschartitem.htm" label="SpssChartItem Class (Python)">
+<topic href="python_scripting_spsschartitem_setxml.htm" label="SetXML Method (Python)"/>
+<topic href="python_scripting_spsschartitem_spsssubtype.htm" label="SPSSSubtype Method (Python)"/>
+</topic>
+<topic href="python_scripting_spssmodelitem.htm" label="SpssModelItem Class (Python)">
+<topic href="python_scripting_spssmodelitem_exportallviews.htm" label="ExportAllViews Method (Python)"/>
+<topic href="python_scripting_spssmodelitem_setxml.htm" label="SetXML Method (Python)"/>
+</topic>
+<topic href="python_scripting_spssheaderitem.htm" label="SpssHeaderItem Class (Python)">
+<topic href="python_scripting_spssheaderitem_getchildcount.htm" label="GetChildCount Method (Python)"/>
+<topic href="python_scripting_spssheaderitem_getchilditem.htm" label="GetChildItem Method (Python)"/>
+<topic href="python_scripting_spssheaderitem_insertchilditem.htm" label="InsertChildItem Method (Python)"/>
+<topic href="python_scripting_spssheaderitem_isexpanded.htm" label="IsExpanded Method (Python)"/>
+<topic href="python_scripting_spssheaderitem_removechilditem.htm" label="RemoveChildItem Method (Python)"/>
+<topic href="python_scripting_spssheaderitem_setexpanded.htm" label="SetExpanded Method (Python)"/>
+</topic>
+<topic href="python_scripting_spsslogitem.htm" label="SpssLogItem Class (Python)">
+<topic href="python_scripting_spsslogitem_append.htm" label="Append Method (Python)"/>
+<topic href="python_scripting_spsslogitem_gettextcontents.htm" label="GetTextContents Method (Python)"/>
+<topic href="python_scripting_spsslogitem_settextcontents.htm" label="SetTextContents Method (Python)"/>
+</topic>
+<topic href="python_scripting_spsstextitem.htm" label="SpssTextItem Class (Python)">
+<topic href="python_scripting_spsstextitem_gettextcontents.htm" label="GetTextContents Method (Python)"/>
+<topic href="python_scripting_spsstextitem_settextcontents.htm" label="SetTextContents Method (Python)"/>
+</topic>
+<topic href="python_scripting_spsstitleitem.htm" label="SpssTitleItem Class (Python)">
+<topic href="python_scripting_spsstitleitem_gettextcontents.htm" label="GetTextContents Method (Python)"/>
+<topic href="python_scripting_spsstitleitem_settextcontents.htm" label="SetTextContents Method (Python)"/>
+</topic>
+</topic>
+<topic label="Menus">
+<topic href="python_scripting_menutablelist.htm" label="MenuTableList Class (Python)">
+<topic href="python_scripting_menutablelist_getitemat.htm" label="GetItemAt Method (Python)"/>
+<topic href="python_scripting_menutablelist_size.htm" label="Size Method (Python)"/>
+</topic>
+<topic href="python_scripting_spssmenuitem.htm" label="SpssMenuItem Class (Python)">
+<topic href="python_scripting_spssmenuitem_gettextcontents.htm" label="GetTextContents Method (Python)"/>
+</topic>
+</topic>
+<topic label="Pivot Tables">
+<topic href="python_scripting_pivottable_interface.htm" label="Pivot Tables (Python)">
+<topic href="python_scripting_pivottable_compatibility.htm" label="Compatibility with previous releases"/>
+</topic>
+<topic href="python_scripting_spsspivottable.htm" label="SpssPivotTable Class (Python)">
+<topic href="python_scripting_spsspivottable_autofit.htm" label="Autofit Method (Python)"/>
+<topic href="python_scripting_spsspivottable_clearselection.htm" label="ClearSelection Method (Python)"/>
+<topic href="python_scripting_spsspivottable_columnlabelarray.htm" label="ColumnLabelArray Method (Python)"/>
+<topic href="python_scripting_spsspivottable_datacellarray.htm" label="DataCellArray Method (Python)"/>
+<topic href="python_scripting_spsspivottable_displaytablebyrows.htm" label="DisplayTableByRows Method (Python)"/>
+<topic href="python_scripting_spsspivottable_footnotesarray.htm" label="FootnotesArray Method (Python)"/>
+<topic href="python_scripting_spsspivottable_getcaptiontext.htm" label="GetCaptionText Method (Python)"/>
+<topic href="python_scripting_spsspivottable_getfootnotemarkersposition.htm" label="GetFootnoteMarkersPosition Method (Python)"/>
+<topic href="python_scripting_spsspivottable_getfootnotemarkersstyle.htm" label="GetFootnoteMarkersStyle Method (Python)"/>
+<topic href="python_scripting_spsspivottable_getheight.htm" label="GetHeight Method (Python)"/>
+<topic href="python_scripting_spsspivottable_getrotatecolumnlabels.htm" label="GetRotateColumnLabels Method (Python)"/>
+<topic href="python_scripting_spsspivottable_getrotaterowlabels.htm" label="GetRotateRowLabels Method (Python)"/>
+<topic href="python_scripting_spsspivottable_gettitletext.htm" label="GetTitleText Method (Python)"/>
+<topic href="python_scripting_spsspivottable_getupdatescreen.htm" label="GetUpdateScreen Method (Python)"/>
+<topic href="python_scripting_spsspivottable_getvarnamesdisplay.htm" label="GetVarNamesDisplay Method (Python)"/>
+<topic href="python_scripting_spsspivottable_getvarvaluesdisplay.htm" label="GetVarValuesDisplay Method (Python)"/>
+<topic href="python_scripting_spsspivottable_getwidoworphanlines.htm" label="GetWidowOrphanLines Method (Python)"/>
+<topic href="python_scripting_pivottable_getwidth.htm" label="GetWidth Method (Python)"/>
+<topic href="python_scripting_spsspivottable_group.htm" label="Group Method (Python)"/>
+<topic href="python_scripting_spsspivottable_hidecaption.htm" label="HideCaption Method (Python)"/>
+<topic href="python_scripting_spsspivottable_hidefootnote.htm" label="HideFootnote Method (Python)"/>
+<topic href="python_scripting_spsspivottable_hidetitle.htm" label="HideTitle Method (Python)"/>
+<topic href="python_scripting_spsspivottable_insertfootnote.htm" label="InsertFootnote Method (Python)"/>
+<topic href="python_scripting_spsspivottable_isdisplaytablebyrows.htm" label="IsDisplayTableByRows Method (Python)"/>
+<topic href="python_scripting_spsspivottable_layerlabelarray.htm" label="LayerLabelArray Method (Python)"/>
+<topic href="python_scripting_spsspivottable_navigatetofirstrow.htm" label="NavigateToFirstRow Method (Python)"/>
+<topic href="python_scripting_spsspivottable_navigatetolastrow.htm" label="NavigateToLastRow Method (Python)"/>
+<topic href="python_scripting_spsspivottable_navigatetonextrows.htm" label="NavigateToNextRows Method (Python)"/>
+<topic href="python_scripting_spsspivottable_navigatetopreviousrows.htm" label="NavigateToPreviousRows Method (Python)"/>
+<topic href="python_scripting_spsspivottable_numericformat.htm" label="NumericFormat Method (Python)"/>
+<topic href="python_scripting_spsspivottable_pivotmanager.htm" label="PivotManager Method (Python)"/>
+<topic href="python_scripting_spsspivottable_rowlabelarray.htm" label="RowLabelArray Method (Python)"/>
+<topic href="python_scripting_spsspivottable_selectallfootnotes.htm" label="SelectAllFootnotes Method (Python)"/>
+<topic href="python_scripting_spsspivottable_selectcaption.htm" label="SelectCaption Method (Python)"/>
+<topic href="python_scripting_spsspivottable_selectcorner.htm" label="SelectCorner Method (Python)"/>
+<topic href="python_scripting_spsspivottable_selecttable.htm" label="SelectTable Method (Python)"/>
+<topic href="python_scripting_spsspivottable_selecttablebody.htm" label="SelectTableBody Method (Python)"/>
+<topic href="python_scripting_spsspivottable_selecttitle.htm" label="SelectTitle Method (Python)"/>
+<topic href="python_scripting_spsspivottable_setbackgroundcolor.htm" label="SetBackgroundColor Method (Python)"/>
+<topic href="python_scripting_spsspivottable_setbottommargin.htm" label="SetBottomMargin Method (Python)"/>
+<topic href="python_scripting_spsspivottable_setcaptiontext.htm" label="SetCaptionText Method (Python)"/>
+<topic href="python_scripting_spsspivottable_setcornertext.htm" label="SetCornerText Method (Python)"/>
+<topic href="python_scripting_spsspivottable_setdatacellwidths.htm" label="SetDataCellWidths Method (Python)"/>
+<topic href="python_scripting_spsspivottable_setfootnotemarkers.htm" label="SetFootnoteMarkers Method (Python)"/>
+<topic href="python_scripting_spsspivottable_setforegroundcolor.htm" label="SetForegroundColor Method (Python)"/>
+<topic href="python_scripting_spsspivottable_sethalign.htm" label="SetHAlign Method (Python)"/>
+<topic href="python_scripting_spsspivottable_sethdecdigits.htm" label="SetHDecDigits Method (Python)"/>
+<topic href="python_scripting_spsspivottable_setleftmargin.htm" label="SetLeftMargin Method (Python)"/>
+<topic href="python_scripting_spsspivottable_setrightmargin.htm" label="SetRightMargin Method (Python)"/>
+<topic href="python_scripting_spsspivottable_setrotatecolumnlabels.htm" label="SetRotateColumnLabels Method (Python)"/>
+<topic href="python_scripting_spsspivottable_setrotaterowlabels.htm" label="SetRotateRowLabels Method (Python)"/>
+<topic href="python_scripting_spsspivottable_setrowstodisplayrowcount.htm" label="SetRowsToDisplayRowCount Method (Python)"/>
+<topic href="python_scripting_spsspivottable_setrowstodisplaytolerance.htm" label="SetRowsToDisplayTolerance Method (Python)"/>
+<topic href="python_scripting_spsspivottable_settablelook.htm" label="SetTableLook Method (Python)"/>
+<topic href="python_scripting_spsspivottable_settextcolor.htm" label="SetTextColor Method (Python)"/>
+<topic href="python_scripting_spsspivottable_settextfont.htm" label="SetTextFont Method (Python)"/>
+<topic href="python_scripting_spsspivottable_settexthidden.htm" label="SetTextHidden Method (Python)"/>
+<topic href="python_scripting_spsspivottable_settextsize.htm" label="SetTextSize Method (Python)"/>
+<topic href="python_scripting_spsspivottable_settextstyle.htm" label="SetTextStyle Method (Python)"/>
+<topic href="python_scripting_spsspivottable_settextunderlined.htm" label="SetTextUnderlined Method (Python)"/>
+<topic href="python_scripting_spsspivottable_settitletext.htm" label="SetTitleText Method (Python)"/>
+<topic href="python_scripting_spsspivottable_settopmargin.htm" label="SetTopMargin Method (Python)"/>
+<topic href="python_scripting_spsspivottable_setupdatescreen.htm" label="SetUpdateScreen Method (Python)"/>
+<topic href="python_scripting_spsspivottable_setvalign.htm" label="SetVAlign Method (Python)"/>
+<topic href="python_scripting_spsspivottable_setvarnamesdisplay.htm" label="SetVarNamesDisplay Method (Python)"/>
+<topic href="python_scripting_spsspivottable_setvarvaluesdisplay.htm" label="SetVarValuesDisplay Method (Python)"/>
+<topic href="python_scripting_spsspivottable_setwidoworphanlines.htm" label="SetWidowOrphanLines Method (Python)"/>
+<topic href="python_scripting_spsspivottable_showall_method.htm" label="ShowAll Method (Python)"/>
+<topic href="python_scripting_spsspivottable_showallfootnotes.htm" label="ShowAllFootnotes Method (Python)"/>
+<topic href="python_scripting_spsspivottable_showcaption.htm" label="ShowCaption Method (Python)"/>
+<topic href="python_scripting_spsspivottable_showfootnote.htm" label="ShowFootnote Method (Python)"/>
+<topic href="python_scripting_spsspivottable_showtitle.htm" label="ShowTitle Method (Python)"/>
+<topic href="python_scripting_spsspivottable_ungroup.htm" label="Ungroup Method (Python)"/>
+</topic>
+<topic href="python_scripting_spssdatacells.htm" label="SpssDataCells Class (Python)">
+<topic href="python_scripting_spssdatacells_getbackgroundcolorat.htm" label="GetBackgroundColorAt Method (Python)"/>
+<topic href="python_scripting_spssdatacells_getbottommarginat.htm" label="GetBottomMarginAt Method (Python)"/>
+<topic href="python_scripting_spssdatacells_getforegroundcolorat.htm" label="GetForegroundColorAt Method (Python)"/>
+<topic href="python_scripting_spssdatacells_gethalignat.htm" label="GetHAlignAt Method (Python)"/>
+<topic href="python_scripting_spssdatacells_gethdecdigitsat.htm" label="GetHDecDigitsAt Method (Python)"/>
+<topic href="python_scripting_spssdatacells_getleftmarginat.htm" label="GetLeftMarginAt Method (Python)"/>
+<topic href="python_scripting_spssdatacells_getnumcolumns.htm" label="GetNumColumns Method (Python)"/>
+<topic href="python_scripting_spssdatacells_getnumericformatat.htm" label="GetNumericFormatAt method (Python)"/>
+<topic href="python_scripting_spssdatacells_getnumericformatatex.htm" label="GetNumericFormatAtEx method (Python)"/>
+<topic href="python_scripting_spssdatacells_getnumrows.htm" label="GetNumRows Method (Python)"/>
+<topic href="python_scripting_spssdatacells_getreferredfootnotesat.htm" label="GetReferredFootnotesAt Method (Python)"/>
+<topic href="python_scripting_spssdatacells_getrightmarginat.htm" label="GetRightMarginAt Method (Python)"/>
+<topic href="python_scripting_spssdatacells_gettextcolorat.htm" label="GetTextColorAt Method (Python)"/>
+<topic href="python_scripting_spssdatacells_gettextfontat.htm" label="GetTextFontAt Method (Python)"/>
+<topic href="python_scripting_spssdatacells_gettexthiddenat.htm" label="GetTextHiddenAt Method (Python)"/>
+<topic href="python_scripting_spssdatacells_gettextsizeat.htm" label="GetTextSizeAt Method (Python)"/>
+<topic href="python_scripting_spssdatacells_gettextstyleat.htm" label="GetTextStyleAt Method (Python)"/>
+<topic href="python_scripting_spssdatacells_gettextunderlinedat.htm" label="GetTextUnderlinedAt Method (Python)"/>
+<topic href="python_scripting_spssdatacells_gettopmarginat.htm" label="GetTopMarginAt Method (Python)"/>
+<topic href="python_scripting_spssdatacells_getvalignat.htm" label="GetVAlignAt Method (Python)"/>
+<topic href="python_scripting_spssdatacells_getunformattedvalueat.htm" label="GetUnformattedValueAt Method (Python)"/>
+<topic href="python_scripting_spssdatacells_getvalueat.htm" label="GetValueAt Method (Python)"/>
+<topic href="python_scripting_spssdatacells_hidefootnotesat.htm" label="HideFootnotesAt Method (Python)"/>
+<topic href="python_scripting_spssdatacells_insertnewfootnoteat.htm" label="InsertNewFootnoteAt Method (Python)"/>
+<topic href="python_scripting_spssdatacells_insertsharedfootnoteat.htm" label="InsertSharedFootnoteAt Method (Python)"/>
+<topic href="python_scripting_spssdatacells_resizecolumn.htm" label="ReSizeColumn Method (Python)"/>
+<topic href="python_scripting_spssdatacells_selectcellat.htm" label="SelectCellAt Method (Python)"/>
+<topic href="python_scripting_spssdatacells_selectreferredfootnotesat.htm" label="SelectReferredFootnotesAt Method (Python)"/>
+<topic href="python_scripting_spssdatacells_setbackgroundcolorat.htm" label="SetBackgroundColorAt Method (Python)"/>
+<topic href="python_scripting_spssdatacells_setbottommarginat.htm" label="SetBottomMarginAt Method (Python)"/>
+<topic href="python_scripting_spssdatacells_setforegroundcolorat.htm" label="SetForegroundColorAt Method (Python)"/>
+<topic href="python_scripting_spssdatacells_sethalignat.htm" label="SetHAlignAt Method (Python)"/>
+<topic href="python_scripting_spssdatacells_sethdecdigitsat.htm" label="SetHDecDigitsAt Method (Python)"/>
+<topic href="python_scripting_spssdatacells_setleftmarginat.htm" label="SetLeftMarginAt Method (Python)"/>
+<topic href="python_scripting_spssdatacells_setnumericformatat.htm" label="SetNumericFormatAt method (Python)"/>
+<topic href="python_scripting_spssdatacells_setnumericformatatwithdecimal.htm" label="SetNumericFormatAtWithDecimal method (Python)"/>
+<topic href="python_scripting_spssdatacells_setrightmarginat.htm" label="SetRightMarginAt Method (Python)"/>
+<topic href="python_scripting_spssdatacells_settextcolorat.htm" label="SetTextColorAt Method (Python)"/>
+<topic href="python_scripting_spssdatacells_settextfontat.htm" label="SetTextFontAt Method (Python)"/>
+<topic href="python_scripting_spssdatacells_settexthiddenat.htm" label="SetTextHiddenAt Method (Python)"/>
+<topic href="python_scripting_spssdatacells_settextsizeat.htm" label="SetTextSizeAt Method (Python)"/>
+<topic href="python_scripting_spssdatacells_settextstyleat.htm" label="SetTextStyleAt Method (Python)"/>
+<topic href="python_scripting_spssdatacells_settextunderlinedat.htm" label="SetTextUnderlinedAt Method (Python)"/>
+<topic href="python_scripting_spssdatacells_settopmarginat.htm" label="SetTopMarginAt Method (Python)"/>
+<topic href="python_scripting_spssdatacells_setvalignat.htm" label="SetVAlignAt Method (Python)"/>
+<topic href="python_scripting_spssdatacells_setvalueat.htm" label="SetValueAt Method (Python)"/>
+<topic href="python_scripting_spssdatacells_showfootnotesat.htm" label="ShowFootnotesAt Method (Python)"/>
+</topic>
+<topic href="python_scripting_spssdimension.htm" label="SpssDimension Class (Python)">
+<topic href="python_scripting_spssdimension_getcategoryvalueat.htm" label="GetCategoryValueAt Method (Python)"/>
+<topic href="python_scripting_spssdimension_getcurrentcategory.htm" label="GetCurrentCategory Method (Python)"/>
+<topic href="python_scripting_spssdimension_getdimensionname.htm" label="GetDimensionName Method (Python)"/>
+<topic href="python_scripting_spssdimension_getfulldimensionlabel.htm" label="GetFullDimensionLabel Method (Python)"/>
+<topic href="python_scripting_spssdimension_getnumcategories.htm" label="GetNumCategories Method (Python)"/>
+<topic href="python_scripting_spssdimension_hidelabel.htm" label="HideLabel Method (Python)"/>
+<topic href="python_scripting_spssdimension_movetocolumn.htm" label="MoveToColumn Method (Python)"/>
+<topic href="python_scripting_spssdimension_movetolayer.htm" label="MoveToLayer Method (Python)"/>
+<topic href="python_scripting_spssdimension_movetorow.htm" label="MoveToRow Method (Python)"/>
+<topic href="python_scripting_spssdimension_setcurrentcategory.htm" label="SetCurrentCategory Method (Python)"/>
+<topic href="python_scripting_spssdimension_setdimensionname.htm" label="SetDimensionName Method (Python)"/>
+</topic>
+<topic href="python_scripting_spssfootnotes.htm" label="SpssFootnotes Class (Python)">
+<topic href="python_scripting_spssfootnotes_changemarkertoregular.htm" label="ChangeMarkerToRegular Method (Python)"/>
+<topic href="python_scripting_spssfootnotes_changemarkertospecial.htm" label="ChangeMarkerToSpecial Method (Python)"/>
+<topic href="python_scripting_spssfootnotes_getbackgroundcolorat.htm" label="GetBackgroundColorAt Method (Python)"/>
+<topic href="python_scripting_spssfootnotes_getbottommarginat.htm" label="GetBottomMarginAt Method (Python)"/>
+<topic href="python_scripting_spssfootnotes_getcount.htm" label="GetCount Method (Python)"/>
+<topic href="python_scripting_spssfootnotes_getforegroundcolorat.htm" label="GetForegroundColorAt Method (Python)"/>
+<topic href="python_scripting_spssfootnotes_gethalignat.htm" label="GetHAlignAt Method (Python)"/>
+<topic href="python_scripting_spssfootnotes_getleftmarginat.htm" label="GetLeftMarginAt Method (Python)"/>
+<topic href="python_scripting_spssfootnotes_getrightmarginat.htm" label="GetRightMarginAt Method (Python)"/>
+<topic href="python_scripting_spssfootnotes_gettextcolorat.htm" label="GetTextColorAt Method (Python)"/>
+<topic href="python_scripting_spssfootnotes_gettextfontat.htm" label="GetTextFontAt Method (Python)"/>
+<topic href="python_scripting_spssfootnotes_gettexthiddenat.htm" label="GetTextHiddenAt Method (Python)"/>
+<topic href="python_scripting_spssfootnotes_gettextsizeat.htm" label="GetTextSizeAt Method (Python)"/>
+<topic href="python_scripting_spssfootnotes_gettextstyleat.htm" label="GetTextStyleAt Method (Python)"/>
+<topic href="python_scripting_spssfootnotes_gettextunderlinedat.htm" label="GetTextUnderlinedAt Method (Python)"/>
+<topic href="python_scripting_spssfootnotes_gettopmarginat.htm" label="GetTopMarginAt Method (Python)"/>
+<topic href="python_scripting_spssfootnotes_getvalignat.htm" label="GetVAlignAt Method (Python)"/>
+<topic href="python_scripting_spssfootnotes_getvalueat.htm" label="GetValueAt Method (Python)"/>
+<topic href="python_scripting_spssfootnotes_renumberfootnotes.htm" label="RenumberFootnotes Method (Python)"/>
+<topic href="python_scripting_spssfootnotes_selectcellat.htm" label="SelectCellAt Method (Python)"/>
+<topic href="python_scripting_spssfootnotes_setbackgroundcolorat.htm" label="SetBackgroundColorAt Method (Python)"/>
+<topic href="python_scripting_spssfootnotes_setbottommarginat.htm" label="SetBottomMarginAt Method (Python)"/>
+<topic href="python_scripting_spssfootnotes_setforegroundcolorat.htm" label="SetForegroundColorAt Method (Python)"/>
+<topic href="python_scripting_spssfootnotes_sethalignat.htm" label="SetHAlignAt Method (Python)"/>
+<topic href="python_scripting_spssfootnotes_setleftmarginat.htm" label="SetLeftMarginAt Method (Python)"/>
+<topic href="python_scripting_spssfootnotes_setrightmarginat.htm" label="SetRightMarginAt Method (Python)"/>
+<topic href="python_scripting_spssfootnotes_settextcolorat.htm" label="SetTextColorAt Method (Python)"/>
+<topic href="python_scripting_spssfootnotes_settextfontat.htm" label="SetTextFontAt Method (Python)"/>
+<topic href="python_scripting_spssfootnotes_settexthiddenat.htm" label="SetTextHiddenAt Method (Python)"/>
+<topic href="python_scripting_spssfootnotes_settextsizeat.htm" label="SetTextSizeAt Method (Python)"/>
+<topic href="python_scripting_spssfootnotes_settextstyleat.htm" label="SetTextStyleAt Method (Python)"/>
+<topic href="python_scripting_spssfootnotes_settextunderlinedat.htm" label="SetTextUnderlinedAt Method (Python)"/>
+<topic href="python_scripting_spssfootnotes_settopmarginat.htm" label="SetTopMarginAt Method (Python)"/>
+<topic href="python_scripting_spssfootnotes_setvalignat.htm" label="SetVAlignAt Method (Python)"/>
+<topic href="python_scripting_spssfootnotes_setvalueat.htm" label="SetValueAt Method (Python)"/>
+</topic>
+<topic href="python_scripting_spsslabels.htm" label="SpssLabels Class (Python)">
+<topic href="python_scripting_spsslabels_breakhere.htm" label="BreakHere Method (Python)"/>
+<topic href="python_scripting_spsslabels_getbackgroundcolorat.htm" label="GetBackgroundColorAt Method (Python)"/>
+<topic href="python_scripting_spsslabels_getbottommarginat.htm" label="GetBottomMarginAt Method (Python)"/>
+<topic href="python_scripting_spsslabels_getcolumnlabelwidthat.htm" label="GetColumnLabelWidthAt Method (Python)"/>
+<topic href="python_scripting_spsslabels_getforegroundcolorat.htm" label="GetForegroundColorAt Method (Python)"/>
+<topic href="python_scripting_spsslabels_gethalignat.htm" label="GetHAlignAt Method (Python)"/>
+<topic href="python_scripting_spsslabels_getleftmarginat.htm" label="GetLeftMarginAt Method (Python)"/>
+<topic href="python_scripting_spsslabels_getnumcolumns.htm" label="GetNumColumns Method (Python)"/>
+<topic href="python_scripting_spsslabels_getnumrows.htm" label="GetNumRows Method (Python)"/>
+<topic href="python_scripting_spsslabels_getreferredfootnotesat.htm" label="GetReferredFootnotesAt Method (Python)"/>
+<topic href="python_scripting_spsslabels_getrightmarginat.htm" label="GetRightMarginAt Method (Python)"/>
+<topic href="python_scripting_spsslabels_getrowlabelwidthat.htm" label="GetRowLabelWidthAt Method (Python)"/>
+<topic href="python_scripting_spsslabels_gettextcolorat.htm" label="GetTextColorAt Method (Python)"/>
+<topic href="python_scripting_spsslabels_gettextfontat.htm" label="GetTextFontAt Method (Python)"/>
+<topic href="python_scripting_spsslabels_gettexthiddenat.htm" label="GetTextHiddenAt Method (Python)"/>
+<topic href="python_scripting_spsslabels_gettextsizeat.htm" label="GetTextSizeAt Method (Python)"/>
+<topic href="python_scripting_spsslabels_gettextstyleat.htm" label="GetTextStyleAt Method (Python)"/>
+<topic href="python_scripting_spsslabels_gettextunderlinedat.htm" label="GetTextUnderlinedAt Method (Python)"/>
+<topic href="python_scripting_spsslabels_gettextwidthat.htm" label="GetTextWidthAt Method (Python)"/>
+<topic href="python_scripting_spsslabels_gettopmarginat.htm" label="GetTopMarginAt Method (Python)"/>
+<topic href="python_scripting_spsslabels_getvalignat.htm" label="GetVAlignAt Method (Python)"/>
+<topic href="python_scripting_spsslabels_getvalueat.htm" label="GetValueAt Method (Python)"/>
+<topic href="python_scripting_spsslabels_hidealllabelsindimensionat.htm" label="HideAllLabelsInDimensionAt Method (Python)"/>
+<topic href="python_scripting_spsslabels_hidefootnotesat.htm" label="HideFootnotesAt Method (Python)"/>
+<topic href="python_scripting_spsslabels_hidelabelsindimensionat.htm" label="HideLabelsInDimensionAt Method (Python)"/>
+<topic href="python_scripting_spsslabels_hidelabelswithdataat.htm" label="HideLabelsWithDataAt Method (Python)"/>
+<topic href="python_scripting_spsslabels_insertbefore.htm" label="InsertBefore Method (Python)"/>
+<topic href="python_scripting_spsslabels_insertnewafter.htm" label="InsertNewAfter Method (Python)"/>
+<topic href="python_scripting_spsslabels_insertnewbefore.htm" label="InsertNewBefore Method (Python)"/>
+<topic href="python_scripting_spsslabels_insertnewfootnoteat.htm" label="InsertNewFootnoteAt Method (Python)"/>
+<topic href="python_scripting_spsslabels_insertsharedfootnoteat.htm" label="InsertSharedFootnoteAt Method (Python)"/>
+<topic href="python_scripting_spsslabels_keeptogether.htm" label="KeepTogether Method (Python)"/>
+<topic href="python_scripting_spsslabels_removebreakhere.htm" label="RemoveBreakHere Method (Python)"/>
+<topic href="python_scripting_spsslabels_removekeeptogether.htm" label="RemoveKeepTogether Method (Python)"/>
+<topic href="python_scripting_spsslabels_selectdataunderlabelat.htm" label="SelectDataUnderLabelAt Method (Python)"/>
+<topic href="python_scripting_spsslabels_selectlabelat.htm" label="SelectLabelAt Method (Python)"/>
+<topic href="python_scripting_spsslabels_selectlabeldataat.htm" label="SelectLabelDataAt Method (Python)"/>
+<topic href="python_scripting_spsslabels_selectreferredfootnotesat.htm" label="SelectReferredFootnotesAt Method (Python)"/>
+<topic href="python_scripting_spsslabels_setbackgroundcolorat.htm" label="SetBackgroundColorAt Method (Python)"/>
+<topic href="python_scripting_spsslabels_setbottommarginat.htm" label="SetBottomMarginAt Method (Python)"/>
+<topic href="python_scripting_spsslabels_setcolumnlabelwidthat.htm" label="SetColumnLabelWidthAt Method (Python)"/>
+<topic href="python_scripting_spsslabels_setforegroundcolorat.htm" label="SetForegroundColorAt Method (Python)"/>
+<topic href="python_scripting_spsslabels_sethalignat.htm" label="SetHAlignAt Method (Python)"/>
+<topic href="python_scripting_spsslabels_setleftmarginat.htm" label="SetLeftMarginAt Method (Python)"/>
+<topic href="python_scripting_spsslabels_setrightmarginat.htm" label="SetRightMarginAt Method (Python)"/>
+<topic href="python_scripting_spsslabels_setrowlabelwidthat.htm" label="SetRowLabelWidthAt Method (Python)"/>
+<topic href="python_scripting_spsslabels_settextcolorat.htm" label="SetTextColorAt Method (Python)"/>
+<topic href="python_scripting_spsslabels_settextfontat.htm" label="SetTextFontAt Method (Python)"/>
+<topic href="python_scripting_spsslabels_settexthiddenat.htm" label="SetTextHiddenAt Method (Python)"/>
+<topic href="python_scripting_spsslabels_settextsizeat.htm" label="SetTextSizeAt Method (Python)"/>
+<topic href="python_scripting_spsslabels_settextstyleat.htm" label="SetTextStyleAt Method (Python)"/>
+<topic href="python_scripting_spsslabels_settextunderlinedat.htm" label="SetTextUnderlinedAt Method (Python)"/>
+<topic href="python_scripting_spsslabels_settopmarginat.htm" label="SetTopMarginAt Method (Python)"/>
+<topic href="python_scripting_spsslabels_setvalignat.htm" label="SetVAlignAt Method (Python)"/>
+<topic href="python_scripting_spsslabels_setvalueat.htm" label="SetValueAt Method (Python)"/>
+<topic href="python_scripting_spsslabels_showalllabelsanddataindimensionat.htm" label="ShowAllLabelsAndDataInDimensionAt Method (Python)"/>
+<topic href="python_scripting_spsslabels_showalllabelsindimensionat.htm" label="ShowAllLabelsInDimensionAt Method (Python)"/>
+<topic href="python_scripting_spsslabels_showfootnotesat.htm" label="ShowFootnotesAt Method (Python)"/>
+<topic href="python_scripting_spsslabels_showhiddendimensionlabelat.htm" label="ShowHiddenDimensionLabelAt Method (Python)"/>
+<topic href="python_scripting_spsslabels_swap.htm" label="Swap Method (Python)"/>
+</topic>
+<topic href="python_scripting_spsslayerlabels.htm" label="SpssLayerLabels Class (Python)">
+<topic href="python_scripting_spsslayerlabels_getbackgroundcolorat.htm" label="GetBackgroundColorAt Method (Python)"/>
+<topic href="python_scripting_spsslayerlabels_getbottommarginat.htm" label="GetBottomMarginAt Method (Python)"/>
+<topic href="python_scripting_spsslayerlabels_getforegroundcolorat.htm" label="GetForegroundColorAt Method (Python)"/>
+<topic href="python_scripting_spsslayerlabels_gethalignat.htm" label="GetHAlignAt Method (Python)"/>
+<topic href="python_scripting_spsslayerlabels_getleftmarginat.htm" label="GetLeftMarginAt Method (Python)"/>
+<topic href="python_scripting_spsslayerlabels_getnumdimensions.htm" label="GetNumDimensions Method (Python)"/>
+<topic href="python_scripting_spsslayerlabels_getnumlabelswide.htm" label="GetNumLabelsWide Method (Python)"/>
+<topic href="python_scripting_spsslayerlabels_getrightmarginat.htm" label="GetRightMarginAt Method (Python)"/>
+<topic href="python_scripting_spsslayerlabels_gettextcolorat.htm" label="GetTextColorAt Method (Python)"/>
+<topic href="python_scripting_spsslayerlabels_gettextfontat.htm" label="GetTextFontAt Method (Python)"/>
+<topic href="python_scripting_spsslayerlabels_gettexthiddenat.htm" label="GetTextHiddenAt Method (Python)"/>
+<topic href="python_scripting_spsslayerlabels_gettextsizeat.htm" label="GetTextSizeAt Method (Python)"/>
+<topic href="python_scripting_spsslayerlabels_gettextstyleat.htm" label="GetTextStyleAt Method (Python)"/>
+<topic href="python_scripting_spsslayerlabels_gettextunderlinedat.htm" label="GetTextUnderlinedAt Method (Python)"/>
+<topic href="python_scripting_spsslayerlabels_gettopmarginat.htm" label="GetTopMarginAt Method (Python)"/>
+<topic href="python_scripting_spsslayerlabels_getvalignat.htm" label="GetVAlignAt Method (Python)"/>
+<topic href="python_scripting_spsslayerlabels_getvalueat.htm" label="GetValueAt Method (Python)"/>
+<topic href="python_scripting_spsslayerlabels_hidefootnotesat.htm" label="HideFootnotesAt Method (Python)"/>
+<topic href="python_scripting_spsslayerlabels_insertnewfootnoteat.htm" label="InsertNewFootnoteAt Method (Python)"/>
+<topic href="python_scripting_spsslayerlabels_insertsharedfootnoteat.htm" label="InsertSharedFootnoteAt Method (Python)"/>
+<topic href="python_scripting_spsslayerlabels_selectlabelat.htm" label="SelectLabelAt Method (Python)"/>
+<topic href="python_scripting_spsslayerlabels_selectreferredfootnotesat.htm" label="SelectReferredFootnotesAt Method (Python)"/>
+<topic href="python_scripting_spsslayerlabels_setbackgroundcolorat.htm" label="SetBackgroundColorAt Method (Python)"/>
+<topic href="python_scripting_spsslayerlabels_setbottommarginat.htm" label="SetBottomMarginAt Method (Python)"/>
+<topic href="python_scripting_spsslayerlabels_setforegroundcolorat.htm" label="SetForegroundColorAt Method (Python)"/>
+<topic href="python_scripting_spsslayerlabels_sethalignat.htm" label="SetHAlignAt Method (Python)"/>
+<topic href="python_scripting_spsslayerlabels_setleftmarginat.htm" label="SetLeftMarginAt Method (Python)"/>
+<topic href="python_scripting_spsslayerlabels_setrightmarginat.htm" label="SetRightMarginAt Method (Python)"/>
+<topic href="python_scripting_spsslayerlabels_settextcolorat.htm" label="SetTextColorAt Method (Python)"/>
+<topic href="python_scripting_spsslayerlabels_settextfontat.htm" label="SetTextFontAt Method (Python)"/>
+<topic href="python_scripting_spsslayerlabels_settexthiddenat.htm" label="SetTextHiddenAt Method (Python)"/>
+<topic href="python_scripting_spsslayerlabels_settextsizeat.htm" label="SetTextSizeAt Method (Python)"/>
+<topic href="python_scripting_spsslayerlabels_settextstyleat.htm" label="SetTextStyleAt Method (Python)"/>
+<topic href="python_scripting_spsslayerlabels_settextunderlinedat.htm" label="SetTextUnderlinedAt Method (Python)"/>
+<topic href="python_scripting_spsslayerlabels_settopmarginat.htm" label="SetTopMarginAt Method (Python)"/>
+<topic href="python_scripting_spsslayerlabels_setvalignat.htm" label="SetVAlignAt Method (Python)"/>
+<topic href="python_scripting_spsslayerlabels_showfootnotesat.htm" label="ShowFootnotesAt Method (Python)"/>
+</topic>
+<topic href="python_scripting_spsspivotmgr.htm" label="SpssPivotMgr Class (Python)">
+<topic href="python_scripting_spsspivotmgr_getcolumndimension.htm" label="GetColumnDimension Method (Python)"/>
+<topic href="python_scripting_spsspivotmgr_getlayerdimension.htm" label="GetLayerDimension Method (Python)"/>
+<topic href="python_scripting_spsspivotmgr_getnumcolumndimensions.htm" label="GetNumColumnDimensions Method (Python)"/>
+<topic href="python_scripting_spsspivotmgr_getnumlayerdimensions.htm" label="GetNumLayerDimensions Method (Python)"/>
+<topic href="python_scripting_spsspivotmgr_getnumrowdimensions.htm" label="GetNumRowDimensions Method (Python)"/>
+<topic href="python_scripting_spsspivotmgr_getrowdimension.htm" label="GetRowDimension Method (Python)"/>
+<topic href="python_scripting_spsspivotmgr_movelayerstocolumns.htm" label="MoveLayersToColumns Method (Python)"/>
+<topic href="python_scripting_spsspivotmgr_movelayerstorows.htm" label="MoveLayersToRows Method (Python)"/>
+<topic href="python_scripting_spsspivotmgr_transposerowswithcolumns.htm" label="TransposeRowsWithColumns Method (Python)"/>
+</topic>
+</topic>
+<topic label="Managing Remote Servers">
+<topic href="python_scripting_spssserverconf.htm" label="SpssServerConf Class (Python)">
+<topic href="python_scripting_spssserverconf_connect.htm" label="Connect Method (Python)"/>
+<topic href="python_scripting_spssserverconf_connectwithsavedpassword.htm" label="ConnectWithSavedPassword Method (Python)"/>
+<topic href="python_scripting_spssserverconf_disconnect.htm" label="Disconnect Method (Python)"/>
+<topic href="python_scripting_spssserverconf_getdescription.htm" label="GetDescription Method (Python)"/>
+<topic href="python_scripting_spssserverconf_getservername.htm" label="GetServerName Method (Python)"/>
+<topic href="python_scripting_spssserverconf_getserverport.htm" label="GetServerPort Method (Python)"/>
+<topic href="python_scripting_spssserverconf_getuserdomain.htm" label="GetUserDomain Method (Python)"/>
+<topic href="python_scripting_spssserverconf_getuserid.htm" label="GetUserId Method (Python)"/>
+<topic href="python_scripting_spssserverconf_getusessl.htm" label="GetUseSSL Method (Python)"/>
+<topic href="python_scripting_spssserverconf_isdefaultserver.htm" label="IsDefaultServer Method (Python)"/>
+<topic href="python_scripting_spssserverconf_isequalto.htm" label="IsEqualTo Method (Python)"/>
+<topic href="python_scripting_spssserverconf_islocalserver.htm" label="IsLocalServer Method (Python)"/>
+<topic href="python_scripting_spssserverconf_ispasswordsaved.htm" label="IsPasswordSaved Method (Python)"/>
+<topic href="python_scripting_spssserverconf_setdefaultserver.htm" label="SetDefaultServer Method (Python)"/>
+<topic href="python_scripting_spssserverconf_setdescription.htm" label="SetDescription Method (Python)"/>
+<topic href="python_scripting_spssserverconf_setpassword.htm" label="SetPassword Method (Python)"/>
+<topic href="python_scripting_spssserverconf_setpasswordsaved.htm" label="SetPasswordSaved Method (Python)"/>
+<topic href="python_scripting_spssserverconf_setservername.htm" label="SetServerName Method (Python)"/>
+<topic href="python_scripting_spssserverconf_setserverport.htm" label="SetServerPort Method (Python)"/>
+<topic href="python_scripting_spssserverconf_setuserdomain.htm" label="SetUserDomain Method (Python)"/>
+<topic href="python_scripting_spssserverconf_setuserid.htm" label="SetUserId Method (Python)"/>
+<topic href="python_scripting_spssserverconf_setusessl.htm" label="SetUseSSL Method (Python)"/>
+</topic>
+<topic href="python_scripting_spssserverconf_spssserverconflist.htm" label="SpssServerConfList Class (Python)">
+<topic href="python_scripting_spssserverconf_spssserverconflist_add.htm" label="Add Method (Python)"/>
+<topic href="python_scripting_spssserverconf_spssserverconflist_clear.htm" label="Clear Method (Python)"/>
+<topic href="python_scripting_spssserverconf_spssserverconflist_contains.htm" label="Contains Method (Python)"/>
+<topic href="python_scripting_spssserverconf_spssserverconflist_getitemat.htm" label="GetItemAt Method (Python)"/>
+<topic href="python_scripting_spssserverconf_spssserverconflist_remove.htm" label="Remove Method (Python)"/>
+<topic href="python_scripting_spssserverconf_spssserverconflist_removeitemat.htm" label="RemoveItemAt Method (Python)"/>
+<topic href="python_scripting_spssserverconf_spssserverconflist_size.htm" label="Size Method (Python)"/>
+</topic>
+</topic>
+<topic label="Script Context">
+<topic href="python_scripting_spssscriptcontext.htm" label="SpssScriptContext Class (Python)">
+<topic href="python_scripting_spssscriptcontext_getoutputdoc.htm" label="GetOutputDoc Method (Python)"/>
+<topic href="python_scripting_spssscriptcontext_getoutputitem.htm" label="GetOutputItem Method (Python)"/>
+<topic href="python_scripting_spssscriptcontext_getoutputitemindex.htm" label="GetOutputItemIndex Method (Python)"/>
+</topic>
+</topic>
+<topic label="Setting Color Values">
+<topic href="python_scripting_color_values.htm" label="Setting Color Values (Python)"/>
+</topic>
+<topic label="Export Options">
+<topic href="python_scripting_export_options.htm" label="Export Options (Python)"/>
+</topic>
+<topic label="String Description of Numeric Formats">
+<topic href="python_scripting_string_desc_numeric_formats.htm" label="String Description of Numeric Formats (Python)"/>
+</topic>
+<topic label="Preference Options">
+<topic href="python_scripting_preference_options.htm" label="Preference Options (Python)"/>
+</topic>
+</topic>
+</toc>

@@ -1,0 +1,21 @@
+[Language]
+SPSSLanguage=en
+[Product]
+LicenseDescription= 
+CustomerName=MOIN
+DaemonHost=no-net
+CodePage=65001
+Organization=KING 
+ProductName=SPSS Statistics Output Viewer 21
+ProductNickName=SPSS Statistics Output Viewer 
+Version=21.0.0.0
+VersionMajor=21
+VersionMinor=0 
+VersionPatch=0 
+PreferencesRoot=Statistics Output Viewer
+FeatureCode=9620
+FixPack=0
+CommonRoot=C:\Program Files\IBM\SPSS\Statistics\21\common
+[ProductUpdates]
+LCID=409
+UpdateVer=21.0.0.0

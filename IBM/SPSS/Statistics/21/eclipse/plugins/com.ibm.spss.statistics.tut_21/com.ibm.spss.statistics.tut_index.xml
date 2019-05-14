@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<index xmlns:xi="http://www.w3.org/2001/XInclude">
+<entry keyword="Excel files">
+<topic label="Reading Data from Spreadsheets" href="datatut_excel.htm"/>Excel files  <entry keyword="reading">
+<topic label="Reading Data from Spreadsheets" href="datatut_excel.htm"/>reading</entry>
+</entry>
+<entry keyword="spreadsheet files">
+<topic label="Reading Data from Spreadsheets" href="datatut_excel.htm"/>spreadsheet files  <entry keyword="reading">
+<topic label="Reading Data from Spreadsheets" href="datatut_excel.htm"/>reading</entry>
+<entry keyword="reading variable names">
+<topic label="Reading Data from Spreadsheets" href="datatut_excel.htm"/>reading variable
+names</entry>
+</entry>
+<entry keyword="Database Wizard">
+<topic label="Reading Data from a Database" href="datatut_database.htm"/>Database Wizard</entry>
+<entry keyword="database files">
+<topic label="Reading Data from a Database" href="datatut_database.htm"/>database files  <entry keyword="reading">
+<topic label="Reading Data from a Database" href="datatut_database.htm"/>reading</entry>
+</entry>
+<entry keyword="Access (Microsoft)">
+<topic label="Reading Data from a Database" href="datatut_database.htm"/>Access (Microsoft)</entry>
+<entry keyword="text data files">
+<topic label="Reading Data from a Text File" href="datatut_textfile.htm"/>text data files  <entry keyword="reading">
+<topic label="Reading Data from a Text File" href="datatut_textfile.htm"/>reading</entry>
+</entry>
+<entry keyword="Text Import Wizard">
+<topic label="Reading Data from a Text File" href="datatut_textfile.htm"/>Text Import Wizard</entry>
+<entry keyword="variables">
+<topic label="Using the Data Editor" href="dataeditortut_intro.htm"/>variables</entry>
+<entry keyword="Data Editor">
+<topic label="Entering Numeric Data" href="dataeditortut_numeric.htm"/> Data Editor  <entry keyword="entering numeric data">
+<topic label="Entering Numeric Data" href="dataeditortut_numeric.htm"/>entering numeric data</entry>
+</entry>
+<entry keyword="data entry">
+<topic label="Entering Numeric Data" href="dataeditortut_numeric.htm"/>data entry</entry>
+<entry keyword="numeric data">
+<topic label="Entering Numeric Data" href="dataeditortut_numeric.htm"/>numeric data</entry>
+<entry keyword="entering data">
+<topic label="Entering Numeric Data" href="dataeditortut_numeric.htm"/> entering data  <entry keyword="numeric">
+<topic label="Entering Numeric Data" href="dataeditortut_numeric.htm"/>numeric</entry>
+</entry>
+<entry keyword="Data Editor">
+<topic label="Entering String Data" href="dataeditortut_string.htm"/> Data Editor  <entry keyword="entering non-numeric data">
+<topic label="Entering String Data" href="dataeditortut_string.htm"/>entering non-numeric data</entry>
+</entry>
+<entry keyword="data entry">
+<topic label="Entering String Data" href="dataeditortut_string.htm"/>data entry</entry>
+<entry keyword="string data">
+<topic label="Entering String Data" href="dataeditortut_string.htm"/> string data  <entry keyword="entering data">
+<topic label="Entering String Data" href="dataeditortut_string.htm"/>entering data</entry>
+</entry>
+<entry keyword="entering data">
+<topic label="Entering String Data" href="dataeditortut_string.htm"/> entering data  <entry keyword="non-numeric">
+<topic label="Entering String Data" href="dataeditortut_string.htm"/>non-numeric</entry>
+</entry>
+<entry keyword="variables">
+<topic label="Adding Variable Labels" href="dataeditortut_labels.htm"/>variables    <entry keyword="labels">
+<topic label="Adding Variable Labels" href="dataeditortut_labels.htm"/>labels</entry>
+</entry>
+<entry keyword="variable labels">
+<topic label="Adding Variable Labels" href="dataeditortut_labels.htm"/> variable labels    <entry keyword="creating">
+<topic label="Adding Variable Labels" href="dataeditortut_labels.htm"/>creating</entry>
+</entry>
+<entry keyword="create variable labels">
+<topic label="Adding Variable Labels" href="dataeditortut_labels.htm"/>create variable labels</entry>
+<entry keyword="variables">
+<topic label="Changing Variable Type and Format" href="dataeditortut_type.htm"/>variables    <entry keyword="data types">
+<topic label="Changing Variable Type and Format" href="dataeditortut_type.htm"/>data types</entry>
+</entry>
+<entry keyword="data types">
+<topic label="Changing Variable Type and Format" href="dataeditortut_type.htm"/> data types    <entry keyword="for variables">
+<topic label="Changing Variable Type and Format" href="dataeditortut_type.htm"/>for variables</entry>
+</entry>
+<entry keyword="value labels">
+<topic label="Adding Value Labels for Numeric Variables" href="dataeditortut_addnumlabel.htm"/>value labels    <entry keyword="controlling display in Viewer">
+<topic label="Adding Value Labels for Numeric Variables" href="dataeditortut_addnumlabel.htm"/>controlling display in Viewer</entry>
+<entry keyword="assigning">
+<topic label="Adding Value Labels for Numeric Variables" href="dataeditortut_addnumlabel.htm"/>assigning</entry>
+<entry keyword="numeric variables">
+<topic label="Adding Value Labels for Numeric Variables" href="dataeditortut_addnumlabel.htm"/>numeric variables</entry>
+</entry>
+<entry keyword="value labels">
+<topic label="Adding Value Labels for String Variables" href="dataeditortut_addstringlabel.htm"/>value labels    <entry keyword="controlling display in Viewer">
+<topic label="Adding Value Labels for String Variables" href="dataeditortut_addstringlabel.htm"/>controlling display in Viewer</entry>
+<entry keyword="assigning">
+<topic label="Adding Value Labels for String Variables" href="dataeditortut_addstringlabel.htm"/>assigning</entry>
+<entry keyword="non-numeric variables">
+<topic label="Adding Value Labels for String Variables" href="dataeditortut_addstringlabel.htm"/>non-numeric variables</entry>
+</entry>
+<entry keyword="missing values">
+<topic label="Handling Missing Data" href="dataeditortut_missing.htm"/>missing values    <entry keyword="system-missing">
+<topic label="Handling Missing Data" href="dataeditortut_missing.htm"/>system-missing</entry>
+</entry>
+<entry keyword="system-missing values">
+<topic label="Handling Missing Data" href="dataeditortut_missing.htm"/>system-missing values </entry>
+<entry keyword="missing values">
+<topic label="Missing Values for a Numeric Variable" href="dataeditortut_missingnumber.htm"/> missing values    <entry keyword="for numeric variables">
+<topic label="Missing Values for a Numeric Variable" href="dataeditortut_missingnumber.htm"/>for numeric variables</entry>
+</entry>
+<entry keyword="missing values">
+<topic label="Missing Values for a String Variable" href="dataeditortut_missingstring.htm"/> missing values    <entry keyword="for non-numeric variables">
+<topic label="Missing Values for a String Variable" href="dataeditortut_missingstring.htm"/>for non-numeric variables</entry>
+</entry>
+<entry keyword="variable attributes">
+<topic label="Copying and Pasting Variable Attributes" href="dataeditor_copy.htm"/> variable attributes    <entry keyword="reuse">
+<topic label="Copying and Pasting Variable Attributes" href="dataeditor_copy.htm"/>reuse</entry>
+</entry>
+<entry keyword="copying variable attributes">
+<topic label="Copying and Pasting Variable Attributes" href="dataeditor_copy.htm"/>copying variable attributes</entry>
+<entry keyword="data files">
+<topic label="Working with Multiple Data Sources" href="multiple_datasets_intro.htm"/>data files<entry keyword="multiple open data files">
+<topic label="Working with Multiple Data Sources" href="multiple_datasets_intro.htm"/>multiple open data files</entry>
+</entry>
+<entry keyword="Data Editor">
+<topic label="Working with Multiple Data Sources" href="multiple_datasets_intro.htm"/>Data Editor<entry keyword="multiple open data files">
+<topic label="Working with Multiple Data Sources" href="multiple_datasets_intro.htm"/>multiple open data files</entry>
+</entry>
+<entry keyword="multiple open data files">
+<topic label="Working with Multiple Data Sources" href="multiple_datasets_intro.htm"/>multiple open data files</entry>
+<entry keyword="level of measurement">
+<topic label="Level of Measurement" href="sumstats_measlev.htm"/>level of measurement</entry>
+<entry keyword="measurement level">
+<topic label="Level of Measurement" href="sumstats_measlev.htm"/>measurement level</entry>
+<entry keyword="categorical data">
+<topic label="Level of Measurement" href="sumstats_measlev.htm"/>categorical data</entry>
+<entry keyword="scale data">
+<topic label="Level of Measurement" href="sumstats_measlev.htm"/>scale data</entry>
+<entry keyword="nominal data">
+<topic label="Level of Measurement" href="sumstats_measlev.htm"/>nominal data</entry>
+<entry keyword="ordinal data">
+<topic label="Level of Measurement" href="sumstats_measlev.htm"/>ordinal data</entry>
+<entry keyword="quantitative data">
+<topic label="Level of Measurement" href="sumstats_measlev.htm"/>quantitative data</entry>
+<entry keyword="qualitative data">
+<topic label="Level of Measurement" href="sumstats_measlev.htm"/>qualitative data</entry>
+<entry keyword="continuous data">
+<topic label="Level of Measurement" href="sumstats_measlev.htm"/>continuous data</entry>
+<entry keyword="interval data">
+<topic label="Level of Measurement" href="sumstats_measlev.htm"/>interval data</entry>
+<entry keyword="ratio data">
+<topic label="Level of Measurement" href="sumstats_measlev.htm"/>ratio data</entry>
+<entry keyword="frequency tables">
+<topic label="Summary Measures for Categorical Data" href="sumstats_catvars.htm"/>frequency tables</entry>
+<entry keyword="counts">
+<topic label="Summary Measures for Categorical Data" href="sumstats_catvars.htm"/>counts  		<entry keyword="tables of counts">
+<topic label="Summary Measures for Categorical Data" href="sumstats_catvars.htm"/>tables of counts</entry>
+</entry>
+<entry keyword="categorical data">
+<topic label="Summary Measures for Categorical Data" href="sumstats_catvars.htm"/>categorical data  		<entry keyword="summary measures">
+<topic label="Summary Measures for Categorical Data" href="sumstats_catvars.htm"/>summary measures</entry>
+</entry>
+<entry keyword="summary measures">
+<topic label="Summary Measures for Categorical Data" href="sumstats_catvars.htm"/>summary measures  		<entry keyword="categorical data">
+<topic label="Summary Measures for Categorical Data" href="sumstats_catvars.htm"/>categorical data</entry>
+</entry>
+<entry keyword="charts">
+<topic label="Charts for Categorical Data" href="sumstats_catvars_bar.htm"/>charts<entry keyword="bar">
+<topic label="Charts for Categorical Data" href="sumstats_catvars_bar.htm"/>bar</entry>
+</entry>
+<entry keyword="bar charts">
+<topic label="Charts for Categorical Data" href="sumstats_catvars_bar.htm"/>bar charts</entry>
+<entry keyword="scale variables">
+<topic label="Summary Measures for Scale Variables" href="sumstats_scalevars.htm"/>scale variables 		<entry keyword="summary measures">
+<topic label="Summary Measures for Scale Variables" href="sumstats_scalevars.htm"/>summary measures</entry>
+</entry>
+<entry keyword="summary measures">
+<topic label="Summary Measures for Scale Variables" href="sumstats_scalevars.htm"/>summary measures  		<entry keyword="scale variables">
+<topic label="Summary Measures for Scale Variables" href="sumstats_scalevars.htm"/>scale variables</entry>
+</entry>
+<entry keyword="charts">
+<topic label="Histograms for Scale Variables" href="sumstats_scalevars_hist.htm"/>charts  		  <entry keyword="histograms">
+<topic label="Histograms for Scale Variables" href="sumstats_scalevars_hist.htm"/>histograms</entry>
+</entry>
+<entry keyword="histograms">
+<topic label="Histograms for Scale Variables" href="sumstats_scalevars_hist.htm"/>histograms</entry>
+<entry keyword="crosstabulation">
+<topic label="Crosstabulation Tables" href="bcrosstabstut_intro.htm"/>crosstabulation</entry>
+<entry keyword="contingency tables">
+<topic label="Crosstabulation Tables" href="bcrosstabstut_intro.htm"/>contingency tables</entry>
+<entry keyword="percentages">
+<topic label="Counts vs. Percentages" href="bcrosstabstut_percent.htm"/>percentages<entry keyword="in Crosstabs">
+<topic label="Counts vs. Percentages" href="bcrosstabstut_percent.htm"/>in Crosstabs</entry>
+</entry>
+<entry keyword="chi-square tests">
+<topic label="Significance Testing for Crosstabulations" href="bcrosstabstut_sigtest.htm"/>chi-square tests  		<entry keyword="in Crosstabs">
+<topic label="Significance Testing for Crosstabulations" href="bcrosstabstut_sigtest.htm"/>in Crosstabs</entry>
+</entry>
+<entry keyword="layers">
+<topic label="Adding a Layer Variable" href="bcrosstabstut_layer.htm"/>layers  		<entry keyword="in Crosstabs">
+<topic label="Adding a Layer Variable" href="bcrosstabstut_layer.htm"/>in Crosstabs</entry>
+</entry>
+<entry keyword="control variables">
+<topic label="Adding a Layer Variable" href="bcrosstabstut_layer.htm"/>control variables  		<entry keyword="in Crosstabs">
+<topic label="Adding a Layer Variable" href="bcrosstabstut_layer.htm"/>in Crosstabs</entry>
+</entry>
+<entry keyword="charts">
+<topic label="Chart creation basics" href="bcharttut_standard_create.htm"/>charts <entry keyword="creating charts">
+<topic label="Chart creation basics" href="bcharttut_standard_create.htm"/>creating charts</entry>
+<entry keyword="bar">
+<topic label="Chart creation basics" href="bcharttut_standard_create.htm"/>bar</entry>
+</entry>
+<entry keyword="graphs">
+<topic label="Chart creation basics" href="bcharttut_standard_create.htm"/>graphs<entry keyword="creating graphs">
+<topic label="Chart creation basics" href="bcharttut_standard_create.htm"/>creating graphs</entry>
+<entry keyword="bar">
+<topic label="Chart creation basics" href="bcharttut_standard_create.htm"/>bar</entry>
+</entry>
+<entry keyword="charts">
+<topic label="Chart editing basics" href="bcharttut_standard_edit.htm"/>charts<entry keyword="editing charts">
+<topic label="Chart editing basics" href="bcharttut_standard_edit.htm"/>editing charts</entry>
+</entry>
+<entry keyword="graphs">
+<topic label="Chart editing basics" href="bcharttut_standard_edit.htm"/>graphs<entry keyword="editing graphs">
+<topic label="Chart editing basics" href="bcharttut_standard_edit.htm"/>editing graphs</entry>
+</entry>
+<entry keyword="charts">
+<topic label="Using templates" href="bchartut_templates.htm"/>charts<entry keyword="templates">
+<topic label="Using templates" href="bchartut_templates.htm"/>templates</entry>
+</entry>
+<entry keyword="graphs">
+<topic label="Using templates" href="bchartut_templates.htm"/>graphs<entry keyword="templates">
+<topic label="Using templates" href="bchartut_templates.htm"/>templates</entry>
+</entry>
+<entry keyword="charts">
+<topic label="Defining chart options" href="bcharttut_options.htm"/>charts<entry keyword="chart options">
+<topic label="Defining chart options" href="bcharttut_options.htm"/>chart options</entry>
+</entry>
+<entry keyword="graphs">
+<topic label="Defining chart options" href="bcharttut_options.htm"/>graphs<entry keyword="chart options">
+<topic label="Defining chart options" href="bcharttut_options.htm"/>chart options</entry>
+</entry>
+<entry keyword="charts">
+<topic label="Pie chart" href="bcharttut_pie.htm"/>charts<entry keyword="pie">
+<topic label="Pie chart" href="bcharttut_pie.htm"/>pie</entry>
+</entry>
+<entry keyword="graphs">
+<topic label="Pie chart" href="bcharttut_pie.htm"/>graphs<entry keyword="pie">
+<topic label="Pie chart" href="bcharttut_pie.htm"/>pie</entry>
+</entry>
+<entry keyword="charts">
+<topic label="Grouped scatterplot" href="bcharttut_scatter.htm"/>charts<entry keyword="scatterplot">
+<topic label="Grouped scatterplot" href="bcharttut_scatter.htm"/>scatterplot</entry>
+</entry>
+<entry keyword="graphs">
+<topic label="Grouped scatterplot" href="bcharttut_scatter.htm"/>graphs<entry keyword="scatterplot">
+<topic label="Grouped scatterplot" href="bcharttut_scatter.htm"/>scatterplot</entry>
+</entry>
+<entry keyword="Viewer">
+<topic label="Using the Viewer" href="outputtut_useviewer.htm"/> Viewer  		<entry keyword="hiding and showing output">
+<topic label="Using the Viewer" href="outputtut_useviewer.htm"/>hiding and showing output</entry>
+<entry keyword="moving output">
+<topic label="Using the Viewer" href="outputtut_useviewer.htm"/>moving output</entry>
+</entry>
+<entry keyword="moving">
+<topic label="Using the Viewer" href="outputtut_useviewer.htm"/> moving  		<entry keyword="items in the Viewer">
+<topic label="Using the Viewer" href="outputtut_useviewer.htm"/>items in the Viewer</entry>
+</entry>
+<entry keyword="pivot tables">
+<topic label="Accessing Output Definitions" href="outputtut_defineoutput.htm"/> pivot tables  		  <entry keyword="accessing definitions">
+<topic label="Accessing Output Definitions" href="outputtut_defineoutput.htm"/>accessing definitions</entry>
+</entry>
+<entry keyword="pivot tables">
+<topic label="Pivoting Tables" href="outputtut_pivotatable.htm"/> pivot tables  		  <entry keyword="pivoting trays">
+<topic label="Pivoting Tables" href="outputtut_pivotatable.htm"/>pivoting trays</entry>
+<entry keyword="transposing rows and columns">
+<topic label="Pivoting Tables" href="outputtut_pivotatable.htm"/>transposing rows and columns</entry>
+</entry>
+<entry keyword="transposing (flipping) rows and columns in pivot tables">
+<topic label="Pivoting Tables" href="outputtut_pivotatable.htm"/>transposing (flipping) rows and columns in pivot tables</entry>
+<entry keyword="moving">
+<topic label="Pivoting Tables" href="outputtut_pivotatable.htm"/> moving  		  <entry keyword="elements in pivot tables">
+<topic label="Pivoting Tables" href="outputtut_pivotatable.htm"/>elements in pivot tables</entry>
+</entry>
+<entry keyword="pivot tables">
+<topic label="Creating and Displaying Layers" href="outputtut_displaylayer.htm"/> pivot tables  		  <entry keyword="layers">
+<topic label="Creating and Displaying Layers" href="outputtut_displaylayer.htm"/>layers</entry>
+</entry>
+<entry keyword="layers">
+<topic label="Creating and Displaying Layers" href="outputtut_displaylayer.htm"/> layers  		  <entry keyword="creating in pivot tables">
+<topic label="Creating and Displaying Layers" href="outputtut_displaylayer.htm"/>creating in pivot tables</entry>
+</entry>
+<entry keyword="pivot tables">
+<topic label="Editing Tables" href="outputtut_edittable.htm"/> pivot tables  		  <entry keyword="editing">
+<topic label="Editing Tables" href="outputtut_edittable.htm"/>editing</entry>
+<entry keyword="formatting">
+<topic label="Editing Tables" href="outputtut_edittable.htm"/>formatting</entry>
+</entry>
+<entry keyword="editing pivot tables">
+<topic label="Editing Tables" href="outputtut_edittable.htm"/>editing pivot tables</entry>
+<entry keyword="pivot tables">
+<topic label="Hiding Rows and Columns" href="outputtut_hiderows.htm"/> pivot tables  			 <entry keyword="hiding rows and columns">
+<topic label="Hiding Rows and Columns" href="outputtut_hiderows.htm"/>hiding rows and columns</entry>
+</entry>
+<entry keyword="hiding rows and columns in pivot tables">
+<topic label="Hiding Rows and Columns" href="outputtut_hiderows.htm"/>hiding rows and columns in pivot tables</entry>
+<entry keyword="pivot tables">
+<topic label="Changing Data Display Formats" href="outputtut_changeformat.htm"/> pivot tables  			 <entry keyword="cell formats">
+<topic label="Changing Data Display Formats" href="outputtut_changeformat.htm"/>cell formats</entry>
+<entry keyword="cell data types">
+<topic label="Changing Data Display Formats" href="outputtut_changeformat.htm"/>cell data types</entry>
+<entry keyword="hiding decimal points">
+<topic label="Changing Data Display Formats" href="outputtut_changeformat.htm"/>hiding decimal points</entry>
+</entry>
+<entry keyword="exporting results">
+<topic label="Exporting Results to Microsoft Word, PowerPoint, and Excel Files" href="outputtut_msapps.htm"/>exporting results  		  <entry keyword="to Word">
+<topic label="Exporting Results to Microsoft Word, PowerPoint, and Excel Files" href="outputtut_msapps.htm"/>to Word</entry>
+<entry keyword="to Excel">
+<topic label="Exporting Results to Microsoft Word, PowerPoint, and Excel Files" href="outputtut_msapps.htm"/>to Excel</entry>
+<entry keyword="to PowerPoint">
+<topic label="Exporting Results to Microsoft Word, PowerPoint, and Excel Files" href="outputtut_msapps.htm"/>to PowerPoint</entry>
+</entry>
+<entry keyword="Excel (Microsoft)">
+<topic label="Exporting Results to Microsoft Word, PowerPoint, and Excel Files" href="outputtut_msapps.htm"/>Excel (Microsoft)  		  <entry keyword="exporting results to">
+<topic label="Exporting Results to Microsoft Word, PowerPoint, and Excel Files" href="outputtut_msapps.htm"/>exporting results to</entry>
+</entry>
+<entry keyword="Word (Microsoft)">
+<topic label="Exporting Results to Microsoft Word, PowerPoint, and Excel Files" href="outputtut_msapps.htm"/>Word (Microsoft)  		  <entry keyword="exporting results to">
+<topic label="Exporting Results to Microsoft Word, PowerPoint, and Excel Files" href="outputtut_msapps.htm"/>exporting results to</entry>
+</entry>
+<entry keyword="PowerPoint (Microsoft)">
+<topic label="Exporting Results to Microsoft Word, PowerPoint, and Excel Files" href="outputtut_msapps.htm"/>PowerPoint (Microsoft)  		  <entry keyword="exporting results to">
+<topic label="Exporting Results to Microsoft Word, PowerPoint, and Excel Files" href="outputtut_msapps.htm"/>exporting results
+to</entry>
+</entry>
+<entry keyword="exporting results">
+<topic label="Exporting Results to HTML" href="features_exportoutput_01.htm"/>exporting results<entry keyword="HTML">
+<topic label="Exporting Results to HTML" href="features_exportoutput_01.htm"/>HTML</entry>
+</entry>
+<entry keyword="HTML">
+<topic label="Exporting Results to HTML" href="features_exportoutput_01.htm"/>HTML<entry keyword="exporting results">
+<topic label="Exporting Results to HTML" href="features_exportoutput_01.htm"/>exporting results</entry>
+</entry>
+<entry keyword="syntax">
+<topic label="Working with Syntax" href="syntax_intro.htm"/>syntax</entry>
+<entry keyword="syntax windows">
+<topic label="Pasting Syntax" href="syntax_paste.htm"/>syntax windows<entry keyword="pasting commands">
+<topic label="Pasting Syntax" href="syntax_paste.htm"/>pasting commands</entry>
+</entry>
+<entry keyword="pasting syntax">
+<topic label="Pasting Syntax" href="syntax_paste.htm"/>pasting syntax<entry keyword="from a dialog box">
+<topic label="Pasting Syntax" href="syntax_paste.htm"/>from a dialog box</entry>
+</entry>
+<entry keyword="syntax windows">
+<topic label="Editing Syntax" href="syntax_edit.htm"/>syntax windows<entry keyword="editing commands">
+<topic label="Editing Syntax" href="syntax_edit.htm"/>editing commands</entry>
+<entry keyword="auto-completion">
+<topic label="Editing Syntax" href="syntax_edit.htm"/>auto-completion</entry>
+</entry>
+<entry keyword="Syntax Help tool">
+<topic label="Editing Syntax" href="syntax_edit.htm"/>Syntax Help tool</entry>
+<entry keyword="syntax windows">
+<topic label="Editing Syntax" href="syntax_edit.htm"/>syntax windows<entry keyword="color coding">
+<topic label="Editing Syntax" href="syntax_edit.htm"/>color coding</entry>
+</entry>
+<entry keyword="syntax files">
+<topic label="Opening and Running a Syntax File" href="syntax_openrun.htm"/>syntax files<entry keyword="opening">
+<topic label="Opening and Running a Syntax File" href="syntax_openrun.htm"/>opening</entry>
+</entry>
+<entry keyword="syntax windows">
+<topic label="Opening and Running a Syntax File" href="syntax_openrun.htm"/>syntax windows<entry keyword="running commands">
+<topic label="Opening and Running a Syntax File" href="syntax_openrun.htm"/>running commands</entry>
+</entry>
+<entry keyword="syntax windows">
+<topic label="Using Breakpoints" href="syntax_breakpoints.htm"/>syntax windows<entry keyword="breakpoints">
+<topic label="Using Breakpoints" href="syntax_breakpoints.htm"/>breakpoints</entry>
+</entry>
+<entry keyword="recoding values">
+<topic label="Creating a Categorical Variable from a Scale Variable" href="bmodvalstut_recode.htm"/>recoding values</entry>
+<entry keyword="computing new variables">
+<topic label="Computing New Variables" href="bmodvalstut_compute.htm"/>computing new variables</entry>
+<entry keyword="functions in expressions">
+<topic label="Using Functions in Expressions" href="bmodvalstut_functions.htm"/>functions in expressions</entry>
+<entry keyword="conditional expressions">
+<topic label="Using Conditional Expressions" href="bmodvalstut_condexps.htm"/>conditional expressions</entry>
+<entry keyword="Date and Time Wizard">
+<topic label="Working with Dates and Times" href="bmodvalstut_datetime.htm"/>Date and Time Wizard</entry>
+<entry keyword="date and time variables">
+<topic label="Working with Dates and Times" href="bmodvalstut_datetime.htm"/>date and time variables</entry>
+<entry keyword="data dictionary">
+<topic label="Copying Data Properties" href="timesave_dictionary.htm"/> data dictionary </entry>
+<entry keyword="customizing">
+<topic label="Creating Custom Menu Items" href="customizetut_menu.htm"/> customizing <entry keyword="menus">
+<topic label="Creating Custom Menu Items" href="customizetut_menu.htm"/>menus</entry>
+</entry>
+<entry keyword="menus">
+<topic label="Creating Custom Menu Items" href="customizetut_menu.htm"/> menus <entry keyword="customize">
+<topic label="Creating Custom Menu Items" href="customizetut_menu.htm"/>customize</entry>
+</entry>
+<entry keyword="customizing">
+<topic label="Creating Custom Toolbars" href="customizetut_toolbar.htm"/> customizing <entry keyword="toolbars">
+<topic label="Creating Custom Toolbars" href="customizetut_toolbar.htm"/>toolbars</entry>
+</entry>
+<entry keyword="toolbars">
+<topic label="Creating Custom Toolbars" href="customizetut_toolbar.htm"/> toolbars <entry keyword="customize">
+<topic label="Creating Custom Toolbars" href="customizetut_toolbar.htm"/>customize</entry>
+</entry>
+<entry keyword="Custom Dialog Builder">
+<topic label="Creating Custom Dialogs" href="dialogbuilder_intro.htm"/>Custom Dialog Builder</entry>
+<entry keyword="Custom Dialog Builder">
+<topic label="Building the Syntax Template" href="dialogbuilder_syntax_template.htm"/>Custom Dialog Builder<entry keyword="syntax template">
+<topic label="Building the Syntax Template" href="dialogbuilder_syntax_template.htm"/>syntax template</entry>
+</entry>
+<entry keyword="Custom Dialog Builder">
+<topic label="Previewing Your Dialog" href="dialogbuilder_preview.htm"/>Custom Dialog Builder<entry keyword="preview dialog">
+<topic label="Previewing Your Dialog" href="dialogbuilder_preview.htm"/>preview dialog</entry>
+</entry>
+<entry keyword="Custom Dialog Builder">
+<topic label="Installing Your Dialog" href="dialogbuilder_install.htm"/>Custom Dialog Builder<entry keyword="installing custom dialogs">
+<topic label="Installing Your Dialog" href="dialogbuilder_install.htm"/>installing custom dialogs</entry>
+</entry>
+<entry keyword="Custom Dialog Builder">
+<topic label="Sharing Your Dialog with Other Users" href="dialogbuilder_share.htm"/>Custom Dialog Builder<entry keyword="distributing custom dialogs">
+<topic label="Sharing Your Dialog with Other Users" href="dialogbuilder_share.htm"/>distributing custom dialogs</entry>
+</entry>
+<entry keyword="Custom Dialog Builder">
+<topic label="Saving Your Work" href="dialogbuilder_save.htm"/>Custom Dialog Builder<entry keyword="saving">
+<topic label="Saving Your Work" href="dialogbuilder_save.htm"/>saving</entry>
+</entry>
+<entry keyword="Automated Production">
+<topic label="Automated production" href="autotut_intro.htm"/>Automated Production</entry>
+<entry keyword="automation">
+<topic label="Automated production" href="autotut_intro.htm"/>automation</entry>
+<entry keyword="scoring">
+<topic label="Introduction" href="scoring_intro.htm"/>scoring</entry>
+</index>

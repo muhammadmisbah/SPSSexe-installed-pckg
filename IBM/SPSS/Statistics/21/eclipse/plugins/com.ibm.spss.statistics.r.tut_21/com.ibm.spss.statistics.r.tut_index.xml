@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<index xmlns:xi="http://www.w3.org/2001/XInclude">
+<entry keyword="extension commands">
+<topic label="Creating Extension Commands" href="rtut_extcmds_intro.htm"/>extension commands</entry>
+<entry keyword="extension commands">
+<topic label="Syntax Diagrams" href="rtut_extcmds_syndiagram.htm"/>extension commands<entry keyword="syntax diagrams">
+<topic label="Syntax Diagrams" href="rtut_extcmds_syndiagram.htm"/>syntax diagrams</entry>
+</entry>
+<entry keyword="syntax diagrams">
+<topic label="Syntax Diagrams" href="rtut_extcmds_syndiagram.htm"/>syntax diagrams</entry>
+<entry keyword="extension commands">
+<topic label="XML Specification of the Syntax Diagram" href="rtut_extcmds_xmlspec.htm"/>extension commands<entry keyword="XML specification of syntax">
+<topic label="XML Specification of the Syntax Diagram" href="rtut_extcmds_xmlspec.htm"/>XML specification of syntax</entry>
+</entry>
+<entry keyword="XML specification of syntax">
+<topic label="XML Specification of the Syntax Diagram" href="rtut_extcmds_xmlspec.htm"/>XML specification of syntax</entry>
+<entry keyword="extension commands">
+<topic label="Implementation Code" href="rtut_extcmds_code.htm"/>extension commands<entry keyword="Run function">
+<topic label="Implementation Code" href="rtut_extcmds_code.htm"/>Run function</entry>
+<entry keyword="spsspkg.Syntax function">
+<topic label="Implementation Code" href="rtut_extcmds_code.htm"/>spsspkg.Syntax
+function</entry>
+<entry keyword="spsspkg.Template function">
+<topic label="Implementation Code" href="rtut_extcmds_code.htm"/>spsspkg.Template function</entry>
+<entry keyword="spsspkg.processcmd function">
+<topic label="Implementation Code" href="rtut_extcmds_code.htm"/>spsspkg.processcmd
+function</entry>
+</entry>
+<entry keyword="Run function">
+<topic label="Implementation Code" href="rtut_extcmds_code.htm"/>Run function</entry>
+<entry keyword="spsspkg.Syntax function">
+<topic label="Implementation Code" href="rtut_extcmds_code.htm"/>spsspkg.Syntax function</entry>
+<entry keyword="spsspkg.Template function">
+<topic label="Implementation Code" href="rtut_extcmds_code.htm"/>spsspkg.Template function</entry>
+<entry keyword="spsspkg.processcmd function">
+<topic label="Implementation Code" href="rtut_extcmds_code.htm"/>spsspkg.processcmd function</entry>
+<entry keyword="custom dialogs">
+<topic label="Creating Custom Dialogs" href="rtut_customdialogs_intro.htm"/>custom dialogs</entry>
+<entry keyword="custom dialogs">
+<topic label="Creating the Syntax Template" href="rtut_customdialogs_extcmd_syntax.htm"/>custom dialogs<entry keyword="syntax template">
+<topic label="Creating the Syntax Template" href="rtut_customdialogs_extcmd_syntax.htm"/>syntax template</entry>
+</entry>
+<entry keyword="syntax template">
+<topic label="Creating the Syntax Template" href="rtut_customdialogs_extcmd_syntax.htm"/>syntax template</entry>
+<entry keyword="custom dialogs">
+<topic label="Saving Your Custom Dialog" href="rtut_customdialogs_extcmd_saving.htm"/>custom dialogs<entry keyword="saving">
+<topic label="Saving Your Custom Dialog" href="rtut_customdialogs_extcmd_saving.htm"/>saving</entry>
+</entry>
+<entry keyword="custom dialogs">
+<topic label="Creating the Syntax Template" href="rtut_customdialogs_rcode_syntax.htm"/>custom dialogs<entry keyword="syntax template">
+<topic label="Creating the Syntax Template" href="rtut_customdialogs_rcode_syntax.htm"/>syntax template</entry>
+</entry>
+<entry keyword="syntax template">
+<topic label="Creating the Syntax Template" href="rtut_customdialogs_rcode_syntax.htm"/>syntax template</entry>
+<entry keyword="custom dialogs">
+<topic label="Installing Your Dialog" href="rtut_customdialogs_rcode_install.htm"/>custom dialogs<entry keyword="installing">
+<topic label="Installing Your Dialog" href="rtut_customdialogs_rcode_install.htm"/>installing</entry>
+</entry>
+<entry keyword="custom dialogs">
+<topic label="Sharing Your Dialog with Other Users" href="rtut_customdialogs_rcode_share.htm"/>custom dialogs<entry keyword="distributing">
+<topic label="Sharing Your Dialog with Other Users" href="rtut_customdialogs_rcode_share.htm"/>distributing</entry>
+</entry>
+<entry keyword="extension bundles">
+<topic label="Deploying Custom Components" href="rtut_extbundles_intro.htm"/>extension bundles</entry>
+<entry keyword="extension bundles">
+<topic label="Creating an Extension Bundle" href="rtut_extbundles_create.htm"/>extension bundles<entry keyword="creating">
+<topic label="Creating an Extension Bundle" href="rtut_extbundles_create.htm"/>creating</entry>
+</entry>
+<entry keyword="extension bundles">
+<topic label="Installing an Extension Bundle" href="rtut_extbundles_install.htm"/>extension bundles<entry keyword="installing">
+<topic label="Installing an Extension Bundle" href="rtut_extbundles_install.htm"/>installing</entry>
+</entry>
+</index>

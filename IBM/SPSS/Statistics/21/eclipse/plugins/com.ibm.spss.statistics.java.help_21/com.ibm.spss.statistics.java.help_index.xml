@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<index xmlns:xi="http://www.w3.org/2001/XInclude">
+<entry keyword="Java">
+<topic label="Getting started with the Integration Plug-in for Java" href="programmability_java_guide_start.htm"/>Java<entry keyword="using Java within IBM SPSS Statistics">
+<topic label="Getting started with the Integration Plug-in for Java" href="programmability_java_guide_start.htm"/>using Java within </entry>
+</entry>
+<entry keyword="Java">
+<topic label="Running IBM SPSS Statistics commands (Java)" href="programmability_java_guide_commands.htm"/>Java<entry keyword="Submit method">
+<topic label="Running IBM SPSS Statistics commands (Java)" href="programmability_java_guide_commands.htm"/>Submit method</entry>
+</entry>
+<entry keyword="running command syntax from Java">
+<topic label="Running IBM SPSS Statistics commands (Java)" href="programmability_java_guide_commands.htm"/>running command syntax from Java</entry>
+<entry keyword="dictionary">
+<topic label="Retrieving dictionary information (Java)" href="programmability_java_guide_vardict.htm"/>dictionary<entry keyword="reading dictionary information from Java">
+<topic label="Retrieving dictionary information (Java)" href="programmability_java_guide_vardict.htm"/>reading dictionary information from Java</entry>
+</entry>
+<entry keyword="data">
+<topic label="Working with case data in the active dataset (Java)" href="programmability_java_guide_cursors.htm"/>data<entry keyword="reading active dataset from Java">
+<topic label="Working with case data in the active dataset (Java)" href="programmability_java_guide_cursors.htm"/>reading active dataset from Java</entry>
+<entry keyword="creating new variables">
+<topic label="Working with case data in the active dataset (Java)" href="programmability_java_guide_cursors.htm"/>creating
+new variables</entry>
+<entry keyword="appending cases">
+<topic label="Working with case data in the active dataset (Java)" href="programmability_java_guide_cursors.htm"/>appending cases</entry>
+</entry>
+<entry keyword="data">
+<topic label="Reading case data (Java)" href="programmability_java_guide_cursors_read.htm"/>data<entry keyword="reading active dataset from Java">
+<topic label="Reading case data (Java)" href="programmability_java_guide_cursors_read.htm"/>reading active dataset from Java</entry>
+</entry>
+<entry keyword="Java">
+<topic label="Reading case data (Java)" href="programmability_java_guide_cursors_read.htm"/>Java<entry keyword="DataUtil class">
+<topic label="Reading case data (Java)" href="programmability_java_guide_cursors_read.htm"/>DataUtil class</entry>
+</entry>
+<entry keyword="data">
+<topic label="Creating new variables in the active dataset (Java)" href="programmability_java_guide_cursors_write.htm"/>data<entry keyword="creating new variables">
+<topic label="Creating new variables in the active dataset (Java)" href="programmability_java_guide_cursors_write.htm"/>creating new variables</entry>
+</entry>
+<entry keyword="data">
+<topic label="Appending new cases (Java)" href="programmability_java_guide_cursors_append.htm"/>data<entry keyword="appending cases">
+<topic label="Appending new cases (Java)" href="programmability_java_guide_cursors_append.htm"/>appending cases</entry>
+</entry>
+<entry keyword="output">
+<topic label="Retrieving output from syntax commands (Java)" href="programmability_java_guide_getoutput.htm"/>output<entry keyword="reading output results from Java">
+<topic label="Retrieving output from syntax commands (Java)" href="programmability_java_guide_getoutput.htm"/>reading output results from Java</entry>
+</entry>
+<entry keyword="OXML">
+<topic label="Retrieving output from syntax commands (Java)" href="programmability_java_guide_getoutput.htm"/>OXML<entry keyword="reading output XML from Java">
+<topic label="Retrieving output from syntax commands (Java)" href="programmability_java_guide_getoutput.htm"/>reading output XML from Java</entry>
+</entry>
+<entry keyword="Java">
+<topic label="Retrieving output from syntax commands (Java)" href="programmability_java_guide_getoutput.htm"/>Java<entry keyword="evaluateXPath method">
+<topic label="Retrieving output from syntax commands (Java)" href="programmability_java_guide_getoutput.htm"/>evaluateXPath method</entry>
+</entry>
+<entry keyword="XML workspace">
+<topic label="Retrieving output from syntax commands (Java)" href="programmability_java_guide_getoutput.htm"/>XML workspace</entry>
+<entry keyword="XPath expressions">
+<topic label="Retrieving output from syntax commands (Java)" href="programmability_java_guide_getoutput.htm"/>XPath expressions</entry>
+<entry keyword="pivot tables">
+<topic label="Creating pivot tables (Java)" href="programmability_java_guide_makeoutput_tables.htm"/>pivot tables</entry>
+</index>
